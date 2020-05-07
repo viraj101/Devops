@@ -1,0 +1,1319 @@
+{
+    "system": "IMPERIAL",
+    "unit_groups": [
+        {
+            "id": "null",
+            "title": "Acceleration",
+            "units": [
+                {
+                    "id": "m/s²",
+                    "title": "m/s²",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Angle",
+            "units": [
+                {
+                    "id": "rad",
+                    "title": "rad",
+                    "decimal": 2,
+                    "significant": 0,
+                    "default": true
+                },
+                {
+                    "id": "Grad",
+                    "title": "Grad",
+                    "decimal": 1,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Angular Momentum",
+            "units": [
+                {
+                    "id": "mm²/s",
+                    "title": "mm²/s",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": true
+                },
+                {
+                    "id": "m²/s",
+                    "title": "m²/s",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Apparent Power",
+            "units": [
+                {
+                    "id": "kVA",
+                    "title": "kVA",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "MVA",
+                    "title": "MVA",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Area",
+            "units": [
+                {
+                    "id": "in²",
+                    "title": "in²",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": true
+                },
+                {
+                    "id": "ft²",
+                    "title": "ft²",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                },
+                {
+                    "id": "yd²",
+                    "title": "yd²",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                },
+                {
+                    "id": "acre",
+                    "title": "acre",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "mile²",
+                    "title": "mile²",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Capacitance",
+            "units": [
+                {
+                    "id": "µF",
+                    "title": "µF",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": true
+                },
+                {
+                    "id": "pF",
+                    "title": "pF",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "mF",
+                    "title": "mF",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "nF",
+                    "title": "nF",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "F",
+                    "title": "F",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Conductance",
+            "units": [
+                {
+                    "id": "S",
+                    "title": "S",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Current",
+            "units": [
+                {
+                    "id": "A",
+                    "title": "A",
+                    "decimal": 1,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "µA",
+                    "title": "µA",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                },
+                {
+                    "id": "nA",
+                    "title": "nA",
+                    "decimal": 1,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "mA",
+                    "title": "mA",
+                    "decimal": 1,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "kA",
+                    "title": "kA",
+                    "decimal": 1,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Density",
+            "units": [
+                {
+                    "id": "lb/yd³",
+                    "title": "lb/yd³",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": true
+                },
+                {
+                    "id": "lb/ft³",
+                    "title": "lb/ft³",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Dynamic Viscosity",
+            "units": [
+                {
+                    "id": "cP",
+                    "title": "cP",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "P",
+                    "title": "P",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Energy",
+            "units": [
+                {
+                    "id": "ft lb",
+                    "title": "ft lb",
+                    "decimal": 3,
+                    "significant": 3,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Force",
+            "units": [
+                {
+                    "id": "MN",
+                    "title": "MN",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "N",
+                    "title": "N",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "kN",
+                    "title": "kN",
+                    "decimal": 3,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Frequency",
+            "units": [
+                {
+                    "id": "Hz",
+                    "title": "Hz",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "1/min",
+                    "title": "1/min",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "1/s",
+                    "title": "1/s",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "kHz",
+                    "title": "kHz",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "MHz",
+                    "title": "MHz",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Head",
+            "units": [
+                {
+                    "id": "ft",
+                    "title": "ft",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Heat capacity",
+            "units": [
+                {
+                    "id": "J/kg K",
+                    "title": "J/kg K",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Inductance",
+            "units": [
+                {
+                    "id": "mH",
+                    "title": "mH",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Kinematic Viscosity",
+            "units": [
+                {
+                    "id": "ft²/h",
+                    "title": "ft²/h",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": true
+                },
+                {
+                    "id": "in²/s",
+                    "title": "in²/s",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Length",
+            "units": [
+                {
+                    "id": "in",
+                    "title": "in",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "ft",
+                    "title": "ft",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "yd",
+                    "title": "yd",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "mile",
+                    "title": "mile",
+                    "decimal": 4,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Luminous Intensity",
+            "units": [
+                {
+                    "id": "cd",
+                    "title": "cd",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Loudness",
+            "units": [
+                {
+                    "id": "dBa",
+                    "title": "dBa",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Magnetic Field",
+            "units": [
+                {
+                    "id": "mT",
+                    "title": "mT",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "T",
+                    "title": "T",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Mass",
+            "units": [
+                {
+                    "id": "oz",
+                    "title": "oz",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "ton us",
+                    "title": "ton us",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "lb",
+                    "title": "lb",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Mass Flow",
+            "units": [
+                {
+                    "id": "lb/h",
+                    "title": "lb/h",
+                    "decimal": 3,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "lb/min",
+                    "title": "lb/min",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "lb/s",
+                    "title": "lb/s",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Mass Proportion",
+            "units": [
+                {
+                    "id": "g/hg",
+                    "title": "g/hg",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "g/kg",
+                    "title": "g/kg",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "kg/kg",
+                    "title": "kg/kg",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "%(m)",
+                    "title": "%(m)",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "mg/g",
+                    "title": "mg/g",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "mg/kg",
+                    "title": "mg/kg",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "ppb(m)",
+                    "title": "ppb(m)",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "ppm(m)",
+                    "title": "ppm(m)",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "ppt(m)",
+                    "title": "ppt(m)",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Molality",
+            "units": [
+                {
+                    "id": "mmol/g",
+                    "title": "mmol/g",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "mol/kg",
+                    "title": "mol/kg",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Molar Energy",
+            "units": [
+                {
+                    "id": "J/mol",
+                    "title": "J/mol",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "kJ/mol",
+                    "title": "kJ/mol",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Molar Mass",
+            "units": [
+                {
+                    "id": "g/mol",
+                    "title": "g/mol",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "kg/mol",
+                    "title": "kg/mol",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Molar Quantity",
+            "units": [
+                {
+                    "id": "kmol",
+                    "title": "kmol",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "mmol",
+                    "title": "mmol",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "mol",
+                    "title": "mol",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Moment",
+            "units": [
+                {
+                    "id": "ft lb",
+                    "title": "ft lb",
+                    "decimal": 3,
+                    "significant": 3,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Moment of Inertia",
+            "units": [
+                {
+                    "id": "g m²",
+                    "title": "g m²",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": true
+                },
+                {
+                    "id": "kg cm²",
+                    "title": "kg cm²",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                },
+                {
+                    "id": "kg mm²",
+                    "title": "kg mm²",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                },
+                {
+                    "id": "kg m²",
+                    "title": "kg m²",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "None",
+            "units": [
+                {
+                    "id": "-",
+                    "title": "-",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Power",
+            "units": [
+                {
+                    "id": "hp",
+                    "title": "hp",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Pressure",
+            "units": [
+                {
+                    "id": "psi",
+                    "title": "psi",
+                    "decimal": 3,
+                    "significant": 3,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Proportion",
+            "units": [
+                {
+                    "id": "%",
+                    "title": "%",
+                    "decimal": 2,
+                    "significant": 4,
+                    "default": true
+                },
+                {
+                    "id": "‰",
+                    "title": "‰",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                },
+                {
+                    "id": "One",
+                    "title": "One",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "ppb",
+                    "title": "ppb",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "ppm",
+                    "title": "ppm",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "ppt",
+                    "title": "ppt",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Quantity",
+            "units": [
+                {
+                    "id": "Million",
+                    "title": "Million",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Radioactivity",
+            "units": [
+                {
+                    "id": "Bq/kg",
+                    "title": "Bq/kg",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "kBq/kg",
+                    "title": "kBq/kg",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Resistance",
+            "units": [
+                {
+                    "id": "GOhm",
+                    "title": "GOhm",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "MOhm",
+                    "title": "MOhm",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "Ohm",
+                    "title": "Ohm",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "kOhm",
+                    "title": "kOhm",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Specific Energy",
+            "units": [
+                {
+                    "id": "J/kg",
+                    "title": "J/kg",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "KJ/kg",
+                    "title": "KJ/kg",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Speed",
+            "units": [
+                {
+                    "id": "ft/s",
+                    "title": "ft/s",
+                    "decimal": 4,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "mph",
+                    "title": "mph",
+                    "decimal": 4,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Speed of Rotation",
+            "units": [
+                {
+                    "id": "rps",
+                    "title": "rps",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "rpm",
+                    "title": "rpm",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Surface Density",
+            "units": [
+                {
+                    "id": "g/m²",
+                    "title": "g/m²",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": true
+                },
+                {
+                    "id": "kg/m²",
+                    "title": "kg/m²",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                },
+                {
+                    "id": "mg/cm²",
+                    "title": "mg/cm²",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                },
+                {
+                    "id": "kg/cm²",
+                    "title": "kg/cm²",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Surface Tension",
+            "units": [
+                {
+                    "id": "mN/m",
+                    "title": "mN/m",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "N/m",
+                    "title": "N/m",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Thermodynamic Temperature",
+            "units": [
+                {
+                    "id": "°F",
+                    "title": "°F",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Temperature Rate",
+            "units": [
+                {
+                    "id": "K/min",
+                    "title": "K/min",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "K/s",
+                    "title": "K/s",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Time",
+            "units": [
+                {
+                    "id": "µs",
+                    "title": "µs",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": true
+                },
+                {
+                    "id": "ms",
+                    "title": "ms",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "ns",
+                    "title": "ns",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "ps",
+                    "title": "ps",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "s",
+                    "title": "s",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "cmin",
+                    "title": "cmin",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "min",
+                    "title": "min",
+                    "decimal": 1,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "hrs",
+                    "title": "hrs",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "Days",
+                    "title": "Days",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "Weeks",
+                    "title": "Weeks",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "Months",
+                    "title": "Months",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "Years",
+                    "title": "Years",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Voltage",
+            "units": [
+                {
+                    "id": "mV",
+                    "title": "mV",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                },
+                {
+                    "id": "V",
+                    "title": "V",
+                    "decimal": 0,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "kV",
+                    "title": "kV",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Volumatric Proportion",
+            "units": [
+                {
+                    "id": "m³/m³",
+                    "title": "m³/m³",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": true
+                },
+                {
+                    "id": "ml/m³",
+                    "title": "ml/m³",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                },
+                {
+                    "id": "%(V)",
+                    "title": "%(V)",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "ppb(V)",
+                    "title": "ppb(V)",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "ppm(V)",
+                    "title": "ppm(V)",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "ppt(V)",
+                    "title": "ppt(V)",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Volume",
+            "units": [
+                {
+                    "id": "in³",
+                    "title": "in³",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": true
+                },
+                {
+                    "id": "FOZ",
+                    "title": "FOZ",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "pt US",
+                    "title": "pt US",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "qt US",
+                    "title": "qt US",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "gal us",
+                    "title": "gal us",
+                    "decimal": 4,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "ft³",
+                    "title": "ft³",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                },
+                {
+                    "id": "yd³",
+                    "title": "yd³",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Volume Flow",
+            "units": [
+                {
+                    "id": "UK GPM",
+                    "title": "UK GPM",
+                    "decimal": 3,
+                    "significant": 0,
+                    "default": true
+                },
+                {
+                    "id": "US GPM",
+                    "title": "US GPM",
+                    "decimal": 4,
+                    "significant": 3,
+                    "default": false
+                },
+                {
+                    "id": "ft³/h",
+                    "title": "ft³/h",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                },
+                {
+                    "id": "ft³/min",
+                    "title": "ft³/min",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                },
+                {
+                    "id": "ft³/s",
+                    "title": "ft³/s",
+                    "decimal": 0,
+                    "significant": 0,
+                    "default": false
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "Thermal conductivity",
+            "units": [
+                {
+                    "id": "W/(m.K)",
+                    "title": "W/(m.K)",
+                    "decimal": 2,
+                    "significant": 3,
+                    "default": true
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "title": "%",
+            "units": [
+                {
+                    "id": "%",
+                    "title": "%",
+                    "decimal": 3,
+                    "significant": 4,
+                    "default": true
+                }
+            ]
+        }
+    ]
+}

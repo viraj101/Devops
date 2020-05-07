@@ -1,0 +1,591 @@
+{
+    "page": 10,
+    "limit": 10,
+    "total": 122,
+    "lang": "049",
+    "searchQueryId": "3",
+    "products": [
+        {
+            "id": "-1",
+            "target_configurator": "EasySelect",
+            "start_params": {
+                "product_xml": "some xml",
+                "start_params": "some param"
+            },
+            "exclude_message": null,
+            "attributes": [
+                {
+                    "feature_id": "ACTV_HDRLC_CMPNNT",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "RCM_dummy",
+                    "visible": true
+                },
+                {
+                    "feature_id": "BACK_PULL_OUT_UNIT",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "0",
+                    "visible": true
+                },
+                {
+                    "feature_id": "CMPNNT_PRDCT_LINE",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "E04B",
+                    "visible": true
+                },
+                {
+                    "feature_id": "CPLNG",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "",
+                    "visible": true
+                },
+                {
+                    "feature_id": "CPLNG_GRD",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "",
+                    "visible": true
+                },
+                {
+                    "feature_id": "DSCHRG_HEAD",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "50.025437",
+                    "visible": true
+                },
+                {
+                    "feature_id": "EFFCNC_FCTR_PUMP",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "48.009083",
+                    "visible": true
+                },
+                {
+                    "feature_id": "GRSS_PRC",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "4623.86",
+                    "visible": true
+                },
+                {
+                    "feature_id": "INSTLLTN_PUMP_SET",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "1",
+                    "visible": true
+                },
+                {
+                    "feature_id": "IS_DISCARDED_SEARCH_RESULT",
+                    "type": "Boolean",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "false",
+                    "visible": false
+                },
+                {
+                    "feature_id": "MNS_FRQNC",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "50",
+                    "visible": true
+                },
+                {
+                    "feature_id": "MTR",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "1",
+                    "visible": true
+                },
+                {
+                    "feature_id": "MTRL_ACTV_HDRLC_CMPNNT",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "1819",
+                    "visible": true
+                },
+                {
+                    "feature_id": "MTRL_CSNG_CVR",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "1819",
+                    "visible": true
+                },
+                {
+                    "feature_id": "MTRL_HDRLC_CSNG",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "1819",
+                    "visible": true
+                },
+                {
+                    "feature_id": "OPRTN_ON_FRQNC_INVRTR",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "CNTRLLD",
+                    "visible": true
+                },
+                {
+                    "feature_id": "PRODUCT_CLASS",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "E04B_cQ",
+                    "visible": false
+                },
+                {
+                    "feature_id": "ProductFamily",
+                    "type": "StringList",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "CENTRI_PMP",
+                    "visible": true
+                },
+                {
+                    "feature_id": "RT_Q_QOPT",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "28.989046",
+                    "visible": true
+                },
+                {
+                    "feature_id": "TYPE_SRS_SIZE",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "0100_0080_0200",
+                    "visible": true
+                },
+                {
+                    "feature_id": "description",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": null,
+                    "visible": true
+                },
+                {
+                    "feature_id": "ksbRank",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "5",
+                    "visible": true
+                },
+                {
+                    "feature_id": "name",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "E04B",
+                    "visible": true
+                },
+                {
+                    "feature_id": "productClass",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "E04B_cQ",
+                    "visible": false
+                },
+                {
+                    "feature_id": "sourceSystem",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "KSBase",
+                    "visible": false
+                },
+                {
+                    "feature_id": "xml_RequestOperatingPoints",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "88D33611A093494E900997EC6F7E5054",
+                    "visible": false
+                },
+                {
+                    "feature_id": "xml_ResultOperatingPoints",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "920585C51162174FAB3F60DCB55CF563",
+                    "visible": false
+                },
+                {
+                    "feature_id": "xml_configuredHyrd",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "74DD6A8141B23F41869005B3C48C61BA",
+                    "visible": false
+                }
+            ]
+        },
+        {
+            "id": "-2",
+            "target_configurator": "KSBase",
+            "start_params": {
+                "product_xml": "some xml",
+                "start_params": "some param"
+            },
+            "exclude_message": null,
+            "attributes": [
+                {
+                    "feature_id": "ACTV_HDRLC_CMPNNT",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "RCM_dummy",
+                    "visible": true
+                },
+                {
+                    "feature_id": "BACK_PULL_OUT_UNIT",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "0",
+                    "visible": true
+                },
+                {
+                    "feature_id": "CMPNNT_PRDCT_LINE",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "E04B",
+                    "visible": true
+                },
+                {
+                    "feature_id": "CPLNG",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "",
+                    "visible": true
+                },
+                {
+                    "feature_id": "CPLNG_GRD",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "",
+                    "visible": true
+                },
+                {
+                    "feature_id": "DSCHRG_HEAD",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "50.025437",
+                    "visible": true
+                },
+                {
+                    "feature_id": "EFFCNC_FCTR_PUMP",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "48.009083",
+                    "visible": true
+                },
+                {
+                    "feature_id": "GRSS_PRC",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "4623.86",
+                    "visible": true
+                },
+                {
+                    "feature_id": "INSTLLTN_PUMP_SET",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "1",
+                    "visible": true
+                },
+                {
+                    "feature_id": "IS_DISCARDED_SEARCH_RESULT",
+                    "type": "Boolean",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "false",
+                    "visible": false
+                },
+                {
+                    "feature_id": "MNS_FRQNC",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "50",
+                    "visible": true
+                },
+                {
+                    "feature_id": "MTR",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "1",
+                    "visible": true
+                },
+                {
+                    "feature_id": "MTRL_ACTV_HDRLC_CMPNNT",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "1819",
+                    "visible": true
+                },
+                {
+                    "feature_id": "MTRL_CSNG_CVR",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "1819",
+                    "visible": true
+                },
+                {
+                    "feature_id": "MTRL_HDRLC_CSNG",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "1819",
+                    "visible": true
+                },
+                {
+                    "feature_id": "OPRTN_ON_FRQNC_INVRTR",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "CNTRLLD",
+                    "visible": true
+                },
+                {
+                    "feature_id": "PRODUCT_CLASS",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "E04B_cQ",
+                    "visible": false
+                },
+                {
+                    "feature_id": "ProductFamily",
+                    "type": "StringList",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "CENTRI_PMP",
+                    "visible": true
+                },
+                {
+                    "feature_id": "RT_Q_QOPT",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "28.989046",
+                    "visible": true
+                },
+                {
+                    "feature_id": "TYPE_SRS_SIZE",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "0100_0080_0200",
+                    "visible": true
+                },
+                {
+                    "feature_id": "description",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": null,
+                    "visible": true
+                },
+                {
+                    "feature_id": "ksbRank",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "5",
+                    "visible": true
+                },
+                {
+                    "feature_id": "name",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "E04B",
+                    "visible": true
+                },
+                {
+                    "feature_id": "productClass",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "E04B_cQ",
+                    "visible": false
+                },
+                {
+                    "feature_id": "sourceSystem",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "KSBase",
+                    "visible": false
+                },
+                {
+                    "feature_id": "xml_RequestOperatingPoints",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "88D33611A093494E900997EC6F7E5054",
+                    "visible": false
+                },
+                {
+                    "feature_id": "xml_ResultOperatingPoints",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "920585C51162174FAB3F60DCB55CF563",
+                    "visible": false
+                },
+                {
+                    "feature_id": "xml_configuredHyrd",
+                    "type": "String",
+                    "unit_id": null,
+                    "unit_group_id": null,
+                    "title": null,
+                    "domain_values": [],
+                    "feature_value": "74DD6A8141B23F41869005B3C48C61BA",
+                    "visible": false
+                }
+            ]
+        }               
+    ]
+}

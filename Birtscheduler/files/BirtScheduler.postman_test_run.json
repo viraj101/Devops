@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "ed561ab3-385f-42ec-ae5e-3b954f0bb77d",
+		"name": "BirtScheduler",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "createJob",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"pluginDatasourcePath\":\"C:/Users/dhamson/Documents/My Received Files/TechnicalDatasheet-1.xml\",\n\"fixTextDatasourcePath\":\"C:/Users/dhamson/Documents/My Received Files/FixTextData-1.xml\",\n\"templateFilePath\":\"C:/Users/dhamson/Documents/My Received Files/GNRL_ARR_DRW_FRCS_MMNTS.rptdesign\",\n\"position\":\"100\",\n\"outputFileName\":\"C:/Users/dhamson/Documents/My Received Files/reports/11Apr19_5.pdf\",\n\"outPutFormat\":\"pdf\",\n\"imagePath\":\"C:/Users/dhamson/Documents/My Received Files/100-TechnicalDatasheet-GNRL_ARR_DRW_FRCS_MMNTS.svg\",\n\"numberOfImages\":\"0\",\n\"startPageNumber\":\"0\"}"
+				},
+				"url": {
+					"raw": "http://localhost:8080/createJob",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"createJob"
+					]
+				},
+				"description": "birtScheduler_create Job"
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

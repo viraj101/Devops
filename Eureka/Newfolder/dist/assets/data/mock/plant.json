@@ -1,0 +1,50 @@
+{
+    "applicationWizardItems": [
+      {
+        "id": "plant",
+        "type": "plant",
+        "title": "plant11"
+      },
+      {
+        "id": "plant12",
+        "type": "plant",
+        "title": "plant12"
+      },
+      {
+        "id": "plant2",
+        "type": "plant",
+        "title": "plant2"
+      },
+      {
+        "id": "plant3",
+        "type": "plant",
+        "title": "plant3"
+      },
+      {
+        "id": "plant4",
+        "type": "plant",
+        "title": "plant4"
+      },
+      {
+        "id": "plant5",
+        "type": "plant",
+        "title": "plant5"
+      },
+      {
+        "id": "plant6",
+        "type": "plant",
+        "title": "plant6"
+      },
+      {
+        "id": "plant7",
+        "type": "plant",
+        "title": "plant7"
+      },
+      {
+        "id": "plant8",
+        "type": "plant",
+        "title": "plant8"
+      }
+    ]
+  }  
+  

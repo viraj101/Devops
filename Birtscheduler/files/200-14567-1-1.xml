@@ -1,0 +1,3397 @@
+<?xml version="1.0"?>
+<EXPORTDOCUMENTDATA>
+<CREATIONDATE>30/04/2020</CREATIONDATE>
+<CUSTOMERCITY></CUSTOMERCITY>
+<CUSTOMERCOUNTRY></CUSTOMERCOUNTRY>
+<CUSTOMERLANGUAGE></CUSTOMERLANGUAGE>
+<CUSTOMERNAME></CUSTOMERNAME>
+<CUSTOMERNUMBER></CUSTOMERNUMBER>
+<CUSTOMERPOSTCODE></CUSTOMERPOSTCODE>
+<CUSTOMERSTREET></CUSTOMERSTREET>
+<DOCUMENTNO>14567</DOCUMENTNO>
+<DOCVERSION>1</DOCVERSION>
+<ISORDER>0</ISORDER>
+<ISWEBSHOP>0</ISWEBSHOP>
+<PODATE>30/04/2020</PODATE>
+<SAPDOCUMENTNO></SAPDOCUMENTNO>
+<SERIALIZATIONID>7D5D67D4B309E44BBE88A76F0223FE1F</SERIALIZATIONID>
+<SUBJECT></SUBJECT>
+<USERMAIL>christopher.seifert@ksb.com</USERMAIL>
+<USERNAME>seifchr</USERNAME>
+<EXPORTITEMDATA>
+<CUSTOMERITEMNUMBER></CUSTOMERITEMNUMBER>
+<ISBT3></ISBT3>
+<ISCONFLICTFREE>0</ISCONFLICTFREE>
+<ITEMTEXT></ITEMTEXT>
+<KKSNR></KKSNR>
+<NAME>ETN 080-065-200-GGSAA11GS2AB2DBB</NAME>
+<OBJDESCRIPTION></OBJDESCRIPTION>
+<OPTIONALITEMTEXT></OPTIONALITEMTEXT>
+<POSITIONNAME>ETN 080-065-200-GGSAA11GS2AB2DBB</POSITIONNAME>
+<POSNO>200</POSNO>
+<QUANTITY>1</QUANTITY>
+<VERSION>6001.1</VERSION>
+<ITEM>
+<MODULEEXISTS lang="A10">1</MODULEEXISTS>
+<MODULEEXISTS lang="A15">1</MODULEEXISTS>
+<MODULEEXISTS lang="A50">1</MODULEEXISTS>
+<MODULEEXISTS lang="B10">1</MODULEEXISTS>
+<MODULEEXISTS lang="D10">1</MODULEEXISTS>
+<MODULEEXISTS lang="F10">1</MODULEEXISTS>
+<MODULEEXISTS lang="G10">1</MODULEEXISTS>
+<MODULEEXISTS lang="K10">0</MODULEEXISTS>
+<MODULEEXISTS lang="N12">0</MODULEEXISTS>
+<MODULEEXISTS lang="N21">1</MODULEEXISTS>
+<MODULEEXISTS lang="P28A_N10">1</MODULEEXISTS>
+<MODULEEXISTS lang="P28A_N20">1</MODULEEXISTS>
+<MODULEEXISTS lang="P28A_U27">1</MODULEEXISTS>
+<MODULEEXISTS lang="T10">1</MODULEEXISTS>
+<MODULEEXISTS lang="U10">0</MODULEEXISTS>
+<MODULEEXISTS lang="U12">0</MODULEEXISTS>
+<MODULEEXISTS lang="U14">0</MODULEEXISTS>
+<MODULEEXISTS lang="U15">0</MODULEEXISTS>
+<MODULEEXISTS lang="U16">1</MODULEEXISTS>
+<MODULEEXISTS lang="U20">1</MODULEEXISTS>
+<MODULEEXISTS lang="U21">1</MODULEEXISTS>
+<MODULEEXISTS lang="U22">1</MODULEEXISTS>
+<MODULEEXISTS lang="U50">1</MODULEEXISTS>
+<MODULEEXISTS lang="V10">1</MODULEEXISTS>
+<MODULEEXISTS lang="Z10">1</MODULEEXISTS>
+</ITEM>
+<FEATURE name="TenderText">
+<VALUE>Etanorm (ETN) low-pressure centrifugal pump, standardised pump made by
+KSB
+
+Horizontal single-stage volute casing pump, single-stage, ratings to EN
+733, radially split volute casing, volute
+casing with integrally cast pump feet, long-coupled design. The pump is
+designed with replaceable casing wear
+rings, closed radial impeller with multiply curved vanes, single
+mechanical seal or double mechanical seals to
+EN 12756, shaft equipped with replaceable shaft protecting sleeve in the
+shaft seal area. The back pull-out design
+allows the coupling, bearing brackets and impeller to be dismantled
+without the need to disconnect the pump
+casing from the piping.
+
+Compliant with ErP Directive 2009/125/EC. Meets the ecodesign
+requirements established in 2015 for water
+pumps with a maximum shaft power of 150 kW as per EU regulation
+547/2012; the MEI values (min. &gt;= 0.4) are
+documented on the name plate and in the data sheet
+ </VALUE>
+</FEATURE>
+<FEATURE name="P28A_TenderText">
+<VALUE>PumpMeter
+
+Intelligent pressure transmitter PumpMeter with on-site display of
+operating point
+
+General description:
+PumpMeter is an intelligent pressure transmitter with on-site display of
+measured values and pump operating data. It is supplied completely
+assembled and parameterised for the individual pump. PumpMeter is ready
+for operation as soon as the M12 plug connector is plugged in. PumpMeter
+records the load profile of the pump during operation in order to
+indicate any potential for optimising the energy efficiency and
+availability of your pumping system.
+
+Display unit:
+Backlit display for on-site display of measured values and pump
+operating data in a straightforward manner based on international
+symbols, rotatable in steps of 90°.
+
+Values displayed:
+Suction pressure, pressure at pump inlet in bar(g)
+Discharge pressure, pressure at pump outlet in bar(g)
+Differential pressure between pump inlet and outlet in bar
+Qualitative indication of the operating point
+
+Connection of display unit via M12 x 1 5-pin connector, for power supply
+and utilisation of communication interfaces. Data options available:
+measured discharge pressure or calculated differential pressure of the
+pump via analog 4 - 20 mA signal or serial interface RS 485 (Modbus
+RTU).
+
+Communication via RS232 service interface for parameterisation.
+Parameters factory-set for the individual pump.
+
+Ambient conditions:
+Enclosure: IP65
+Ambient temperature
+-30°C … 80°C (transport, storage)
+-10°C … 60°C (operation)
+Fluid temperature: -30°C to 140°C
+
+Material resistance:
+UV-resistant (suitable for outdoor installation)
+Resistant to most commonly used cleaning agents
+Resistant to oil mist
+
+Silicone-free:
+Manufactured without paint wetting impairment substances
+
+Electrical data:
+Power supply:
+24V DC ± 10%, min. 140 mA
+Interfaces, alternatives: 4 - 20 mA, 3-wire (discharge pressure or
+differential pressure)
+RS485, Modbus RTU (Slave)
+Service interface: RS232
+EMC:
+EN 61326-1 (interference immunity for industrial environments,
+interference emission for residential environments)
+
+Sensors:
+Two gauge pressure sensors - one sensor factory-mounted at the pump
+inlet and outlet, respectively, and connected to the analysing unit by
+plug-type connector.
+Measuring accuracy (sum of all errors relative to the measuring range):
+±1% for a fluid temperature of -10 to 100 °C
+±2.5% for a fluid temperature of -30 to -10 °C and 100 to 140 °C
+Measuring cell material: stainless steel (sealless)
+Available measuring ranges:
+-1 ...||PRSSR_MAX_SNSR_SCNTN_NZZL| bar (gauge pressure)
+-1 ...||PRSSR_MAX_SNSR_DSCHRG_NZZL| bar (gauge pressure)
+ </VALUE>
+</FEATURE>
+<FEATURE name="ACCPTNC">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Acceptance test/inspection</NAME>
+</FEATURE>
+<FEATURE name="ACTV_HDRLC_CMPNNT">
+<VALUE>Closed rad multi-channel imp </VALUE>
+<TECHNICALVALUE>RCM</TECHNICALVALUE>
+<NAME>Impeller</NAME>
+</FEATURE>
+<FEATURE name="ADDTNL_TEXT_NMPLT">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Additional text Name plate</NAME>
+</FEATURE>
+<FEATURE name="ALTTD_ABV_SEA_LVL">
+<VALUE>1640 ft</VALUE>
+<UNIT>ft</UNIT>
+<TECHNICALVALUE>500</TECHNICALVALUE>
+<NAME>Installation altitude above sea level</NAME>
+</FEATURE>
+<FEATURE name="BACK_PULL_OUT_UNIT">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Back pull-out unit</NAME>
+</FEATURE>
+<FEATURE name="BFFR_FLD_PRSSR">
+<VALUE>0 psi</VALUE>
+<UNIT>psi</UNIT>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Barrier fluid pressure</NAME>
+</FEATURE>
+<FEATURE name="BFFR_FLD_QNTT">
+<VALUE>0 ft³/h</VALUE>
+<UNIT>ft³/h</UNIT>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity Barrier fluid</NAME>
+</FEATURE>
+<FEATURE name="BLNCNG_GRD_ACTV_HDRLC">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Balance quality grade Impeller</NAME>
+</FEATURE>
+<FEATURE name="BLNCNG_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Balancing test</NAME>
+</FEATURE>
+<FEATURE name="BLNCNG_TEST_ACTV_HDRLC">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Balancing test Impeller</NAME>
+</FEATURE>
+<FEATURE name="BLNCNG_TEST_CPLNG">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Balancing test Coupling</NAME>
+</FEATURE>
+<FEATURE name="BLNCNG_TEST_RTR">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Balancing test Rotor</NAME>
+</FEATURE>
+<FEATURE name="BLNCNG_TEST_SHFT">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Balancing test Shaft</NAME>
+</FEATURE>
+<FEATURE name="BRNG_BRCKT_DSGN">
+<VALUE>medium </VALUE>
+<TECHNICALVALUE>MDM</TECHNICALVALUE>
+<NAME>Bearing bracket design</NAME>
+</FEATURE>
+<FEATURE name="BRNG_BRCKT_SIZE_SHFT_UNIT">
+<VALUE>25 </VALUE>
+<TECHNICALVALUE>25</TECHNICALVALUE>
+<NAME>Bearing bracket / shaft unit</NAME>
+</FEATURE>
+<FEATURE name="BRNG_BRCKT_TYPE">
+<VALUE>Bearing bracket </VALUE>
+<TECHNICALVALUE>BRNG_BRCKT</TECHNICALVALUE>
+<NAME>Bearing bracket type</NAME>
+</FEATURE>
+<FEATURE name="BRNG_TMPRTR_TEST_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested Bearing temperature measurement without customer</NAME>
+</FEATURE>
+<FEATURE name="BRNG_TMPRTR_TEST_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested Bearing temperature measurement with customer</NAME>
+</FEATURE>
+<FEATURE name="BSPLT_DRN">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Leakage drain Baseplate</NAME>
+</FEATURE>
+<FEATURE name="BSPLT_SIZE">
+<VALUE>4A </VALUE>
+<TECHNICALVALUE>4A</TECHNICALVALUE>
+<NAME>Baseplate size</NAME>
+</FEATURE>
+<FEATURE name="BSPLT_TYPE">
+<VALUE>Folded plate/U-section </VALUE>
+<TECHNICALVALUE>UP</TECHNICALVALUE>
+<NAME>Baseplate type</NAME>
+</FEATURE>
+<FEATURE name="CHMCL_ANLSS_ACTV_HDRLC">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Chemical analysis Impeller</NAME>
+</FEATURE>
+<FEATURE name="CHMCL_ANLSS_HDRLC_CSNG">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Chemical analysis Volute casing</NAME>
+</FEATURE>
+<FEATURE name="CHMCL_ANLSS_HDRLC_CSNG_CV">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Chemical analysis Casing cover</NAME>
+</FEATURE>
+<FEATURE name="CHMCL_ANLSS_PRTCTNG_SLV">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Chemical analysis Protective sleeve</NAME>
+</FEATURE>
+<FEATURE name="CHMCL_ANLSS_SHFT">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Chemical analysis Shaft</NAME>
+</FEATURE>
+<FEATURE name="CHMCL_ANLSS_WR_RING_DSD">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Chemical analysis Casing wear ring discharge-side</NAME>
+</FEATURE>
+<FEATURE name="CHMCL_ANLSS_WR_RING_SSD">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Chemical analysis Casing wear ring suction-side</NAME>
+</FEATURE>
+<FEATURE name="CLC_HEAD_LOSS_PPLN_SSTM">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Calculation Head loss Piping system suction-side</NAME>
+</FEATURE>
+<FEATURE name="CLR_TPCT">
+<VALUE>RAL5002 Ultramarine Blue </VALUE>
+<TECHNICALVALUE>RAL5002</TECHNICALVALUE>
+<NAME>Colour Top coat</NAME>
+</FEATURE>
+<FEATURE name="CLSS_STN_HDRLC_ACCPTNC">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Hydraulic acceptance test to acceptance standard</NAME>
+</FEATURE>
+<FEATURE name="CMMSSNNG_PUMP">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>Commissioning Pump</NAME>
+</FEATURE>
+<FEATURE name="CMPCT_DATA_SHT">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Compact data sheet</NAME>
+</FEATURE>
+<FEATURE name="CMPNNT_DSCRPTN">
+<VALUE>ETN 080-065-200-GGSAA11 </VALUE>
+<TECHNICALVALUE>ETN 080-065-200-GGSAA11</TECHNICALVALUE>
+<NAME>Product description</NAME>
+</FEATURE>
+<FEATURE name="CMPNNT_DSCRPTN_2">
+<VALUE>GS2AB2DBB </VALUE>
+<TECHNICALVALUE>GS2AB2DBB</TECHNICALVALUE>
+<NAME>Product description 2</NAME>
+</FEATURE>
+<FEATURE name="CMPNNT_PRDCT_LINE">
+<VALUE>KSB Etanorm [B] </VALUE>
+<TECHNICALVALUE>E04B</TECHNICALVALUE>
+<NAME>Component type series</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_31M_BSPLT">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Earthing connection 31M Baseplate</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_10A">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>10A External barrier fluid Outlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_10E">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>10E External barrier fluid Inlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_11E">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>11E Flushing liquid Inlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_12A">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>12A Circulation liquid Outlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_12E">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>12E Circulation liquid Inlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_13B">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>13B Oil Drain</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_13D">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>13D Oil Filling and venting</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_13H_MTRSD">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection type 13H Oil Monitoring/check, motor-end</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_13H_PMPSD">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection type 13H Oil Monitoring/check, pump-end</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_16B_CSNG_CVR">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection type 16B Condensate drain Casing cover</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_16B_HDRLC_CSNG">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection type 16B Condensate drain Hydraulic casing</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_16B_SEAL_CVR">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection type 16B Condensate drain Seal cover</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_19A">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection type 19A Heating liquid outlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_19E">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection type 16E Heating liquid inlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_1M_DSCHRG_NZZL">
+<VALUE>Pressure sensor </VALUE>
+<TECHNICALVALUE>PRSSRSNSR</TECHNICALVALUE>
+<NAME>1M Pressure gauge Discharge nozzle</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_1M_SCTN_NZZL">
+<VALUE>Pressure sensor </VALUE>
+<TECHNICALVALUE>PRSSRSNSR</TECHNICALVALUE>
+<NAME>1M Pressure gauge Suction nozzle</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_26M">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>26M Shock pulse measurement</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_4M">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>4M Temperature measurement connection</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_5B">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection type 5B Venting and drain</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_6B">
+<VALUE>Drilled and plugged </VALUE>
+<TECHNICALVALUE>PLUGGED</TECHNICALVALUE>
+<NAME>6B Fluid Drain</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_6D">
+<VALUE>Drilled and plugged </VALUE>
+<TECHNICALVALUE>PLUGGED</TECHNICALVALUE>
+<NAME>6D Fluid Filling and venting</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_7A">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection type 7A Cooling liquid outlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_7E">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection type 7E Cooling liquid inlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_EXCTN_8B">
+<VALUE>Drilled </VALUE>
+<TECHNICALVALUE>DRILLED</TECHNICALVALUE>
+<NAME>8B Leakage Drain</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_10A">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 10A External barrier fluid outlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_10E">
+<VALUE>without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 10E External barrier fluid inlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_11E">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 11E Flushing liquid inlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_12A">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 12A Circulation liquid outlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_12E">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 12E Circulation liquid inlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_13B">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 13B Oil drain</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_13D">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 13D Oil Filling and venting</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_13H_MTRSD">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 13H Oil Monitoring/check, motor-end</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_13H_PMPSD">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 13H Oil Monitoring/check, pump-end</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_16B_CSNG_CVR">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 16B Condensate drain Casing cover</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_16B_HDRLC_CSNG">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 16B Condensate drain Hydraulic casing</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_16B_SEAL_CVR">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 16B Condensate drain Seal cover</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_19A">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 19A Heating liquid outlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_19E">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 19E Heating liquid inlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_1M_DSCHRG_NZZL">
+<VALUE>G 3/8 </VALUE>
+<TECHNICALVALUE>G003_8</TECHNICALVALUE>
+<NAME>Connection size 1M Pressure gauge Discharge nozzle</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_1M_SCTN_NZZL">
+<VALUE>G 3/8 </VALUE>
+<TECHNICALVALUE>G003_8</TECHNICALVALUE>
+<NAME>Connection size 1M Pressure gauge Suction nozzle</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_24A">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 24A Quench liquid outlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_24E">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 24E Quench liquid inlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_26M">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 26M Shock pulse measurement</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_4M">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 4M Temperature measurement</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_5B">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 5B Vent and drain</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_6B">
+<VALUE>G 3/8 </VALUE>
+<TECHNICALVALUE>G003_8</TECHNICALVALUE>
+<NAME>Connection size 6B Fluid drain</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_6D">
+<VALUE>G 3/8 </VALUE>
+<TECHNICALVALUE>G003_8</TECHNICALVALUE>
+<NAME>Connection size 6D Fluid Filling and venting</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_7A">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 7A Cooling liquid outlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_7E">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Connection size 7A Cooling liquid inlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_SIZE_8B">
+<VALUE>G 1/2 </VALUE>
+<TECHNICALVALUE>G001_2</TECHNICALVALUE>
+<NAME>Connection size 8B Leakage Drain</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_STNDRD_INLT">
+<VALUE>EN1092-2 </VALUE>
+<TECHNICALVALUE>EN1092_2</TECHNICALVALUE>
+<NAME>Connection standard Inlet</NAME>
+</FEATURE>
+<FEATURE name="CNNCTN_STNDRD_OTLT">
+<VALUE>EN1092-2 </VALUE>
+<TECHNICALVALUE>EN1092_2</TECHNICALVALUE>
+<NAME>Connection standard Outlet</NAME>
+</FEATURE>
+<FEATURE name="CPLNG">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>Coupling</NAME>
+</FEATURE>
+<FEATURE name="CPLNG_GRD">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>Coupling guard</NAME>
+</FEATURE>
+<FEATURE name="CPLNG_GRD_NMNL_SIZE">
+<VALUE>A148 </VALUE>
+<TECHNICALVALUE>A148</TECHNICALVALUE>
+<NAME>Nominal coupling guard size</NAME>
+</FEATURE>
+<FEATURE name="CPLNG_GRD_TYPE">
+<VALUE>Light </VALUE>
+<TECHNICALVALUE>LIGHT</TECHNICALVALUE>
+<NAME>Coupling guard type</NAME>
+</FEATURE>
+<FEATURE name="CPLNG_MNFCTRR">
+<VALUE>Flender </VALUE>
+<TECHNICALVALUE>FLE</TECHNICALVALUE>
+<NAME>Coupling manufacturer</NAME>
+</FEATURE>
+<FEATURE name="CPLNG_TYPE">
+<VALUE>Eupex N </VALUE>
+<TECHNICALVALUE>EUN</TECHNICALVALUE>
+<NAME>Coupling type</NAME>
+</FEATURE>
+<FEATURE name="CRCT_DGRM_MTR">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Circuit diagram Motor</NAME>
+</FEATURE>
+<FEATURE name="CRRNT_TYPE_MTR">
+<VALUE>AC  three-phase </VALUE>
+<TECHNICALVALUE>AC_03</TECHNICALVALUE>
+<NAME>Mains type Motor</NAME>
+</FEATURE>
+<FEATURE name="CRT_BLNCNG_TEST_ACTV_HDRLC">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Balancing test Impeller</NAME>
+</FEATURE>
+<FEATURE name="CRT_BRNG_TMPRTR_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Bearing temperature test</NAME>
+</FEATURE>
+<FEATURE name="CRT_CHMCL_ANLSS_ACTV_HDRLC">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Chemical analysis Impeller</NAME>
+</FEATURE>
+<FEATURE name="CRT_CHMCL_ANLSS_HDRLC_CSNG">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Chemical analysis Volute casing</NAME>
+</FEATURE>
+<FEATURE name="CRT_CHMCL_ANLSS_HDRLC_CSNG_CV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Chemical analysis Casing cover</NAME>
+</FEATURE>
+<FEATURE name="CRT_CHMCL_ANLSS_PRTCTNG_SLV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Chemical analysis Protective sleeve</NAME>
+</FEATURE>
+<FEATURE name="CRT_CHMCL_ANLSS_SHFT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Chemical analysis Shaft</NAME>
+</FEATURE>
+<FEATURE name="CRT_CHMCL_ANLSS_WR_RING_DSD">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Chemical analysis Casing wear ring discharge-side</NAME>
+</FEATURE>
+<FEATURE name="CRT_CHMCL_ANLSS_WR_RING_SSD">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Chemical analysis Casing wear ring suction-side</NAME>
+</FEATURE>
+<FEATURE name="CRT_CTNG_ADHRNC_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Adhesion test of coating</NAME>
+</FEATURE>
+<FEATURE name="CRT_CTNG_THCKNSS_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Thickness test of coating</NAME>
+</FEATURE>
+<FEATURE name="CRT_CTNG_VSL_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Visual inspection of coating</NAME>
+</FEATURE>
+<FEATURE name="CRT_DLVR_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Delivery test</NAME>
+</FEATURE>
+<FEATURE name="CRT_FNL_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Final acceptance test/inspection</NAME>
+</FEATURE>
+<FEATURE name="CRT_FNL_TEST_WTNSSD">
+<VALUE>Inspection certif 3.2 EN10204 </VALUE>
+<TECHNICALVALUE>3_2</TECHNICALVALUE>
+<NAME>Certificate Final inspection, witnessed</NAME>
+</FEATURE>
+<FEATURE name="CRT_HDRLC_ACCPTNC">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Hydraulic acceptance test</NAME>
+</FEATURE>
+<FEATURE name="CRT_HDRLC_ACCPTNC_WTNSSD">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Hydraulic acceptance test, witnessed</NAME>
+</FEATURE>
+<FEATURE name="CRT_HDRSTTC_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Hydrostatic test</NAME>
+</FEATURE>
+<FEATURE name="CRT_HDRSTTC_TEST_PRS_CNT_PART">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Hydrostatic test Pressure-retaining part</NAME>
+</FEATURE>
+<FEATURE name="CRT_HDRSTTC_TEST_WTNSSD">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Hydrostatic test, witnessed</NAME>
+</FEATURE>
+<FEATURE name="CRT_ISO_MTR">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>ISO certificate Motor</NAME>
+</FEATURE>
+<FEATURE name="CRT_NPSH_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate NPSH test</NAME>
+</FEATURE>
+<FEATURE name="CRT_NS_MSRMNT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Noise measurement</NAME>
+</FEATURE>
+<FEATURE name="CRT_PCKGNG_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Packaging test</NAME>
+</FEATURE>
+<FEATURE name="CRT_STRP_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Strip test</NAME>
+</FEATURE>
+<FEATURE name="CRT_STRP_TEST_WTNSSD">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Strip test, witnessed</NAME>
+</FEATURE>
+<FEATURE name="CRT_TEST_MTRL_FOOD_CNTCT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Test of materials with food contact</NAME>
+</FEATURE>
+<FEATURE name="CRT_TEST_SPCFCTN_WTTD_PRTS">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Check of specification of wetted parts</NAME>
+</FEATURE>
+<FEATURE name="CRT_TGHTNSS_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Tightness test</NAME>
+</FEATURE>
+<FEATURE name="CRT_TNSL_TEST_ACTV_HDRLC">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Tensile test Impeller</NAME>
+</FEATURE>
+<FEATURE name="CRT_TNSL_TEST_HDRLC_CSNG">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Tensile test Volute casing</NAME>
+</FEATURE>
+<FEATURE name="CRT_TNSL_TEST_HDRLC_CSNG_CV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Tensile test Casing cover</NAME>
+</FEATURE>
+<FEATURE name="CRT_TNSL_TEST_PRTCTNG_SLV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Tensile test Protective sleeve</NAME>
+</FEATURE>
+<FEATURE name="CRT_TNSL_TEST_SHFT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Tensile test Shaft</NAME>
+</FEATURE>
+<FEATURE name="CRT_TNSL_TEST_WR_RING_DSD">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Tensile test Casing wear ring discharge-side</NAME>
+</FEATURE>
+<FEATURE name="CRT_TNSL_TEST_WR_RING_SSD">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Tensile test Casing wear ring suction-side</NAME>
+</FEATURE>
+<FEATURE name="CRT_VBRTN_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Vibration test</NAME>
+</FEATURE>
+<FEATURE name="CRT_VBRTN_TEST_WTNSSD">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Vibration test, witnessed</NAME>
+</FEATURE>
+<FEATURE name="CRT_VSL_DMN_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Certificate Visual inspection and dimensional inspection</NAME>
+</FEATURE>
+<FEATURE name="CSNG_INSTLLTN">
+<VALUE>Bottom </VALUE>
+<TECHNICALVALUE>DOW</TECHNICALVALUE>
+<NAME>Casing mounting</NAME>
+</FEATURE>
+<FEATURE name="CSTMR_PRVDS_DRV">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Customer provides drive</NAME>
+</FEATURE>
+<FEATURE name="CSTMR_PRVDS_PLT">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Customer provides plate</NAME>
+</FEATURE>
+<FEATURE name="CSTMR_SPCFC_PLT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Customised name plate</NAME>
+</FEATURE>
+<FEATURE name="CTNG_ADHRNC_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Adhesion test of coating test</NAME>
+</FEATURE>
+<FEATURE name="CTNG_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Coating inspection</NAME>
+</FEATURE>
+<FEATURE name="CTNG_THCKNSS_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Thickness test of coating test</NAME>
+</FEATURE>
+<FEATURE name="CTNG_VSL_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Visual inspection of coating test</NAME>
+</FEATURE>
+<FEATURE name="DBLCT_NMPLT">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Duplicate name plate</NAME>
+</FEATURE>
+<FEATURE name="DLVR_CMPLTNSS_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Delivery completeness check</NAME>
+</FEATURE>
+<FEATURE name="DMNSNL_CHCK_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested Dimensional inspection without customer</NAME>
+</FEATURE>
+<FEATURE name="DMNSNL_CHCK_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested Dimensional inspection with customer</NAME>
+</FEATURE>
+<FEATURE name="DNSTY_PMPD_LQD">
+<VALUE>992 kg/m³</VALUE>
+<UNIT>kg/m³</UNIT>
+<TECHNICALVALUE>992</TECHNICALVALUE>
+<NAME>Density Fluid handled</NAME>
+</FEATURE>
+<FEATURE name="DRCTV_PUMP_VLV">
+<VALUE>CE </VALUE>
+<TECHNICALVALUE>CE</TECHNICALVALUE>
+<NAME>Directive Pump/Valve</NAME>
+</FEATURE>
+<FEATURE name="DRLL_BSPLT_MTR_SIDE">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>Drill baseplate at motor end</NAME>
+</FEATURE>
+<FEATURE name="DRLL_PTTRN_STNDRD_CNNCTN_INLT">
+<VALUE>EN1092-2 </VALUE>
+<TECHNICALVALUE>EN1092_2</TECHNICALVALUE>
+<NAME>Suction flange bolt hole pattern as per standard</NAME>
+</FEATURE>
+<FEATURE name="DRLL_PTTRN_STNDRD_CNNCTN_OTLT">
+<VALUE>EN1092-2 </VALUE>
+<TECHNICALVALUE>EN1092_2</TECHNICALVALUE>
+<NAME>Discharge flange bolt hole pattern as per standard</NAME>
+</FEATURE>
+<FEATURE name="DRV_CNCPT">
+<VALUE>with electric actuator </VALUE>
+<TECHNICALVALUE>ELE</TECHNICALVALUE>
+<NAME>Drive concept</NAME>
+</FEATURE>
+<FEATURE name="DRV_STNDRD">
+<VALUE>IEC </VALUE>
+<TECHNICALVALUE>IEC</TECHNICALVALUE>
+<NAME>Drive standard, mechanical</NAME>
+</FEATURE>
+<FEATURE name="DRW_AXLR_CNNCTNS">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Piping layout</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_FLOW">
+<VALUE>1413 ft³/h</VALUE>
+<UNIT>ft³/h</UNIT>
+<TECHNICALVALUE>40.004175</TECHNICALVALUE>
+<NAME>Flow rate</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_FLOW_MIN">
+<VALUE>631 ft³/h</VALUE>
+<UNIT>ft³/h</UNIT>
+<TECHNICALVALUE>17.883271</TECHNICALVALUE>
+<NAME>Minimum permissible flow rate</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_HEAD">
+<VALUE>213 ft</VALUE>
+<UNIT>ft</UNIT>
+<TECHNICALVALUE>65.013569</TECHNICALVALUE>
+<NAME>Head</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_HEAD_OUTLT">
+<VALUE>213 ft</VALUE>
+<UNIT>ft</UNIT>
+<TECHNICALVALUE>65.033148</TECHNICALVALUE>
+<NAME>Shut-off head</NAME>
+</FEATURE>
+<FEATURE name="DSTNTN_CNTR">
+<VALUE>Germany </VALUE>
+<TECHNICALVALUE>DE</TECHNICALVALUE>
+<NAME>Destination country</NAME>
+</FEATURE>
+<FEATURE name="DTLD_TCHNCL_DATA_SHT_DRV">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Detailed technical data sheet Drive</NAME>
+</FEATURE>
+<FEATURE name="DTL_DRWNG_MCHNCL_SEAL">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Detail drawing Mechanical seal</NAME>
+</FEATURE>
+<FEATURE name="EFFCNC_FCTR_PUMP">
+<VALUE>53.3 %</VALUE>
+<UNIT>%</UNIT>
+<TECHNICALVALUE>53.329472</TECHNICALVALUE>
+<NAME>Efficiency Pump</NAME>
+</FEATURE>
+<FEATURE name="ELCTRCL_TEST_MTR">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Electrical test Motor</NAME>
+</FEATURE>
+<FEATURE name="ENGRV_NMPLT">
+<VALUE>engraved by KSB </VALUE>
+<TECHNICALVALUE>KSB</TECHNICALVALUE>
+<NAME>Name plate engraving</NAME>
+</FEATURE>
+<FEATURE name="EQPMNT_CTGR_UNIT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Equipment category Unit</NAME>
+</FEATURE>
+<FEATURE name="EQPMNT_GRP_UNIT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Equipment group Unit</NAME>
+</FEATURE>
+<FEATURE name="EXPLSN_GRP_UNIT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Explosion group Unit</NAME>
+</FEATURE>
+<FEATURE name="EXPLSN_PRTCTN_DRCTV_UNIT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Explosion protection directive Unit</NAME>
+</FEATURE>
+<FEATURE name="EXPLSN_PRTCTN_UNIT">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Explosion protection Unit</NAME>
+</FEATURE>
+<FEATURE name="EXPLSN_PRTCTN_ZONE_UNIT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Explosion protection zone (ATEX)</NAME>
+</FEATURE>
+<FEATURE name="EXPL_PRTCTN_DCMNTTN">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Documentation Explosion protection</NAME>
+</FEATURE>
+<FEATURE name="EXPL_PRTCTN_DRCTV_DRV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Explosion protection directive Drive</NAME>
+</FEATURE>
+<FEATURE name="EXPL_PRTCTN_DRCTV_PUMP_VLV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Explosion protection directive Pump/Valve</NAME>
+</FEATURE>
+<FEATURE name="EXPL_PRTCTN_DSGN_DRV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Explosion protection type Drive</NAME>
+</FEATURE>
+<FEATURE name="EXPL_PRTCTN_DSGN_PUMP_VLV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Explosion protection type Pump/Valve</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT">
+<VALUE>Water </VALUE>
+<TECHNICALVALUE>Water</TECHNICALVALUE>
+<NAME>Fluid text line 1</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_01">
+<VALUE>Water </VALUE>
+<TECHNICALVALUE>Water</TECHNICALVALUE>
+<NAME>Fluid text line 1</NAME>
+</FEATURE>
+<FEATURE name="FLD_VRNT_TEXT">
+<VALUE>Clean water </VALUE>
+<TECHNICALVALUE>Clean water</TECHNICALVALUE>
+<NAME>Fluid text line 1</NAME>
+</FEATURE>
+<FEATURE name="FLMMBL_MTRLS_UNIT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Flammable materials Unit</NAME>
+</FEATURE>
+<FEATURE name="FLNG_DMNSN_DATA_SHT">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>Flange dimension Data sheet</NAME>
+</FEATURE>
+<FEATURE name="FNL_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Final inspection</NAME>
+</FEATURE>
+<FEATURE name="FNL_TEST_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Final test without customer</NAME>
+</FEATURE>
+<FEATURE name="FNL_TEST_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Final inspection with customer</NAME>
+</FEATURE>
+<FEATURE name="FRC_MAX_X_AXIS_DSCHRG_NZZL_AL">
+<VALUE>649 N</VALUE>
+<UNIT>N</UNIT>
+<TECHNICALVALUE>648.829943</TECHNICALVALUE>
+<NAME>Fx d</NAME>
+</FEATURE>
+<FEATURE name="FRC_MAX_X_AXIS_SCTN_NZZL_AL">
+<VALUE>878 N</VALUE>
+<UNIT>N</UNIT>
+<TECHNICALVALUE>878.415923</TECHNICALVALUE>
+<NAME>Fx s</NAME>
+</FEATURE>
+<FEATURE name="FRC_MAX_Y_AXIS_DSCHRG_NZZL_AL">
+<VALUE>599 N</VALUE>
+<UNIT>N</UNIT>
+<TECHNICALVALUE>598.919947</TECHNICALVALUE>
+<NAME>Fy d</NAME>
+</FEATURE>
+<FEATURE name="FRC_MAX_Y_AXIS_SCTN_NZZL_AL">
+<VALUE>789 N</VALUE>
+<UNIT>N</UNIT>
+<TECHNICALVALUE>788.577931</TECHNICALVALUE>
+<NAME>Fy s</NAME>
+</FEATURE>
+<FEATURE name="FRC_MAX_Z_AXIS_SCTN_NZZL_AL">
+<VALUE>719 N</VALUE>
+<UNIT>N</UNIT>
+<TECHNICALVALUE>718.703937</TECHNICALVALUE>
+<NAME>Fz s</NAME>
+</FEATURE>
+<FEATURE name="FRC_RSLTNG_MAX_DSCHRG_NZZL_AL">
+<VALUE>1151 N</VALUE>
+<UNIT>N</UNIT>
+<TECHNICALVALUE>1150.924499</TECHNICALVALUE>
+<NAME>Fres d</NAME>
+</FEATURE>
+<FEATURE name="FRC_RSLTNG_MAX_SCTN_NZZL_AL">
+<VALUE>1383 N</VALUE>
+<UNIT>N</UNIT>
+<TECHNICALVALUE>1382.506879</TECHNICALVALUE>
+<NAME>Fres s</NAME>
+</FEATURE>
+<FEATURE name="FREE_PSSGW">
+<VALUE>0.524 in</VALUE>
+<UNIT>in</UNIT>
+<TECHNICALVALUE>13.3</TECHNICALVALUE>
+<NAME>Free passage</NAME>
+</FEATURE>
+<FEATURE name="FRQNC_INVRTR_OPRTN_OK">
+<VALUE>Yes (acc to KSB) </VALUE>
+<TECHNICALVALUE>2</TECHNICALVALUE>
+<NAME>Operation on a frequency inverter permitted</NAME>
+</FEATURE>
+<FEATURE name="FXTN_FNDTN_INSTLLTN">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Foundation fastening Installation</NAME>
+</FEATURE>
+<FEATURE name="GAP_DSGN_SCTN_SIDE">
+<VALUE>Casing wear ring </VALUE>
+<TECHNICALVALUE>CSNG</TECHNICALVALUE>
+<NAME>Sealing gap design, suction-side</NAME>
+</FEATURE>
+<FEATURE name="GAP_MSRNG_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested Clearance gap measurement without customer</NAME>
+</FEATURE>
+<FEATURE name="GAP_MSRNG_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested Clearance gap measurement with customer</NAME>
+</FEATURE>
+<FEATURE name="GNRL_ARR_DRW_FRCS_MMNTS">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>General arrangement drawing / Forces and moments</NAME>
+</FEATURE>
+<FEATURE name="GNRL_ARR_OTLN_DRW">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>General arrangement drawing / Outline drawing</NAME>
+</FEATURE>
+<FEATURE name="GNRL_ASSMBL_DRW">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>General assembly drawing</NAME>
+</FEATURE>
+<FEATURE name="HDRLC_ACCPTNC">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Hydraulic acceptance test</NAME>
+</FEATURE>
+<FEATURE name="HDRLC_CHRCTRSTC_CRV">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>Hydraulic characteristic curve</NAME>
+</FEATURE>
+<FEATURE name="HDRLC_IMPLLR_DMTR">
+<VALUE>8.51 in</VALUE>
+<UNIT>in</UNIT>
+<TECHNICALVALUE>216.1</TECHNICALVALUE>
+<NAME>Hydraulic impeller diameter</NAME>
+</FEATURE>
+<FEATURE name="HDRLC_TEST_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Hydraulic performance test without customer</NAME>
+</FEATURE>
+<FEATURE name="HDRLC_TEST_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Hydraulic performance test with customer</NAME>
+</FEATURE>
+<FEATURE name="HDRSTTC_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Hydrostatic test</NAME>
+</FEATURE>
+<FEATURE name="HDRSTTC_TEST_PRS_CNT_PART">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Hydrostatic test Pressure-retaining part</NAME>
+</FEATURE>
+<FEATURE name="HDRSTTC_TEST_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Hydrostatic test without customer</NAME>
+</FEATURE>
+<FEATURE name="HDRSTTC_TEST_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Hydrostatic test with customer</NAME>
+</FEATURE>
+<FEATURE name="HDRSTTC_TEST_SCP">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Scope Hydrostatic test</NAME>
+</FEATURE>
+<FEATURE name="IMPLLR_DMTR_D2">
+<VALUE>217 mm</VALUE>
+<UNIT>mm</UNIT>
+<TECHNICALVALUE>217</TECHNICALVALUE>
+<NAME>Impeller diameter D2</NAME>
+</FEATURE>
+<FEATURE name="INSLTN_CLSS">
+<VALUE>155 (F) to IEC 60085 </VALUE>
+<TECHNICALVALUE>F</TECHNICALVALUE>
+<NAME>Thermal class</NAME>
+</FEATURE>
+<FEATURE name="INSTLLTN_CODE">
+<VALUE>3E </VALUE>
+<TECHNICALVALUE>3E</TECHNICALVALUE>
+<NAME>Installation code</NAME>
+</FEATURE>
+<FEATURE name="INSTLLTN_PUMP_SET">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>Installation Pump set</NAME>
+</FEATURE>
+<FEATURE name="LBRCTN">
+<VALUE>Grease lubrication </VALUE>
+<TECHNICALVALUE>GRE</TECHNICALVALUE>
+<NAME>Lubrication type</NAME>
+</FEATURE>
+<FEATURE name="LBRCTN_MNTRNG">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Lubricant monitoring</NAME>
+</FEATURE>
+<FEATURE name="LIST_OF_CMPNNTS_PUMP">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>List of components Pump</NAME>
+</FEATURE>
+<FEATURE name="LSR_ALGNMNT_PUMP">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Laser alignment Pump</NAME>
+</FEATURE>
+<FEATURE name="MCHNCL_SEAL_TYPE_ATMSP_SIDE">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WOMS</TECHNICALVALUE>
+<NAME>Mechanical seal type outboard</NAME>
+</FEATURE>
+<FEATURE name="MCHNCL_SEAL_TYPE_PRDCT_SIDE">
+<VALUE>1 </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>Mechanical seal type inboard</NAME>
+</FEATURE>
+<FEATURE name="MCHN_BASE_NMNL_SIZE">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Nominal size of machine base</NAME>
+</FEATURE>
+<FEATURE name="MIN_EFFCNC_INDX">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Minimum efficiency index MEI</NAME>
+</FEATURE>
+<FEATURE name="MNS_VLTG">
+<VALUE>400 V</VALUE>
+<UNIT>V</UNIT>
+<TECHNICALVALUE>400</TECHNICALVALUE>
+<NAME>Mains voltage</NAME>
+</FEATURE>
+<FEATURE name="MNTNG_CHMBR_CSNG_CVR">
+<VALUE>conical (A cover) </VALUE>
+<TECHNICALVALUE>A</TECHNICALVALUE>
+<NAME>Install.chamber Casing cover</NAME>
+</FEATURE>
+<FEATURE name="MNTNG_CSTMR_SPCFC_NMPLT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Mounting Customer-specific name plate</NAME>
+</FEATURE>
+<FEATURE name="MSRMNT_SHCK_PLS">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Shock pulse measurement</NAME>
+</FEATURE>
+<FEATURE name="MTR">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Electric motor</NAME>
+</FEATURE>
+<FEATURE name="MTRLS_TSTNG">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Materials testing</NAME>
+</FEATURE>
+<FEATURE name="MTRL_ACTV_HDRLC_CMPNNT">
+<VALUE>EN-GJL-250/A48 CL 35B (SUPPLEMENT 8 TO ZN 18-10) </VALUE>
+<TECHNICALVALUE>1819</TECHNICALVALUE>
+<NAME>Material Impeller</NAME>
+</FEATURE>
+<FEATURE name="MTRL_BRNG_BRCKT">
+<VALUE>EN-GJL-250/A48 CL 35B (SUPPLEMENT 8 TO ZN 18-10) </VALUE>
+<TECHNICALVALUE>1819</TECHNICALVALUE>
+<NAME>Material Bearing bracket</NAME>
+</FEATURE>
+<FEATURE name="MTRL_BSPLT">
+<VALUE>(ST) </VALUE>
+<TECHNICALVALUE>7501</TECHNICALVALUE>
+<NAME>Mtrl Baseplate</NAME>
+</FEATURE>
+<FEATURE name="MTRL_CPLNG_GRD">
+<VALUE>ST+Z </VALUE>
+<TECHNICALVALUE>0265</TECHNICALVALUE>
+<NAME>Material Coupling guard</NAME>
+</FEATURE>
+<FEATURE name="MTRL_CSNG_CVR">
+<VALUE>EN-GJL-250/A48 CL 35B (SUPPLEMENT 8 TO ZN 18-10) </VALUE>
+<TECHNICALVALUE>1819</TECHNICALVALUE>
+<NAME>Material Casing cover</NAME>
+</FEATURE>
+<FEATURE name="MTRL_FOOD_CNTCT">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Materials in contact with food</NAME>
+</FEATURE>
+<FEATURE name="MTRL_HDRLC_CSNG">
+<VALUE>EN-GJL-250/A48 CL 35B (SUPPLEMENT 8 TO ZN 18-10) </VALUE>
+<TECHNICALVALUE>1819</TECHNICALVALUE>
+<NAME>Material Volute casing</NAME>
+</FEATURE>
+<FEATURE name="MTRL_IMPLLR_FSTNG">
+<VALUE>(ST) (SUPPLEMENT 2 TO ZN 18-10) </VALUE>
+<TECHNICALVALUE>7501</TECHNICALVALUE>
+<NAME>Material Nut Impeller fastening</NAME>
+</FEATURE>
+<FEATURE name="MTRL_KEY">
+<VALUE>C45+C/A311 GR 1045 CLASS A (SUPPLEMENT 8 TO ZN 18-10) </VALUE>
+<TECHNICALVALUE>0732</TECHNICALVALUE>
+<NAME>Material Key</NAME>
+</FEATURE>
+<FEATURE name="MTRL_NMBR">
+<VALUE>02002150 </VALUE>
+<TECHNICALVALUE>02002150</TECHNICALVALUE>
+<NAME>Material number</NAME>
+</FEATURE>
+<FEATURE name="MTRL_NUT_HDRLC_CSNG">
+<VALUE>WITHOUT </VALUE>
+<TECHNICALVALUE>0000</TECHNICALVALUE>
+<NAME>Material Nut Hydraulic casing</NAME>
+</FEATURE>
+<FEATURE name="MTRL_PRC_GRP">
+<VALUE>Etanorm G </VALUE>
+<TECHNICALVALUE>V7</TECHNICALVALUE>
+<NAME>Material price group</NAME>
+</FEATURE>
+<FEATURE name="MTRL_PRTCTNG_SLV">
+<VALUE>1.4122+QT750 (EN 10088-1, EN 10088-3) </VALUE>
+<TECHNICALVALUE>1270</TECHNICALVALUE>
+<NAME>Material Shaft protecting sleeve</NAME>
+</FEATURE>
+<FEATURE name="MTRL_SCRWD_PLUG_HDRLC_CSNG">
+<VALUE>ST (COMM. TECH. DELIVERY COND.) </VALUE>
+<TECHNICALVALUE>0250</TECHNICALVALUE>
+<NAME>Material Screw plug Hydraulic casing</NAME>
+</FEATURE>
+<FEATURE name="MTRL_SCRWS_HDRLC_CSNG">
+<VALUE>8.8 (ISO 898-1) </VALUE>
+<TECHNICALVALUE>0210</TECHNICALVALUE>
+<NAME>Material Bolts/Screws Hydraulic casing</NAME>
+</FEATURE>
+<FEATURE name="MTRL_SEAL_SCRW_PLUG_HDRLC_CSNG">
+<VALUE>A4/AISI 316 (SUPPLEMENT 8 TO ZN 18-10) </VALUE>
+<TECHNICALVALUE>ES87</TECHNICALVALUE>
+<NAME>Material Static seal Screw plug Volute casing</NAME>
+</FEATURE>
+<FEATURE name="MTRL_SHFT">
+<VALUE>C45+N (EN 10083-2) </VALUE>
+<TECHNICALVALUE>0698</TECHNICALVALUE>
+<NAME>Material Shaft</NAME>
+</FEATURE>
+<FEATURE name="MTRL_SHFT_SEAL_ATMSP_SIDE">
+<VALUE>WITHOUT </VALUE>
+<TECHNICALVALUE>0000</TECHNICALVALUE>
+<NAME>Material Shaft seal outboard</NAME>
+</FEATURE>
+<FEATURE name="MTRL_SHFT_SEAL_PRDCT_SIDE">
+<VALUE>BQ1EGG-WA </VALUE>
+<TECHNICALVALUE>Z089</TECHNICALVALUE>
+<NAME>Material Shaft seal inboard</NAME>
+</FEATURE>
+<FEATURE name="MTRL_STTC_JOIN">
+<VALUE>DPAF (DATASHEET: WSZ 7798) </VALUE>
+<TECHNICALVALUE>7798</TECHNICALVALUE>
+<NAME>Material Static seal</NAME>
+</FEATURE>
+<FEATURE name="MTRL_WEAR_RING_DSCHRG_SIDE">
+<VALUE>JL/LAMELLAR GRAPHITE CAST IRON (SUPPLEMENT 1 TO ZN 18-10) </VALUE>
+<TECHNICALVALUE>1800</TECHNICALVALUE>
+<NAME>Material Casing wear ring discharge-side</NAME>
+</FEATURE>
+<FEATURE name="MTRL_WEAR_RING_SCTN_SIDE">
+<VALUE>JL/LAMELLAR GRAPHITE CAST IRON (SUPPLEMENT 1 TO ZN 18-10) </VALUE>
+<TECHNICALVALUE>1800</TECHNICALVALUE>
+<NAME>Material Casing wear ring suction-side</NAME>
+</FEATURE>
+<FEATURE name="MTR_CLNG_MTHD">
+<VALUE>Surface cooling </VALUE>
+<TECHNICALVALUE>OF</TECHNICALVALUE>
+<NAME>Motor cooling method</NAME>
+</FEATURE>
+<FEATURE name="MTR_CNSTRCTN_TYPE">
+<VALUE>IM B3 (IM1001) IEC 60034-7 </VALUE>
+<TECHNICALVALUE>B3</TECHNICALVALUE>
+<NAME>Motor construction type</NAME>
+</FEATURE>
+<FEATURE name="MTR_MNFCTRR">
+<VALUE>KSB's choice </VALUE>
+<TECHNICALVALUE>KSW</TECHNICALVALUE>
+<NAME>Motor manufacturer</NAME>
+</FEATURE>
+<FEATURE name="MTR_SIZE">
+<VALUE>160M </VALUE>
+<TECHNICALVALUE>160M</TECHNICALVALUE>
+<NAME>Motor size</NAME>
+</FEATURE>
+<FEATURE name="NMBR_OF_KEEP_OFF_DVC">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity Deflector</NAME>
+</FEATURE>
+<FEATURE name="NMBR_OF_MSR_PNTS_HDRLC_ACCPTNC">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Number of measuring points Hydraulic acceptance test</NAME>
+</FEATURE>
+<FEATURE name="NMBR_OF_MSR_PNTS_NPSH_TEST">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Number of measuring points for NPSH test</NAME>
+</FEATURE>
+<FEATURE name="NMBR_OF_STG_SNGL_ENTR">
+<VALUE>1 </VALUE>
+<TECHNICALVALUE>01</TECHNICALVALUE>
+<NAME>Quantity Stages, single-entry</NAME>
+</FEATURE>
+<FEATURE name="NMNL_PRSSR_INLT">
+<VALUE>PN 16 </VALUE>
+<TECHNICALVALUE>PN016</TECHNICALVALUE>
+<NAME>Nominal pressure Suction nozzle</NAME>
+</FEATURE>
+<FEATURE name="NMNL_PRSSR_OTLT">
+<VALUE>PN 16 </VALUE>
+<TECHNICALVALUE>PN016</TECHNICALVALUE>
+<NAME>Nominal pressure Discharge nozzle</NAME>
+</FEATURE>
+<FEATURE name="NMNL_SIZE_CPLNG">
+<VALUE>95 </VALUE>
+<TECHNICALVALUE>95</TECHNICALVALUE>
+<NAME>Nominal size Coupling</NAME>
+</FEATURE>
+<FEATURE name="NMNL_SIZE_INLT_HDRLC_CSNG">
+<VALUE>DN 80 </VALUE>
+<TECHNICALVALUE>DN0080</TECHNICALVALUE>
+<NAME>Nominal diameter Suction nozzle</NAME>
+</FEATURE>
+<FEATURE name="NMNL_SIZE_OTLT_HDRLC_CSNG">
+<VALUE>DN 65 </VALUE>
+<TECHNICALVALUE>DN0065</TECHNICALVALUE>
+<NAME>Nominal diameter Discharge nozzle</NAME>
+</FEATURE>
+<FEATURE name="NPSH_AVLBL">
+<VALUE>14.7 m</VALUE>
+<UNIT>m</UNIT>
+<TECHNICALVALUE>14.66099</TECHNICALVALUE>
+<NAME>NPSH available</NAME>
+</FEATURE>
+<FEATURE name="NPSH_RQRD">
+<VALUE>7.64 ft</VALUE>
+<UNIT>ft</UNIT>
+<TECHNICALVALUE>2.33</TECHNICALVALUE>
+<NAME>NPSH required</NAME>
+</FEATURE>
+<FEATURE name="NPSH_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>NPSH test</NAME>
+</FEATURE>
+<FEATURE name="NPSH_TEST_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in NPSH test without customer</NAME>
+</FEATURE>
+<FEATURE name="NPSH_TEST_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in NPSH test with customer</NAME>
+</FEATURE>
+<FEATURE name="NS_MSRMNT_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Noise measurement without customer</NAME>
+</FEATURE>
+<FEATURE name="NS_MSRMNT_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Noise measurement with customer</NAME>
+</FEATURE>
+<FEATURE name="NUT_LOCK_DSL_DRV">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Nut lock for diesel engine</NAME>
+</FEATURE>
+<FEATURE name="NZZL_PSTN_PRSSR">
+<VALUE>0 deg </VALUE>
+<TECHNICALVALUE>0DEG</TECHNICALVALUE>
+<NAME>Discharge nozzle position</NAME>
+</FEATURE>
+<FEATURE name="NZZL_PSTN_SCTN">
+<VALUE>Axial </VALUE>
+<TECHNICALVALUE>AXI</TECHNICALVALUE>
+<NAME>Suction nozzle position</NAME>
+</FEATURE>
+<FEATURE name="ONE_WAY_TRVL_DSTNC">
+<VALUE>31.1 mile</VALUE>
+<UNIT>mile</UNIT>
+<TECHNICALVALUE>50</TECHNICALVALUE>
+<NAME>One-way travel distance</NAME>
+</FEATURE>
+<FEATURE name="OPRTNG_MNL">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>Operating manual</NAME>
+</FEATURE>
+<FEATURE name="OPRTN_ON_FRQNC_INVRTR">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Selection type</NAME>
+</FEATURE>
+<FEATURE name="OVRLL_WGHT_AGGRGT">
+<VALUE>285 lb</VALUE>
+<UNIT>lb</UNIT>
+<TECHNICALVALUE>129.162</TECHNICALVALUE>
+<NAME>Total weight Pump set</NAME>
+</FEATURE>
+<FEATURE name="OVRLL_WGHT_CPLNG">
+<VALUE>5.73 lb</VALUE>
+<UNIT>lb</UNIT>
+<TECHNICALVALUE>2.6</TECHNICALVALUE>
+<NAME>Total weight Coupling</NAME>
+</FEATURE>
+<FEATURE name="OVRLL_WGHT_PUMP">
+<VALUE>117 lb</VALUE>
+<UNIT>lb</UNIT>
+<TECHNICALVALUE>53.2</TECHNICALVALUE>
+<NAME>Total weight Pump</NAME>
+</FEATURE>
+<FEATURE name="PART_TEST_FNSHD_PART">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Part test Finished part</NAME>
+</FEATURE>
+<FEATURE name="PCKGNG_CTGR">
+<VALUE>Throw-away pallet (A1) </VALUE>
+<TECHNICALVALUE>A1</TECHNICALVALUE>
+<NAME>Packaging category</NAME>
+</FEATURE>
+<FEATURE name="PCKGNG_STRG">
+<VALUE>Indoor storage </VALUE>
+<TECHNICALVALUE>IN</TECHNICALVALUE>
+<NAME>Suitable for storage</NAME>
+</FEATURE>
+<FEATURE name="PCKGNG_TRNSPRT">
+<VALUE>Truck transport </VALUE>
+<TECHNICALVALUE>TRUCK</TECHNICALVALUE>
+<NAME>Suitable for transport</NAME>
+</FEATURE>
+<FEATURE name="PCKGNG_TSTNG">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Packaging inspection</NAME>
+</FEATURE>
+<FEATURE name="PCKGNG_TSTNG_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Packaging inspection without customer</NAME>
+</FEATURE>
+<FEATURE name="PCKGNG_TSTNG_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Packaging inspection with customer</NAME>
+</FEATURE>
+<FEATURE name="PLNT_HLTH_CRTFCT">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Phytosanitary certificate</NAME>
+</FEATURE>
+<FEATURE name="PMP_CNSTRCTN">
+<VALUE>Long-coupled (basepl-mounted) </VALUE>
+<TECHNICALVALUE>BASE</TECHNICALVALUE>
+<NAME>Pump design</NAME>
+</FEATURE>
+<FEATURE name="POLE_NMBR_MTR">
+<VALUE>2 </VALUE>
+<TECHNICALVALUE>2</TECHNICALVALUE>
+<NAME>Number of motor poles</NAME>
+</FEATURE>
+<FEATURE name="PPNG_TYPE_API">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Piping plan</NAME>
+</FEATURE>
+<FEATURE name="PRDCT_DSGN_CNCPT">
+<VALUE>GG </VALUE>
+<TECHNICALVALUE>GG</TECHNICALVALUE>
+<NAME>Design concept</NAME>
+</FEATURE>
+<FEATURE name="PRDCT_TSTNG">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Product testing</NAME>
+</FEATURE>
+<FEATURE name="PRFRMNC_CRV_NMBR">
+<VALUE>K1311.452/37 </VALUE>
+<TECHNICALVALUE>K1311.452/37</TECHNICALVALUE>
+<NAME>Characteristic curve number</NAME>
+</FEATURE>
+<FEATURE name="PRPRTS_INTRMDT_COAT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Properties Intermediate coat</NAME>
+</FEATURE>
+<FEATURE name="PRPRTS_INTRMDT_COAT2">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Properties Second intermediate coat</NAME>
+</FEATURE>
+<FEATURE name="PRPRTS_INTRMDT_COAT2_DRV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Properties Second intermediate coat Drive</NAME>
+</FEATURE>
+<FEATURE name="PRPRTS_INTRMDT_COAT_DRV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Properties Intermediate coat Drive</NAME>
+</FEATURE>
+<FEATURE name="PRPRTS_PRMNG_COAT">
+<VALUE>Hydro dip primer, water-dilutable </VALUE>
+<TECHNICALVALUE>HYDROPRIM</TECHNICALVALUE>
+<NAME>Properties Primer coat</NAME>
+</FEATURE>
+<FEATURE name="PRPRTS_PRMNG_COAT_DRV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Properties Primer coat Drive</NAME>
+</FEATURE>
+<FEATURE name="PRPRTS_TPCT">
+<VALUE>Acrylate dispersion water-thin </VALUE>
+<TECHNICALVALUE>ACRYLDISP</TECHNICALVALUE>
+<NAME>Properties Top coat</NAME>
+</FEATURE>
+<FEATURE name="PRPRTS_TPCT_DRV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Properties Top coat Drive</NAME>
+</FEATURE>
+<FEATURE name="PRSSR_MAX_OUTLT">
+<VALUE>99 psi</VALUE>
+<UNIT>psi</UNIT>
+<TECHNICALVALUE>6.826553</TECHNICALVALUE>
+<NAME>Discharge pressure-max.</NAME>
+</FEATURE>
+<FEATURE name="PRS_MAX_INLT_SPC">
+<VALUE>7.25 psi</VALUE>
+<UNIT>psi</UNIT>
+<TECHNICALVALUE>0.5</TECHNICALVALUE>
+<NAME>Maximum specified inlet pressure</NAME>
+</FEATURE>
+<FEATURE name="PRS_SEAL_CHMBR_DT">
+<VALUE>12.6 psi</VALUE>
+<UNIT>psi</UNIT>
+<TECHNICALVALUE>0.870103</TECHNICALVALUE>
+<NAME>Determined pressure Seal chamber</NAME>
+</FEATURE>
+<FEATURE name="PRS_VPR_FLD">
+<VALUE>0.07 bar</VALUE>
+<UNIT>bar</UNIT>
+<TECHNICALVALUE>0.07375</TECHNICALVALUE>
+<NAME>Vapour pressure Fluid</NAME>
+</FEATURE>
+<FEATURE name="PRTCTN_CLSS_MTR">
+<VALUE>IP55 (TEFC) </VALUE>
+<TECHNICALVALUE>IP55</TECHNICALVALUE>
+<NAME>Enclosure Motor</NAME>
+</FEATURE>
+<FEATURE name="PRTS_UNSSMBLD_1150">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Parts unassembled Plant 1150</NAME>
+</FEATURE>
+<FEATURE name="PUMP_BRNG_SEAL">
+<VALUE>V-ring </VALUE>
+<TECHNICALVALUE>VRING</TECHNICALVALUE>
+<NAME>Bearing seal Pump</NAME>
+</FEATURE>
+<FEATURE name="PUMP_BRNG_TYPE_MTRSD">
+<VALUE>Anti-friction bearing </VALUE>
+<TECHNICALVALUE>ANT</TECHNICALVALUE>
+<NAME>Pump bearing type, drive end</NAME>
+</FEATURE>
+<FEATURE name="PUMP_BRNG_TYPE_PMPSD">
+<VALUE>Anti-friction bearing </VALUE>
+<TECHNICALVALUE>ANT</TECHNICALVALUE>
+<NAME>Pump bearing type, non-drive end</NAME>
+</FEATURE>
+<FEATURE name="PUMP_PWR_MAX_CRV">
+<VALUE>34.5 hp</VALUE>
+<UNIT>hp</UNIT>
+<TECHNICALVALUE>25.735065</TECHNICALVALUE>
+<NAME>max power @ rated impeller</NAME>
+</FEATURE>
+<FEATURE name="PUMP_PWR_MAX_DUTY_PNT">
+<VALUE>21.3 hp</VALUE>
+<UNIT>hp</UNIT>
+<TECHNICALVALUE>15.905148</TECHNICALVALUE>
+<NAME>Maximum power input at duty point</NAME>
+</FEATURE>
+<FEATURE name="PUMP_RTTN_DRCTN">
+<VALUE>Counterclockwise </VALUE>
+<TECHNICALVALUE>L</TECHNICALVALUE>
+<NAME>Pump direction of rotation, viewed from suction side</NAME>
+</FEATURE>
+<FEATURE name="PUMP_SSTM_DSGN">
+<VALUE>Single-pump system </VALUE>
+<TECHNICALVALUE>SGL</TECHNICALVALUE>
+<NAME>Pump system design</NAME>
+</FEATURE>
+<FEATURE name="PUMP_STNDRD">
+<VALUE>EN 733 </VALUE>
+<TECHNICALVALUE>EN733</TECHNICALVALUE>
+<NAME>Pump standard</NAME>
+</FEATURE>
+<FEATURE name="RFRNC_NS_MSRMNT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Reference Noise measurement</NAME>
+</FEATURE>
+<FEATURE name="RFR_VSL_DMN_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Reference Visual inspection and dimensional inspection</NAME>
+</FEATURE>
+<FEATURE name="RSD_FACE_FORM_INLT">
+<VALUE>Raised face (B,RF,C) </VALUE>
+<TECHNICALVALUE>RF</TECHNICALVALUE>
+<NAME>Flange facing type Inlet</NAME>
+</FEATURE>
+<FEATURE name="RSD_FACE_FORM_OTLT">
+<VALUE>Raised face (B,RF,C) </VALUE>
+<TECHNICALVALUE>RF</TECHNICALVALUE>
+<NAME>Flange facing type Outlet</NAME>
+</FEATURE>
+<FEATURE name="RTD_FRQNC_MTR">
+<VALUE>50Hz </VALUE>
+<TECHNICALVALUE>50</TECHNICALVALUE>
+<NAME>Rated frequency Motor</NAME>
+</FEATURE>
+<FEATURE name="RTD_PWR_MTR">
+<VALUE>0.161 hp</VALUE>
+<UNIT>hp</UNIT>
+<TECHNICALVALUE>0.12</TECHNICALVALUE>
+<NAME>Rated power Motor</NAME>
+</FEATURE>
+<FEATURE name="RTD_VLTG_MTR">
+<VALUE>400 V</VALUE>
+<UNIT>V</UNIT>
+<TECHNICALVALUE>400</TECHNICALVALUE>
+<NAME>Rated voltage Motor</NAME>
+</FEATURE>
+<FEATURE name="RTTNL_SPD_PUMP">
+<VALUE>2915 rpm</VALUE>
+<UNIT>rpm</UNIT>
+<TECHNICALVALUE>2914.954195</TECHNICALVALUE>
+<NAME>Pump speed</NAME>
+</FEATURE>
+<FEATURE name="SCP_OF_SPPL_PUMP_KSB">
+<VALUE>Pump + coupling + coupling guard + baseplate </VALUE>
+<TECHNICALVALUE>D</TECHNICALVALUE>
+<NAME>Scope of supply Pump supplied by KSB</NAME>
+</FEATURE>
+<FEATURE name="SEAL_CODE">
+<VALUE>Code 11 </VALUE>
+<TECHNICALVALUE>11</TECHNICALVALUE>
+<NAME>Shaft seal code</NAME>
+</FEATURE>
+<FEATURE name="SEAL_GRD">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>Contact guard Shaft seal</NAME>
+</FEATURE>
+<FEATURE name="SHFT_AXIS_PSTN">
+<VALUE>horizontal </VALUE>
+<TECHNICALVALUE>HOR</TECHNICALVALUE>
+<NAME>Shaft axis position</NAME>
+</FEATURE>
+<FEATURE name="SHFT_SEAL_CNSTRCTN">
+<VALUE>SMS A-type cover </VALUE>
+<TECHNICALVALUE>A</TECHNICALVALUE>
+<NAME>Shaft seal type</NAME>
+</FEATURE>
+<FEATURE name="SHFT_SEAL_KIND">
+<VALUE>Inboard SM seal </VALUE>
+<TECHNICALVALUE>EGL</TECHNICALVALUE>
+<NAME>Shaft/Stem seal</NAME>
+</FEATURE>
+<FEATURE name="SHFT_SEAL_MNFCTRR_PS">
+<VALUE>KSB's choice </VALUE>
+<TECHNICALVALUE>KSW</TECHNICALVALUE>
+<NAME>Shaft seal manufacturer pump side</NAME>
+</FEATURE>
+<FEATURE name="SPCFCTN_ACCRDNG_CSTMR_RQST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Specification according to customers request</NAME>
+</FEATURE>
+<FEATURE name="SPCFCTN_ACCRDNG_STNDRD">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Design acc to regulation</NAME>
+</FEATURE>
+<FEATURE name="SPCFCTN_WTTD_PRTS">
+<VALUE>Silicone-free </VALUE>
+<TECHNICALVALUE>SLCN_FREE</TECHNICALVALUE>
+<NAME>Specification of wetted parts</NAME>
+</FEATURE>
+<FEATURE name="SPCR_LNGTH">
+<VALUE>0 in</VALUE>
+<UNIT>in</UNIT>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Spacer length</NAME>
+</FEATURE>
+<FEATURE name="SPD_CHRCTRSTC_CRV">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Speed-based selection chart</NAME>
+</FEATURE>
+<FEATURE name="SPRT_DCLRTN_CNFRMT_MNFCTRR">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>Separate declaration of conformity / by manufacturer</NAME>
+</FEATURE>
+<FEATURE name="SPRT_OPRTNG_MNL_DRV">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Separate operating manual Drive</NAME>
+</FEATURE>
+<FEATURE name="SPR_PRTS_LIST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Spare parts list</NAME>
+</FEATURE>
+<FEATURE name="SRFC_PRPRTN">
+<VALUE>Free from dirt, grease, rust </VALUE>
+<TECHNICALVALUE>C10</TECHNICALVALUE>
+<NAME>Surface preparation</NAME>
+</FEATURE>
+<FEATURE name="SRFC_PRPRTN_DRV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Surface preparation Drive</NAME>
+</FEATURE>
+<FEATURE name="STNDRD_IPPC_ISPM15">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>IPPC Standard ISPM 15</NAME>
+</FEATURE>
+<FEATURE name="STNDSTLL_HTR">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Anti-condensation heater</NAME>
+</FEATURE>
+<FEATURE name="STN_BLNCNG_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Standard Balancing test</NAME>
+</FEATURE>
+<FEATURE name="STN_BRNG_TMPRTR_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Standard Bearing temperature test</NAME>
+</FEATURE>
+<FEATURE name="STN_DLVR_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Standard Delivery test</NAME>
+</FEATURE>
+<FEATURE name="STN_FNL_TEST">
+<VALUE>KSB ZN 57740 </VALUE>
+<TECHNICALVALUE>ZN57740</TECHNICALVALUE>
+<NAME>Standard Final test</NAME>
+</FEATURE>
+<FEATURE name="STN_HDRLC_ACCPTNC">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Standard Hydraulic acceptance inspection/test</NAME>
+</FEATURE>
+<FEATURE name="STN_HDRSTTC_TEST_PRS_CNT_PART">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Standard Hydrostatic test Pressure-retaining part</NAME>
+</FEATURE>
+<FEATURE name="STN_NS_MSRMNT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Standard Noise measurement</NAME>
+</FEATURE>
+<FEATURE name="STN_PCKGNG_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Standard Packaging test</NAME>
+</FEATURE>
+<FEATURE name="STN_STRP_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Standard Strip test</NAME>
+</FEATURE>
+<FEATURE name="STN_TEST_MTRL_FOOD_CNTCT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Standard Test of materials in contact with food</NAME>
+</FEATURE>
+<FEATURE name="STN_TEST_SPCFCTN_WTTD_PRTS">
+<VALUE>KSB documentation </VALUE>
+<TECHNICALVALUE>KSB_DOC</TECHNICALVALUE>
+<NAME>Standard Test of specification of wetted parts</NAME>
+</FEATURE>
+<FEATURE name="STN_VBRTN_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Standard Vibration test</NAME>
+</FEATURE>
+<FEATURE name="STN_VSL_DMN_TEST">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Standard Visual inspection and dimensional inspection</NAME>
+</FEATURE>
+<FEATURE name="STRP_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Strip test</NAME>
+</FEATURE>
+<FEATURE name="STRP_TEST_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Strip test without customer</NAME>
+</FEATURE>
+<FEATURE name="STRP_TEST_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Strip test with customer</NAME>
+</FEATURE>
+<FEATURE name="SWRL_BRK">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Swirl break</NAME>
+</FEATURE>
+<FEATURE name="TCHNCL_DATA_SHT">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>Technical data sheet</NAME>
+</FEATURE>
+<FEATURE name="TGHTNSS_TEST_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested Tightness test without customer</NAME>
+</FEATURE>
+<FEATURE name="TGHTNSS_TEST_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested Tightness test with customer</NAME>
+</FEATURE>
+<FEATURE name="THCKNSS_INTRMDT_COAT">
+<VALUE>0 in</VALUE>
+<UNIT>in</UNIT>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Thickness Intermediate coat</NAME>
+</FEATURE>
+<FEATURE name="THCKNSS_INTRMDT_COAT2">
+<VALUE>0 in</VALUE>
+<UNIT>in</UNIT>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Thickness Second intermediate coat</NAME>
+</FEATURE>
+<FEATURE name="THCKNSS_PRMNG_COAT">
+<VALUE>0.00236 in</VALUE>
+<UNIT>in</UNIT>
+<TECHNICALVALUE>60</TECHNICALVALUE>
+<NAME>Thickness Primer coat</NAME>
+</FEATURE>
+<FEATURE name="THCKNSS_TPCT">
+<VALUE>0.00157 in</VALUE>
+<UNIT>in</UNIT>
+<TECHNICALVALUE>40</TECHNICALVALUE>
+<NAME>Thickness Top coat</NAME>
+</FEATURE>
+<FEATURE name="THRD_SRVC_CNNCTN_PUMP_CSNG">
+<VALUE>G Whitw p thr, not prss-tight </VALUE>
+<TECHNICALVALUE>G</TECHNICALVALUE>
+<NAME>Thread Auxiliary connections Pump casing</NAME>
+</FEATURE>
+<FEATURE name="TIME_HDRSTTC_TEST">
+<VALUE>10 min</VALUE>
+<UNIT>min</UNIT>
+<TECHNICALVALUE>10</TECHNICALVALUE>
+<NAME>Test time Hydrostatic test</NAME>
+</FEATURE>
+<FEATURE name="TMPRTR_CLSS_DRV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Temperature class Drive</NAME>
+</FEATURE>
+<FEATURE name="TMPRTR_CLSS_PUMP_VLV">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Temperature class Pump/Valve</NAME>
+</FEATURE>
+<FEATURE name="TMPRTR_CLSS_UNIT">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Temperature classes Unit</NAME>
+</FEATURE>
+<FEATURE name="TMP_AMBNT_SPC">
+<VALUE>68 °F</VALUE>
+<UNIT>°F</UNIT>
+<TECHNICALVALUE>20</TECHNICALVALUE>
+<NAME>Specified ambient temperature</NAME>
+</FEATURE>
+<FEATURE name="TMP_FLD_SPC">
+<VALUE>40 °C</VALUE>
+<UNIT>°C</UNIT>
+<TECHNICALVALUE>40</TECHNICALVALUE>
+<NAME>Specified fluid temperature</NAME>
+</FEATURE>
+<FEATURE name="TMP_MAX_AL">
+<VALUE>140 °F</VALUE>
+<UNIT>°F</UNIT>
+<TECHNICALVALUE>60</TECHNICALVALUE>
+<NAME>Maximum allowed temperature</NAME>
+</FEATURE>
+<FEATURE name="TMP_MAX_FLD_SPC">
+<VALUE>104 °F</VALUE>
+<UNIT>°F</UNIT>
+<TECHNICALVALUE>40</TECHNICALVALUE>
+<NAME>Maximum specified fluid temperature</NAME>
+</FEATURE>
+<FEATURE name="TMP_MIN_AL">
+<VALUE>32 °F</VALUE>
+<UNIT>°F</UNIT>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Minimum allowed temperature</NAME>
+</FEATURE>
+<FEATURE name="TMP_OF_VLDT">
+<VALUE>40 °C</VALUE>
+<UNIT>°C</UNIT>
+<TECHNICALVALUE>40</TECHNICALVALUE>
+<NAME>Temperature of validity</NAME>
+</FEATURE>
+<FEATURE name="TPCL_TNDR">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Typical tender</NAME>
+</FEATURE>
+<FEATURE name="TRGT_DSCHRG_FLOW">
+<VALUE>40 m³/h</VALUE>
+<UNIT>m³/h</UNIT>
+<TECHNICALVALUE>40</TECHNICALVALUE>
+<NAME>Target flow rate</NAME>
+</FEATURE>
+<FEATURE name="TRGT_DSCHRG_HEAD">
+<VALUE>65 m</VALUE>
+<UNIT>m</UNIT>
+<TECHNICALVALUE>65</TECHNICALVALUE>
+<NAME>Target head</NAME>
+</FEATURE>
+<FEATURE name="TRGT_DSCHRG_PRSSR">
+<VALUE>6.82 bar</VALUE>
+<UNIT>bar</UNIT>
+<TECHNICALVALUE>6.823328</TECHNICALVALUE>
+<NAME>Target discharge pressure</NAME>
+</FEATURE>
+<FEATURE name="TRGT_MASS_FLOW_RATE">
+<VALUE>11 kg/s</VALUE>
+<UNIT>kg/s</UNIT>
+<TECHNICALVALUE>11.022222</TECHNICALVALUE>
+<NAME>Target mass flow rate</NAME>
+</FEATURE>
+<FEATURE name="TRMNL_BOX_PSTN_MTR">
+<VALUE>360 Grad</VALUE>
+<UNIT>Grad</UNIT>
+<TECHNICALVALUE>360</TECHNICALVALUE>
+<NAME>Terminal box position of motor</NAME>
+</FEATURE>
+<FEATURE name="TRQ_MAX_X_AXIS_DSCHRG_NZZL_AL">
+<VALUE>529 Nm</VALUE>
+<UNIT>Nm</UNIT>
+<TECHNICALVALUE>529.045954</TECHNICALVALUE>
+<NAME>Mx d</NAME>
+</FEATURE>
+<FEATURE name="TRQ_MAX_X_AXIS_SCTN_NZZL_AL">
+<VALUE>559 Nm</VALUE>
+<UNIT>Nm</UNIT>
+<TECHNICALVALUE>558.991951</TECHNICALVALUE>
+<NAME>Mx s</NAME>
+</FEATURE>
+<FEATURE name="TRQ_MAX_Y_AXIS_DSCHRG_NZZL_AL">
+<VALUE>389 Nm</VALUE>
+<UNIT>Nm</UNIT>
+<TECHNICALVALUE>389.297966</TECHNICALVALUE>
+<NAME>My d</NAME>
+</FEATURE>
+<FEATURE name="TRQ_MAX_Y_AXIS_SCTN_NZZL_AL">
+<VALUE>399 Nm</VALUE>
+<UNIT>Nm</UNIT>
+<TECHNICALVALUE>399.279965</TECHNICALVALUE>
+<NAME>My s</NAME>
+</FEATURE>
+<FEATURE name="TRQ_MAX_Z_AXIS_DSCHRG_NZZL_AL">
+<VALUE>419 Nm</VALUE>
+<UNIT>Nm</UNIT>
+<TECHNICALVALUE>419.243963</TECHNICALVALUE>
+<NAME>Mz d</NAME>
+</FEATURE>
+<FEATURE name="TRQ_MAX_Z_AXIS_SCTN_NZZL_AL">
+<VALUE>459 Nm</VALUE>
+<UNIT>Nm</UNIT>
+<TECHNICALVALUE>459.17196</TECHNICALVALUE>
+<NAME>Mz s</NAME>
+</FEATURE>
+<FEATURE name="TYPE_SRS_SIZE">
+<VALUE>80-65-200 </VALUE>
+<TECHNICALVALUE>0080_0065_0200</TECHNICALVALUE>
+<NAME>Type series size</NAME>
+</FEATURE>
+<FEATURE name="TYPE_TEST_RPRT_MTR">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Type test report Motor</NAME>
+</FEATURE>
+<FEATURE name="VBRTN_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Vibration test</NAME>
+</FEATURE>
+<FEATURE name="VBRTN_TEST_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Vibration test without customer</NAME>
+</FEATURE>
+<FEATURE name="VBRTN_TEST_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Vibration test with customer</NAME>
+</FEATURE>
+<FEATURE name="VBRTN_TEST_TYPE">
+<VALUE>Without </VALUE>
+<TECHNICALVALUE>WO</TECHNICALVALUE>
+<NAME>Vibration test type</NAME>
+</FEATURE>
+<FEATURE name="VSCST_KNMTC_FLD">
+<VALUE>0 m²/s</VALUE>
+<UNIT>m²/s</UNIT>
+<TECHNICALVALUE>0.000001</TECHNICALVALUE>
+<NAME>Kinematic viscosity Fluid handled</NAME>
+</FEATURE>
+<FEATURE name="VSL_DMN_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Visual inspection and dimensional inspection</NAME>
+</FEATURE>
+<FEATURE name="VSL_DMN_TEST_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Visual inspection and Dimensional inspection without customer</NAME>
+</FEATURE>
+<FEATURE name="VSL_DMN_TEST_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Visual inspection and Dimensional inspection with customer</NAME>
+</FEATURE>
+<FEATURE name="VSL_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Visual inspection</NAME>
+</FEATURE>
+<FEATURE name="VSL_TEST_QNTT_NNWTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Visual inspection without customer</NAME>
+</FEATURE>
+<FEATURE name="VSL_TEST_QNTT_WTNSSD">
+<VALUE>0 </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Quantity tested in Visual inspection with customer</NAME>
+</FEATURE>
+<FEATURE name="WEAR_RING_DSGN_DSCHRG_SIDE">
+<VALUE>Flat </VALUE>
+<TECHNICALVALUE>FLAT</TECHNICALVALUE>
+<NAME>Casing wear ring design discharge-side</NAME>
+</FEATURE>
+<FEATURE name="WEAR_RING_DSGN_SCTN_SIDE">
+<VALUE>Flat </VALUE>
+<TECHNICALVALUE>FLAT</TECHNICALVALUE>
+<NAME>Casing wear ring design suction-side</NAME>
+</FEATURE>
+<FEATURE name="WGHT_BSPLT">
+<VALUE>152 lb</VALUE>
+<UNIT>lb</UNIT>
+<TECHNICALVALUE>69</TECHNICALVALUE>
+<NAME>Weight Baseplate</NAME>
+</FEATURE>
+<FEATURE name="WTNSSD_FNL_TEST">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>Final inspection, witnessed</NAME>
+</FEATURE>
+<FEATURE name="WTNSSD_HDRLC_ACCPTNC">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Hydraulic acceptance test, witnessed</NAME>
+</FEATURE>
+<FEATURE name="WTNSSD_HDRSTTC_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Hydrostatic test, witnessed</NAME>
+</FEATURE>
+<FEATURE name="WTNSSD_NPSH_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>NPSH test, witnessed</NAME>
+</FEATURE>
+<FEATURE name="WTNSSD_STRP_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Strip test, witnessed</NAME>
+</FEATURE>
+<FEATURE name="WTNSSD_VBRTN_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Vibration test, witnessed</NAME>
+</FEATURE>
+<FEATURE name="WTNSSD_VSL_DMN_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Visual inspection and dimensional inspection, witnessed</NAME>
+</FEATURE>
+<FEATURE name="WTNSSD_VSL_TEST">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>Visual inspection, witnessed</NAME>
+</FEATURE>
+<FEATURE name="P10A">
+<VALUE>No </VALUE>
+<TECHNICALVALUE>0</TECHNICALVALUE>
+<NAME>KSB PumpDrive2 [A]</NAME>
+</FEATURE>
+<FEATURE name="P28A">
+<VALUE>Yes </VALUE>
+<TECHNICALVALUE>1</TECHNICALVALUE>
+<NAME>KSB PumpMeter [A]</NAME>
+</FEATURE>
+<EXPORTACCESSORIES>
+<INDEX>1.000000</INDEX>
+<FEATURE name="ACCESSORY">
+<VALUE>Commissioning including laser alignment of a unit with a motor power below 22 kW according to specification 2.  </VALUE>
+<TECHNICALVALUE>01738234</TECHNICALVALUE>
+<NAME>cx + laseralignment</NAME>
+</FEATURE>
+</EXPORTACCESSORIES>
+<EXPORTACCESSORIES>
+<INDEX>2.000000</INDEX>
+<FEATURE name="ACCESSORY">
+<VALUE>Travel allowance up to 50 km one-way.  </VALUE>
+<TECHNICALVALUE>01738215</TECHNICALVALUE>
+<NAME>travel allowance up to 50km</NAME>
+</FEATURE>
+</EXPORTACCESSORIES>
+<EXPORTRESULTPOINT>
+<INDEX>1</INDEX>
+<FEATURE name="DMNSNNG_DUTY_PNT">
+<VALUE>0 </VALUE>
+<NAME>Dimensioning duty point</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_FLOW">
+<VALUE>2.109 ft³/h</VALUE>
+<UNIT>ft³/h</UNIT>
+<NAME>Flow rate</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_FLOW_MIN">
+<VALUE>632 ft³/h</VALUE>
+<UNIT>ft³/h</UNIT>
+<NAME>Minimum permissible flow rate</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_HEAD">
+<VALUE>212,84 ft</VALUE>
+<UNIT>ft</UNIT>
+<NAME>Head</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_HEAD_OUTLT">
+<VALUE>213,36 ft</VALUE>
+<UNIT>ft</UNIT>
+<NAME>Shut-off head</NAME>
+</FEATURE>
+<FEATURE name="EFFCNC_FCTR_PUMP">
+<VALUE>66,3 %</VALUE>
+<UNIT>%</UNIT>
+<NAME>Efficiency Pump</NAME>
+</FEATURE>
+<FEATURE name="NPSH_RQRD">
+<VALUE>8,3 ft</VALUE>
+<UNIT>ft</UNIT>
+<NAME>NPSH required</NAME>
+</FEATURE>
+<FEATURE name="PRSSR_MAX_OUTLT">
+<VALUE>99,54 psi</VALUE>
+<UNIT>psi</UNIT>
+<NAME>Discharge pressure-max.</NAME>
+</FEATURE>
+<FEATURE name="PRS_MAX_DUTY_PNT_DT">
+<VALUE>99,315 psi</VALUE>
+<UNIT>psi</UNIT>
+<NAME>Maximum pressure determined at duty point</NAME>
+</FEATURE>
+<FEATURE name="PUMP_PWR_MAX_CRV">
+<VALUE>34,51 hp</VALUE>
+<UNIT>hp</UNIT>
+<NAME>max power @ rated impeller</NAME>
+</FEATURE>
+<FEATURE name="PUMP_PWR_MAX_DUTY_PNT">
+<VALUE>21,33 hp</VALUE>
+<UNIT>hp</UNIT>
+<NAME>Maximum power input at duty point</NAME>
+</FEATURE>
+<FEATURE name="RQRD_PWR_PUMP">
+<NAME>RQRD_PWR_PUMP</NAME>
+</FEATURE>
+<FEATURE name="RTD_SPD_MTR">
+<NAME>RTD_SPD_MTR</NAME>
+</FEATURE>
+<FEATURE name="RTTNL_SPD_PUMP">
+<VALUE>2.915 rpm</VALUE>
+<UNIT>rpm</UNIT>
+<NAME>Pump speed</NAME>
+</FEATURE>
+<FEATURE name="SPCFC_ENRG_DSCHRG_FLOW">
+<VALUE>0 J/m³</VALUE>
+<UNIT>J/m³</UNIT>
+<NAME>SPCFC_ENRG_DSCHRG_FLOW</NAME>
+</FEATURE>
+<FEATURE name="SPCFC_ENRG_MASS_FLOW_RATE">
+<VALUE>0 J/kg</VALUE>
+<UNIT>J/kg</UNIT>
+<NAME>SPCFC_ENRG_MASS_FLOW_RATE</NAME>
+</FEATURE>
+</EXPORTRESULTPOINT>
+<EXPORTRESULTPOINT>
+<INDEX>2</INDEX>
+<FEATURE name="DMNSNNG_DUTY_PNT">
+<VALUE>0 </VALUE>
+<NAME>Dimensioning duty point</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_FLOW">
+<VALUE>1.654 ft³/h</VALUE>
+<UNIT>ft³/h</UNIT>
+<NAME>Flow rate</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_FLOW_MIN">
+<VALUE>632 ft³/h</VALUE>
+<UNIT>ft³/h</UNIT>
+<NAME>Minimum permissible flow rate</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_HEAD">
+<VALUE>213,23 ft</VALUE>
+<UNIT>ft</UNIT>
+<NAME>Head</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_HEAD_OUTLT">
+<VALUE>213,36 ft</VALUE>
+<UNIT>ft</UNIT>
+<NAME>Shut-off head</NAME>
+</FEATURE>
+<FEATURE name="EFFCNC_FCTR_PUMP">
+<VALUE>58,3 %</VALUE>
+<UNIT>%</UNIT>
+<NAME>Efficiency Pump</NAME>
+</FEATURE>
+<FEATURE name="NPSH_RQRD">
+<VALUE>7,87 ft</VALUE>
+<UNIT>ft</UNIT>
+<NAME>NPSH required</NAME>
+</FEATURE>
+<FEATURE name="PRSSR_MAX_OUTLT">
+<VALUE>99,305 psi</VALUE>
+<UNIT>psi</UNIT>
+<NAME>Discharge pressure-max.</NAME>
+</FEATURE>
+<FEATURE name="PRS_MAX_DUTY_PNT_DT">
+<VALUE>99,246 psi</VALUE>
+<UNIT>psi</UNIT>
+<NAME>Maximum pressure determined at duty point</NAME>
+</FEATURE>
+<FEATURE name="PUMP_PWR_MAX_CRV">
+<VALUE>34,42 hp</VALUE>
+<UNIT>hp</UNIT>
+<NAME>max power @ rated impeller</NAME>
+</FEATURE>
+<FEATURE name="PUMP_PWR_MAX_DUTY_PNT">
+<VALUE>18,97 hp</VALUE>
+<UNIT>hp</UNIT>
+<NAME>Maximum power input at duty point</NAME>
+</FEATURE>
+<FEATURE name="RQRD_PWR_PUMP">
+<NAME>RQRD_PWR_PUMP</NAME>
+</FEATURE>
+<FEATURE name="RTD_SPD_MTR">
+<NAME>RTD_SPD_MTR</NAME>
+</FEATURE>
+<FEATURE name="RTTNL_SPD_PUMP">
+<VALUE>2.915 rpm</VALUE>
+<UNIT>rpm</UNIT>
+<NAME>Pump speed</NAME>
+</FEATURE>
+<FEATURE name="SPCFC_ENRG_DSCHRG_FLOW">
+<VALUE>0 J/m³</VALUE>
+<UNIT>J/m³</UNIT>
+<NAME>SPCFC_ENRG_DSCHRG_FLOW</NAME>
+</FEATURE>
+<FEATURE name="SPCFC_ENRG_MASS_FLOW_RATE">
+<VALUE>0 J/kg</VALUE>
+<UNIT>J/kg</UNIT>
+<NAME>SPCFC_ENRG_MASS_FLOW_RATE</NAME>
+</FEATURE>
+</EXPORTRESULTPOINT>
+<EXPORTRESULTPOINT>
+<INDEX>3</INDEX>
+<FEATURE name="DMNSNNG_DUTY_PNT">
+<VALUE>1 </VALUE>
+<NAME>Dimensioning duty point</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_FLOW">
+<VALUE>1.413 ft³/h</VALUE>
+<UNIT>ft³/h</UNIT>
+<NAME>Flow rate</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_FLOW_MIN">
+<VALUE>632 ft³/h</VALUE>
+<UNIT>ft³/h</UNIT>
+<NAME>Minimum permissible flow rate</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_HEAD">
+<VALUE>213,3 ft</VALUE>
+<UNIT>ft</UNIT>
+<NAME>Head</NAME>
+</FEATURE>
+<FEATURE name="DSCHRG_HEAD_OUTLT">
+<VALUE>213,36 ft</VALUE>
+<UNIT>ft</UNIT>
+<NAME>Shut-off head</NAME>
+</FEATURE>
+<FEATURE name="EFFCNC_FCTR_PUMP">
+<VALUE>53,3 %</VALUE>
+<UNIT>%</UNIT>
+<NAME>Efficiency Pump</NAME>
+</FEATURE>
+<FEATURE name="NPSH_RQRD">
+<VALUE>7,64 ft</VALUE>
+<UNIT>ft</UNIT>
+<NAME>NPSH required</NAME>
+</FEATURE>
+<FEATURE name="PRSSR_MAX_OUTLT">
+<VALUE>98,985 psi</VALUE>
+<UNIT>psi</UNIT>
+<NAME>Discharge pressure-max.</NAME>
+</FEATURE>
+<FEATURE name="PRS_MAX_DUTY_PNT_DT">
+<VALUE>98,957 psi</VALUE>
+<UNIT>psi</UNIT>
+<NAME>Maximum pressure determined at duty point</NAME>
+</FEATURE>
+<FEATURE name="PUMP_PWR_MAX_CRV">
+<VALUE>34,3 hp</VALUE>
+<UNIT>hp</UNIT>
+<NAME>max power @ rated impeller</NAME>
+</FEATURE>
+<FEATURE name="PUMP_PWR_MAX_DUTY_PNT">
+<VALUE>17,67 hp</VALUE>
+<UNIT>hp</UNIT>
+<NAME>Maximum power input at duty point</NAME>
+</FEATURE>
+<FEATURE name="RQRD_PWR_PUMP">
+<NAME>RQRD_PWR_PUMP</NAME>
+</FEATURE>
+<FEATURE name="RTD_SPD_MTR">
+<NAME>RTD_SPD_MTR</NAME>
+</FEATURE>
+<FEATURE name="RTTNL_SPD_PUMP">
+<VALUE>2.915 rpm</VALUE>
+<UNIT>rpm</UNIT>
+<NAME>Pump speed</NAME>
+</FEATURE>
+<FEATURE name="SPCFC_ENRG_DSCHRG_FLOW">
+<VALUE>0 J/m³</VALUE>
+<UNIT>J/m³</UNIT>
+<NAME>SPCFC_ENRG_DSCHRG_FLOW</NAME>
+</FEATURE>
+<FEATURE name="SPCFC_ENRG_MASS_FLOW_RATE">
+<VALUE>0 J/kg</VALUE>
+<UNIT>J/kg</UNIT>
+<NAME>SPCFC_ENRG_MASS_FLOW_RATE</NAME>
+</FEATURE>
+</EXPORTRESULTPOINT>
+<EXPORTREQUESTPOINT>
+<INDEX>1</INDEX>
+<FEATURE name="ALTTD_ABV_SEA_LVL">
+<NAME>ALTTD_ABV_SEA_LVL</NAME>
+</FEATURE>
+<FEATURE name="DIMPOINTINFO">
+<NAME>dimPointInfo</NAME>
+</FEATURE>
+<FEATURE name="DNSTY_PMPD_LQD">
+<VALUE>998 kg/m³</VALUE>
+<UNIT>kg/m³</UNIT>
+<NAME>Density Fluid handled</NAME>
+</FEATURE>
+<FEATURE name="EXPLSN_ZONE">
+<NAME>EXPLSN_ZONE</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_01">
+<NAME>FLD_TEXT_01</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_02">
+<NAME>FLD_TEXT_02</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_03">
+<NAME>FLD_TEXT_03</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_04">
+<NAME>FLD_TEXT_04</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_05">
+<NAME>FLD_TEXT_05</NAME>
+</FEATURE>
+<FEATURE name="NPSH_AVLBL">
+<VALUE>15,09 m</VALUE>
+<UNIT>m</UNIT>
+<NAME>NPSH available</NAME>
+</FEATURE>
+<FEATURE name="PRLLL_OPRTN">
+<NAME>PRLLL_OPRTN</NAME>
+</FEATURE>
+<FEATURE name="PRLLL_PMPNG">
+<NAME>PRLLL_PMPNG</NAME>
+</FEATURE>
+<FEATURE name="PRSSR_MAX_INLT">
+<NAME>PRSSR_MAX_INLT</NAME>
+</FEATURE>
+<FEATURE name="PRS_INLT_SPC">
+<VALUE>0,5 bar</VALUE>
+<UNIT>bar</UNIT>
+<NAME>Specified inlet pressure</NAME>
+</FEATURE>
+<FEATURE name="PRS_VPR_DT">
+<VALUE>0,02 bar</VALUE>
+<UNIT>bar</UNIT>
+<NAME>Vapour pressure determined</NAME>
+</FEATURE>
+<FEATURE name="SLDS_CNTNT">
+<NAME>SLDS_CNTNT</NAME>
+</FEATURE>
+<FEATURE name="TMPRTR_CLSS">
+<NAME>TMPRTR_CLSS</NAME>
+</FEATURE>
+<FEATURE name="TMP_AMBNT_MAX">
+<NAME>TMP_AMBNT_MAX</NAME>
+</FEATURE>
+<FEATURE name="TMP_AMBNT_MIN">
+<NAME>TMP_AMBNT_MIN</NAME>
+</FEATURE>
+<FEATURE name="TMP_FLD_SPC">
+<VALUE>20 °C</VALUE>
+<UNIT>°C</UNIT>
+<NAME>Specified fluid temperature</NAME>
+</FEATURE>
+<FEATURE name="TRGT_DSCHRG_FLOW">
+<VALUE>55 m³/h</VALUE>
+<UNIT>m³/h</UNIT>
+<NAME>Target flow rate</NAME>
+</FEATURE>
+<FEATURE name="TRGT_DSCHRG_HEAD">
+<VALUE>55 m</VALUE>
+<UNIT>m</UNIT>
+<NAME>Target head</NAME>
+</FEATURE>
+<FEATURE name="VSCST_KNMTC_FLD">
+<VALUE>0 m²/s</VALUE>
+<UNIT>m²/s</UNIT>
+<NAME>Kinematic viscosity Fluid handled</NAME>
+</FEATURE>
+</EXPORTREQUESTPOINT>
+<EXPORTREQUESTPOINT>
+<INDEX>2</INDEX>
+<FEATURE name="ALTTD_ABV_SEA_LVL">
+<NAME>ALTTD_ABV_SEA_LVL</NAME>
+</FEATURE>
+<FEATURE name="DIMPOINTINFO">
+<NAME>dimPointInfo</NAME>
+</FEATURE>
+<FEATURE name="DNSTY_PMPD_LQD">
+<VALUE>995 kg/m³</VALUE>
+<UNIT>kg/m³</UNIT>
+<NAME>Density Fluid handled</NAME>
+</FEATURE>
+<FEATURE name="EXPLSN_ZONE">
+<NAME>EXPLSN_ZONE</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_01">
+<NAME>FLD_TEXT_01</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_02">
+<NAME>FLD_TEXT_02</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_03">
+<NAME>FLD_TEXT_03</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_04">
+<NAME>FLD_TEXT_04</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_05">
+<NAME>FLD_TEXT_05</NAME>
+</FEATURE>
+<FEATURE name="NPSH_AVLBL">
+<VALUE>14,91 m</VALUE>
+<UNIT>m</UNIT>
+<NAME>NPSH available</NAME>
+</FEATURE>
+<FEATURE name="PRLLL_OPRTN">
+<NAME>PRLLL_OPRTN</NAME>
+</FEATURE>
+<FEATURE name="PRLLL_PMPNG">
+<NAME>PRLLL_PMPNG</NAME>
+</FEATURE>
+<FEATURE name="PRSSR_MAX_INLT">
+<NAME>PRSSR_MAX_INLT</NAME>
+</FEATURE>
+<FEATURE name="PRS_INLT_SPC">
+<VALUE>0,5 bar</VALUE>
+<UNIT>bar</UNIT>
+<NAME>Specified inlet pressure</NAME>
+</FEATURE>
+<FEATURE name="PRS_VPR_DT">
+<VALUE>0,04 bar</VALUE>
+<UNIT>bar</UNIT>
+<NAME>Vapour pressure determined</NAME>
+</FEATURE>
+<FEATURE name="SLDS_CNTNT">
+<NAME>SLDS_CNTNT</NAME>
+</FEATURE>
+<FEATURE name="TMPRTR_CLSS">
+<NAME>TMPRTR_CLSS</NAME>
+</FEATURE>
+<FEATURE name="TMP_AMBNT_MAX">
+<NAME>TMP_AMBNT_MAX</NAME>
+</FEATURE>
+<FEATURE name="TMP_AMBNT_MIN">
+<NAME>TMP_AMBNT_MIN</NAME>
+</FEATURE>
+<FEATURE name="TMP_FLD_SPC">
+<VALUE>30 °C</VALUE>
+<UNIT>°C</UNIT>
+<NAME>Specified fluid temperature</NAME>
+</FEATURE>
+<FEATURE name="TRGT_DSCHRG_FLOW">
+<VALUE>45 m³/h</VALUE>
+<UNIT>m³/h</UNIT>
+<NAME>Target flow rate</NAME>
+</FEATURE>
+<FEATURE name="TRGT_DSCHRG_HEAD">
+<VALUE>60 m</VALUE>
+<UNIT>m</UNIT>
+<NAME>Target head</NAME>
+</FEATURE>
+<FEATURE name="VSCST_KNMTC_FLD">
+<VALUE>0 m²/s</VALUE>
+<UNIT>m²/s</UNIT>
+<NAME>Kinematic viscosity Fluid handled</NAME>
+</FEATURE>
+</EXPORTREQUESTPOINT>
+<EXPORTREQUESTPOINT>
+<INDEX>3</INDEX>
+<FEATURE name="ALTTD_ABV_SEA_LVL">
+<NAME>ALTTD_ABV_SEA_LVL</NAME>
+</FEATURE>
+<FEATURE name="DIMPOINTINFO">
+<NAME>dimPointInfo</NAME>
+</FEATURE>
+<FEATURE name="DNSTY_PMPD_LQD">
+<VALUE>992 kg/m³</VALUE>
+<UNIT>kg/m³</UNIT>
+<NAME>Density Fluid handled</NAME>
+</FEATURE>
+<FEATURE name="EXPLSN_ZONE">
+<NAME>EXPLSN_ZONE</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_01">
+<NAME>FLD_TEXT_01</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_02">
+<NAME>FLD_TEXT_02</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_03">
+<NAME>FLD_TEXT_03</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_04">
+<NAME>FLD_TEXT_04</NAME>
+</FEATURE>
+<FEATURE name="FLD_TEXT_05">
+<NAME>FLD_TEXT_05</NAME>
+</FEATURE>
+<FEATURE name="NPSH_AVLBL">
+<VALUE>14,66 m</VALUE>
+<UNIT>m</UNIT>
+<NAME>NPSH available</NAME>
+</FEATURE>
+<FEATURE name="PRLLL_OPRTN">
+<NAME>PRLLL_OPRTN</NAME>
+</FEATURE>
+<FEATURE name="PRLLL_PMPNG">
+<NAME>PRLLL_PMPNG</NAME>
+</FEATURE>
+<FEATURE name="PRSSR_MAX_INLT">
+<NAME>PRSSR_MAX_INLT</NAME>
+</FEATURE>
+<FEATURE name="PRS_INLT_SPC">
+<VALUE>0,5 bar</VALUE>
+<UNIT>bar</UNIT>
+<NAME>Specified inlet pressure</NAME>
+</FEATURE>
+<FEATURE name="PRS_VPR_DT">
+<VALUE>0,07 bar</VALUE>
+<UNIT>bar</UNIT>
+<NAME>Vapour pressure determined</NAME>
+</FEATURE>
+<FEATURE name="SLDS_CNTNT">
+<NAME>SLDS_CNTNT</NAME>
+</FEATURE>
+<FEATURE name="TMPRTR_CLSS">
+<NAME>TMPRTR_CLSS</NAME>
+</FEATURE>
+<FEATURE name="TMP_AMBNT_MAX">
+<NAME>TMP_AMBNT_MAX</NAME>
+</FEATURE>
+<FEATURE name="TMP_AMBNT_MIN">
+<NAME>TMP_AMBNT_MIN</NAME>
+</FEATURE>
+<FEATURE name="TMP_FLD_SPC">
+<VALUE>40 °C</VALUE>
+<UNIT>°C</UNIT>
+<NAME>Specified fluid temperature</NAME>
+</FEATURE>
+<FEATURE name="TRGT_DSCHRG_FLOW">
+<VALUE>40 m³/h</VALUE>
+<UNIT>m³/h</UNIT>
+<NAME>Target flow rate</NAME>
+</FEATURE>
+<FEATURE name="TRGT_DSCHRG_HEAD">
+<VALUE>65 m</VALUE>
+<UNIT>m</UNIT>
+<NAME>Target head</NAME>
+</FEATURE>
+<FEATURE name="VSCST_KNMTC_FLD">
+<VALUE>0 m²/s</VALUE>
+<UNIT>m²/s</UNIT>
+<NAME>Kinematic viscosity Fluid handled</NAME>
+</FEATURE>
+</EXPORTREQUESTPOINT>
+</EXPORTITEMDATA>
+<EXPORTCHECKLIST>
+<EXPORTPOSITIONCHECKLIST>
+<POSITIONNUMBER>100</POSITIONNUMBER>
+<EXPORTOPTIONALDATASHEETS>
+<EXPORTRECIPIENT>
+<DOCUMENTATIONOUTPUT>DGTL</DOCUMENTATIONOUTPUT>
+<LANGUAGE>DE</LANGUAGE>
+<NAME>CSTMR</NAME>
+<NUMBER>1</NUMBER>
+</EXPORTRECIPIENT>
+<EXPORTDATASHEETS>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Spare parts list</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Calculation Head loss Piping system suction-side</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Circuit diagram Motor</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Piping layout</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Compact data sheet</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Documentation Explosion protection</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>General arrangement drawing / Forces and moments</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Typical tender</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>General arrangement drawing / Outline drawing (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Speed-based selection chart</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate declaration of conformity / by manufacturer (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Declaration of conformity ErP (Energy-related Products) (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>General assembly drawing</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Hydraulic characteristic curve (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Coupling opt.</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Drive (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Operating manual (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Additional operating manual Shaft seal (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Technical data sheet (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Technical data sheet Control unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Control unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Field bus module Control unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Monitoring unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Technical data sheet Monitoring unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Compact data sheet Control unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Typical tender Control unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Flange dimension Data sheet</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Detail drawing Mechanical seal</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>List of components Pump</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Detailed technical data sheet Drive</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>ISO certificate Motor</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Type test report Motor</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Outline drawing Drive</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Declaration of Incorporation voluntary</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+</EXPORTDATASHEETS>
+</EXPORTOPTIONALDATASHEETS>
+<EXPORTMANDATORYDATASHEETS>
+<LANGUAGE>DE</LANGUAGE>
+<EXPORTDATASHEETS>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Operating manual</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Drive</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Additional operating manual Shaft seal</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Coupling</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate declaration of conformity / by manufacturer</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Declaration of conformity ErP (Energy-related Products)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Technical data sheet</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>General arrangement drawing / Outline drawing</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Hydraulic characteristic curve</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Declaration of Incorporation</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+</EXPORTDATASHEETS>
+</EXPORTMANDATORYDATASHEETS>
+</EXPORTPOSITIONCHECKLIST>
+<EXPORTPOSITIONCHECKLIST>
+<POSITIONNUMBER>200</POSITIONNUMBER>
+<EXPORTOPTIONALDATASHEETS>
+<EXPORTRECIPIENT>
+<DOCUMENTATIONOUTPUT>DGTL</DOCUMENTATIONOUTPUT>
+<LANGUAGE>DE</LANGUAGE>
+<NAME>CSTMR</NAME>
+<NUMBER>1</NUMBER>
+</EXPORTRECIPIENT>
+<EXPORTDATASHEETS>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Spare parts list</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Calculation Head loss Piping system suction-side</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Circuit diagram Motor</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Piping layout</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Compact data sheet</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Documentation Explosion protection</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>General arrangement drawing / Forces and moments</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Typical tender</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>General arrangement drawing / Outline drawing (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Speed-based selection chart</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate declaration of conformity / by manufacturer (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Declaration of conformity ErP (Energy-related Products) (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>General assembly drawing</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Hydraulic characteristic curve (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Coupling opt.</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Drive (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Operating manual (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Additional operating manual Shaft seal (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Technical data sheet (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Technical data sheet Control unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Control unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Field bus module Control unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Monitoring unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Technical data sheet Monitoring unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Compact data sheet Control unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Typical tender Control unit (optional)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Flange dimension Data sheet</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Detail drawing Mechanical seal</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>List of components Pump</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Detailed technical data sheet Drive</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>ISO certificate Motor</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Type test report Motor</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Outline drawing Drive</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Declaration of Incorporation voluntary</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+</EXPORTDATASHEETS>
+</EXPORTOPTIONALDATASHEETS>
+<EXPORTMANDATORYDATASHEETS>
+<LANGUAGE>DE</LANGUAGE>
+<EXPORTDATASHEETS>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Operating manual</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Drive</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Additional operating manual Shaft seal</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate operating manual Coupling</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Separate declaration of conformity / by manufacturer</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Declaration of conformity ErP (Energy-related Products)</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Technical data sheet</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>General arrangement drawing / Outline drawing</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>1</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Hydraulic characteristic curve</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+<EXPORTDATASHEET>
+<SELECTED>0</SELECTED>
+<EXPORTDATASHEET>
+<NAME>Declaration of Incorporation</NAME>
+</EXPORTDATASHEET>
+</EXPORTDATASHEET>
+</EXPORTDATASHEETS>
+</EXPORTMANDATORYDATASHEETS>
+</EXPORTPOSITIONCHECKLIST>
+</EXPORTCHECKLIST>
+<EXPORTDOCUMENTPRICE>
+<CURRENCY>EUR</CURRENCY>
+<TOTALPRICE>0,00 €</TOTALPRICE>
+<TOTALPRICENUMERIC>0</TOTALPRICENUMERIC>
+<EXPORTPOSITIONPRICE>
+<ALTERNATIVE></ALTERNATIVE>
+<ITEMQUANTITY></ITEMQUANTITY>
+<MATERIALNUMBER></MATERIALNUMBER>
+<OPTIONAL></OPTIONAL>
+<PARENTPOSNO></PARENTPOSNO>
+<POSITIONNUMBER>100</POSITIONNUMBER>
+<TOTALPRICEDISPLAY>n/a</TOTALPRICEDISPLAY>
+<TOTALPRICENUMERIC>0</TOTALPRICENUMERIC>
+<POSITION>
+<PRODUCTNAME>ETN 080-065-200-GGSAA11GS2AB2DBB</PRODUCTNAME>
+</POSITION>
+</EXPORTPOSITIONPRICE>
+</EXPORTDOCUMENTPRICE>
+</EXPORTDOCUMENTDATA>

@@ -1,0 +1,35 @@
+{"page":null,"limit":null,"total":1,"lang":"en",
+    "items":[
+        {"id":"99999","title":"Cathodic dip painting (CDP) application",
+            "variants":[
+                {"id":"351A6A0B9F4C1D489906F1C146772787","title":"* Pressure drainage"},
+                {"id":"F1FF76A03CD9424C85325C0A0ED299D6","title":"* new entry"},
+                {"id":"FF5B23461EA9E8468A930B5D5DBF6BF8","title":"* containing air and gas"},
+                {"id":"6AC563A7DDECE84E8EA4AF2A9F9ECC13","title":"* without further specification 50328"},
+                {"id":"07AE806CFBA5C941912CC1A2DDDCAF23","title":"* Filtrate (CDP application)"},
+                {"id":"EDA4673BEC1E4E4F8BB2D269A7F4DD98","title":"* variant of the new fluid for testing"},
+                {"id":"DCA5791D89F5AD4984DE340FFE3AAA21","title":"* brewed according to the German purity law"},
+                {"id":"BC8E1EF8063BC64EA31D44C0C7F7F15E","title":"* with minimum ethanol 95 %"},
+                {"id":"2AF911CD354DBA448EACF31487DB6B9B","title":"* new English fluid variant"},
+                {"id":"C54A48AEEEADB348B85DA3084D4B7836","title":"* whit milk and sugar"},
+                {"id":"DDCE134D4725E549ADF8C4BFF41D48DF","title":"* Clean water"},
+                {"id":"EEAEF7131A41C645A84E5571C125CDE2","title":"* brewed according to the German purity law"},
+                {"id":"13B4FC46C5390A429B997420E4703610","title":"* Vinegar (concentration up to 5%)"},
+                {"id":"122A1ACB97F1DC41ABD488789CAC596E","title":"* Clean water"},
+                {"id":"CD81EDC4E309584A8B0FF5C3BC10F2E8","title":"* with ammonium hydroxide up to 5%"},
+                {"id":"EE3DDE2DF3212C48BDA40A0930DD628B","title":"* Vinegar (concentration up to 5%)"},
+                {"id":"C0D70A2624D2D648979A90BEA2E356AD","title":"* Clean water"},
+                {"id":"E2C70C19F8B16143B267A4C70077EA9E","title":"* Spirits (40% ethanol)"},
+                {"id":"162EB2B767D81349942A375AE1B9276B","title":"* Apple juice"},
+                {"id":"85751F368301944DB785756DB4E65026","title":"* Greate taste"},
+                {"id":"7C6D74D4C084FA42BEE70E3AA2DEEF9F","title":"* Whey"},
+                {"id":"CAEA85F1D4EE824D9BB0CD21889C6DA0","title":"* best APPLES"},
+                {"id":"85E6B4B2DB513D4D804784BD64F9C8ED","title":"* Clean water"},
+                {"id":"944485F59BA6E045B6ED47768E9C9252","title":"* clean water (befor washing)"},
+                {"id":"5515FF169FC358499F3DB40F88AD2A03","title":"* Black water (acc. to EN 12056)"},
+                {"id":"E379B77EBB682C4E849A053D1B8F3645","title":"* Cider"},
+                {"id":"9A9756351DD285419C906DF07C343F1F","title":"* Clean water"}
+            ]
+        }
+    ]
+}

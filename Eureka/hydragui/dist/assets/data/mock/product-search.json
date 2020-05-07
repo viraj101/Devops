@@ -1,0 +1,131 @@
+{
+    "lang": "en",
+    "type_series": [
+        {
+            "id": "43",
+            "product_family_id": "WAWALU",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "Ama-Drainer-Box"
+        },
+        {
+            "id": "44",
+            "product_family_id": "WAWALU",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "Ama-Drainer-Box Mini"
+        },
+        {
+            "id": "45",
+            "product_family_id": "PUMPEN",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "Ama-Porter"
+        },
+        {
+            "id": "3",
+            "product_family_id": "WAWAPU",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "AmaClean"
+        },
+        {
+            "id": "47",
+            "product_family_id": "PUMPEN",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "AmaDrainer"
+        },
+        {
+            "id": "46",
+            "product_family_id": "PUMPEN",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "Amacan"
+        },
+        {
+            "id": "70",
+            "product_family_id": "MIX_STIRRER",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "Amamix"
+        },
+        {
+            "id": "71",
+            "product_family_id": "MIX_STIRRER",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "Amaprop"
+        },
+        {
+            "id": "72",
+            "product_family_id": "PUMPEN",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "Amarex China"
+        },
+        {
+            "id": "49",
+            "product_family_id": "PUMPEN",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "Amarex India"
+        },
+        {
+            "id": "4",
+            "product_family_id": "PUMPEN",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "Amarex KRT / Amarex N"
+        },
+        {
+            "id": "2",
+            "product_family_id": "PUMPEN",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "Amarex [B]"
+        },
+        {
+            "id": "56",
+            "product_family_id": "SEWLIF",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "Evamatic Box"
+        },
+        {
+            "id": "57",
+            "product_family_id": "SEWLIF",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "Evamatic-Box N"
+        },
+        {
+            "id": "23",
+            "product_family_id": "PRBOUN",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "Hyamat / Hya-Solo / Hya-Duo / Hya-Eco"
+        },
+        {
+            "id": "407",
+            "product_family_id": "ARMATUREN",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "NORI 40 RXL/RXS [A]"
+        },
+        {
+            "id": "408",
+            "product_family_id": "ARMATUREN",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "NORI 40 ZXL/ZXS [A]"
+        },
+        {
+            "id": "809",
+            "product_family_id": "ARMATUREN",
+            "exclude_message": null,
+            "product_class": null,
+            "title": "NORI 40 ZXLF/ZXSF [A]"
+        }
+    ]
+}

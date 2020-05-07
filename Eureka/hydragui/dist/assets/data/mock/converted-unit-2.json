@@ -1,0 +1,23 @@
+{
+    "feature_id": "MNS_FRQNC",
+    "type": "Number",
+    "unit_id": "1/min",
+    "unit_group_id": "Frequency",
+    "title": "Mains frequency",
+    "domain_values": [
+        {
+            "domain_id": "1",
+            "domain_value": "1"
+        },
+        {
+            "domain_id": "2",
+            "domain_value": "2"
+        },
+        {
+            "domain_id": "3",
+            "domain_value": "3"
+        }
+    ],
+    "feature_value": "1",
+    "visible": null
+}

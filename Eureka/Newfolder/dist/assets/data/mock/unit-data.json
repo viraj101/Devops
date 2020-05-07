@@ -1,0 +1,97 @@
+{
+  "lang": "en",
+  "system": "si",
+  "unit_groups": [
+    {
+      "id": "Length",
+      "title": "Length",
+      "units": [
+        {
+          "id": "m",
+          "title": "m",
+          "default": false,
+          "decimal": 2,
+          "significant": 3,
+          "system": "si"
+        },
+        {
+          "id": "cm",
+          "title": "cm",
+          "default": true,
+          "decimal": 2,
+          "significant": 3,
+          "system": "si"
+        },
+        {
+          "id": "mm",
+          "title": "mm",
+          "default": false,
+          "decimal": 2,
+          "significant": 3,
+          "system": "si"
+        },
+        {
+          "id": "inches",
+          "title": "inches",
+          "default": false,
+          "decimal": 2,
+          "significant": 3,
+          "system": "imperial"
+        }
+      ]
+    },
+    {
+      "id": "Apparent Power",
+      "title": "Apparent Power",
+      "units": [
+        {
+          "id": "kVA",
+          "title": "kVA",
+          "default": false,
+          "decimal": 2,
+          "significant": 3
+        },
+        {
+          "id": "MVA",
+          "title": "MVA",
+          "default": true,
+          "decimal": 2,
+          "significant": 3
+        }
+      ]
+    },
+    {
+      "id": "Volume",
+      "title": "Volume",
+      "units": [
+        {
+          "id": "m3",
+          "title": "m3",
+          "default": false,
+          "decimal": 2,
+          "significant": 3
+        },
+        {
+          "id": "cm3",
+          "title": "cm3",
+          "default": true,
+          "decimal": 2,
+          "significant": 3
+        }
+      ]
+    },
+    {
+      "id": "UNKNOWN",
+      "title": "UNKNOWN",
+      "units": [
+        {
+          "id": "UNKNOWNPHYSICALUNIT",
+          "title": "UNKNOWNPHYSICALUNIT",
+          "default": true,
+          "decimal": 0,
+          "significant": 0
+        }        
+      ]
+    }
+  ]
+}

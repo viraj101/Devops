@@ -1,0 +1,33 @@
+Working:
+
+Copy jar inside container
+
+sudo docker run -itd -p 9999:8085 -v ~/test:/app test1
+
+linux@Newmachine:~/test$ curl -H "Content-Type: application/json" -X POST -d @order.json http://localhost:9999/createJob
+88dbfe07-8073-49af-b973-54185518654blinux@Newmachine:~/test$
+linux@Newmachine:~/test$
+linux@Newmachine:~/test$
+linux@Newmachine:~/test$
+linux@Newmachine:~/test$ sudo docker exec -it 4b sh
+# cd /app
+# ls
+ 100-12760-1-1.xml                             BirtScheduler.postman_test_run.json   GNRL_ARR_DRW_FRCS_MMNTS.rptdesign     birdtest.pdf
+ 100-13661-1-1.xml                             CMPCT_DATA_SHT.rptdesign              KSBaseMasterPage.rptlibrary           birt_teste322.pdf
+ 100-13661-1-GNRL_ARR_DRW_FRCS_MMNTS.svg      'D:\camos\ksb\log'                     KSBaseMasterPagePump.rptlibrary       order.json
+ BirtScheduler.jar                             Dockerfile                            TCHNCL_DATA_SHT.rptdesign             reports
+'BirtScheduler.postman_test_run - Copy.json'   FixTextData-1.xml                     Visibility-A31B-TCHNCL_DATA_SHT.xml
+# nano order.json
+# car order.json
+sh: 4: car: not found
+# cat order.json
+{"pluginDatasourcePath":"/app/100-12760-1-1.xml",
+"fixTextDatasourcePath":"/app/FixTextData-1.xml",
+"templateFilePath":"/app/TCHNCL_DATA_SHT.rptdesign",
+"visibilityDatasource":"/app/Visibility-A31B-TCHNCL_DATA_SHT.xml",
+"position":"100",
+"outputFileName":"/app/birdtest.pdf",
+"outPutFormat":"pdf",
+"numberOfImages":"0",
+"startPageNumber":"0"}
+#

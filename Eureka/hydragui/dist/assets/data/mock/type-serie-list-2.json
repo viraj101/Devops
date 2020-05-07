@@ -1,0 +1,32 @@
+{
+  "lang": "de",
+  "page": 1,
+  "limit": 100,
+  "total": 20,
+  "type_series": [
+    {
+      "id": "1",
+      "product_family_id": "2",
+      "title": "Pumpen Serie 1",
+      "exclude_message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+      "id": "2",
+      "product_family_id": "2",
+      "title": "Pumpen Serie 2",
+      "exclude_message": ""
+    },
+    {
+      "id": "3",
+      "product_family_id": "2",
+      "title": "Pumpen Serie 3",
+      "exclude_message": ""
+    },
+    {
+      "id": "4",
+      "product_family_id": "2",
+      "title": "Pumpen Serie 4",
+      "exclude_message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    }
+  ]
+}

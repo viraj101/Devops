@@ -1,0 +1,156 @@
+{
+  "lang": "en",
+  "features": [
+    {
+      "feature_id": "feature_arm_1",
+      "type": "CHAR",
+      "title": "Kopfflanschtyp",
+      "domain_values": [
+        {
+          "domain_id": "1",
+          "domain_value": "option 1"
+        },
+        {
+          "domain_id": "2",
+          "domain_value": "option 2"
+        },
+        {
+          "domain_id": "3",
+          "domain_value": "option 3"
+        }
+      ]
+    },
+    {
+      "feature_id": "feature_arm_2",
+      "type": "CHAR",
+      "title": "Form Wellenende",
+      "domain_values": [
+        {
+          "domain_id": "1",
+          "domain_value": "Wellenende option 1"
+        },
+        {
+          "domain_id": "2",
+          "domain_value": "Wellenende option 2"
+        },
+        {
+          "domain_id": "3",
+          "domain_value": "Wellenende option 3"
+        }
+      ]
+    },
+    {
+      "feature_id": "feature_arm_3",
+      "type": "CHAR",
+      "title": "Baugröße Stellantrieb",
+      "domain_values": [
+        {
+          "domain_id": "1",
+          "domain_value": "1"
+        },
+        {
+          "domain_id": "2",
+          "domain_value": "2"
+        },
+        {
+          "domain_id": "3",
+          "domain_value": "3"
+        }
+      ]
+    },
+    {
+      "feature_id": "feature_arm_4",
+      "type": "CHAR",
+      "title": "Montage Richtung",
+      "domain_values": [
+        {
+          "domain_id": "0",
+          "domain_value": "0 degree"
+        },
+        {
+          "domain_id": "45",
+          "domain_value": "45 degree"
+        },
+        {
+          "domain_id": "90",
+          "domain_value": "90 degree"
+        }
+      ]
+    },
+    {
+      "feature_id": "feature_arm_5",
+      "type": "CHAR",
+      "title": "main voltage",
+      "unit_id": "kVA"
+    },
+    {
+      "feature_id": "feature_arm_6",
+      "type": "UNIT",
+      "title": "Aufstellungshöhe über NN",
+      "unit_id": "m"
+    },
+    {
+      "feature_id": "feature_arm_7",
+      "type": "CHAR",
+      "title": "Netzspannung",
+      "domain_values": [
+        {
+          "domain_id": "1",
+          "domain_value": "400v"
+        },
+        {
+          "domain_id": "2",
+          "domain_value": "500v"
+        }
+      ]
+    },
+    {
+      "feature_id": "feature_arm_8",
+      "type": "INT",
+      "title": "Umgebungslufttemperatur"
+    },
+    {
+      "feature_id": "feature_arm_9",
+      "type": "UNIT",
+      "title": "Aufstellungshöhe über NN",
+      "unit_id": "cm"
+    },
+    {
+      "feature_id": "feature_arm_10",
+      "type": "INT",
+      "title": "lorem lorem",
+      "unit_id": "m",
+      "domain_values":[{
+        "domain_id":"1",
+        "domain_value": "1"
+      }, {
+        "domain_id":"2",
+        "domain_value": "2"
+      }]
+    },
+    {
+      "feature_id": "feature_arm_11",
+      "type": "UNIT",
+      "title": "feature arm 11 of alternative group 1",
+      "unit_id": "m"
+    },
+    {
+      "feature_id": "feature_arm_12",
+      "type": "UNIT",
+      "title": "title feature arm 12  of alternative group 1",
+      "unit_id": "m"
+    },
+    {
+      "feature_id": "feature_arm_13",
+      "type": "UNIT",
+      "title": "title feature arm 13 of alternative group 1",
+      "unit_id": "m"
+    },
+    {
+      "feature_id": "feature_arm_14",
+      "type": "UNIT",
+      "title": "title feature arm 14 of alternative group 1",
+      "unit_id": "m"
+    }
+  ]
+}

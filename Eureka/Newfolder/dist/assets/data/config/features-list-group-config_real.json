@@ -1,0 +1,113 @@
+[{
+  "title":"Red group",
+  "id":"GRP_RED",
+  "help_text":"This is the group that contains some arbitrary features",
+  "description":"KopfflanschtypNo description",
+  "default_visible":true,
+  "features_id": ["MNS_FRQNC","TRGT_DSCHRG_HEAD","TRGT_DSCHRG_PRSSR","TRGT_MASS_FLOW_RATE","TRGT_DSCHRG_FLOW","ProductFamily", "DSCHRG_HEAD_5", "NMNL_PRSSR_OTLT","SPCFCTN_ACCRDNG_CSTMR_RQST","CMPNNT_FNCTN","CSTMR_RQST_BASF","STNDRD_IPPC_ISPM15"],
+  "features":[{
+    "id": "MNS_FRQNC",
+    "required": true    
+  },
+  {
+    "id": "TRGT_DSCHRG_HEAD",
+    "required": false,
+    "suppress": true
+  },
+  {
+    "id": "TRGT_DSCHRG_PRSSR",
+    "required": false,
+    "suppress": true
+  },
+  {
+    "id": "TRGT_MASS_FLOW_RATE",
+    "required": false,
+    "suppress": true
+  },
+  {
+    "id": "TRGT_DSCHRG_FLOW",
+    "required": false,
+    "suppress": true
+  },
+  {
+    "id": "TRGT_DSCHRG_HEAD",
+    "required": false,
+    "suppress": true
+  },
+  {
+    "id": "ProductFamily",
+    "required": false,
+    "suppress": true
+  }, 
+  {
+    "id": "BPSS_FLOW_RATE",
+    "required": false
+  }, 
+  {
+    "id": "DSCHRG_HEAD_6",
+    "required": false,
+    "alternative": true,
+    "alternative_group_id": "alternative_group_1"
+  },
+  {
+    "id": "NMNL_PRSSR_OTLT",
+    "required": false
+  },
+  {
+    "id": "SPCFCTN_ACCRDNG_CSTMR_RQST",
+    "required": false
+  },
+  {
+    "id": "CMPNNT_FNCTN",
+    "required": false
+  },  
+  {
+    "id": "CSTMR_RQST_BASF",
+    "required": false
+  },
+  {
+    "id": "STNDRD_IPPC_ISPM15",
+    "required": false
+  }]
+},{
+  "title":"Ausführung",
+  "id":"Ausführung",
+  "help_text":"Ausführung features_id",
+  "description":"Ausführung, lorem  . It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+  "default_visible":false,
+  "features_id": ["TYPE_SRS_SIZE", "MTRL_SCRWS_HDRLC_CSNG", "MCHNCL_SEAL_TYPE_PRDCT_SIDE", "PSSBL_CMPLTNSS_GRD", "PMP_KIND", "MTR_SWTCHNG_MODE","MTRL_SCRWD_PLUG_HDRLC_CSNG"],
+  "features":[{
+    "id": "TYPE_SRS_SIZE",
+    "required": false
+  }, {
+    "id": "MTRL_SCRWS_HDRLC_CSNG",
+    "required": false
+  }, {
+    "id": "MCHNCL_SEAL_TYPE_PRDCT_SIDE",
+    "required": false
+  }, {
+    "id": "PSSBL_CMPLTNSS_GRD",
+    "required": false
+  }, {
+    "id": "PMP_KIND",
+    "required": false    
+  }, {
+    "id": "MTR_SWTCHNG_MODE",
+    "required": false,
+    "alternative": true,
+    "alternative_group_id": "alternative_group_1"
+  }, {
+    "id": "MTRL_SCRWD_PLUG_HDRLC_CSNG",
+    "required": false,
+    "alternative": true,
+    "alternative_group_id": "alternative_group_1" 
+  }]
+},{
+  "title": "other Features",
+  "id": "otherFeatures",
+  "help_text": "these features doesnt belong to any group",
+  "description": "these features doesnt belong to any group",
+  "default_visible": false,
+  "features_id": [],
+  "features":[]
+}]

@@ -1,0 +1,29 @@
+version: '2.0'
+services:
+  nginxproxy:
+    container_name: nginxproxy
+    image: digitalunit4ksb/birtscheduler:nginx
+    ports:
+      - 80:80
+    depends_on:
+      - birtscheduler
+    restart: unless-stopped
+
+  birtscheduler:
+    image: digitalunit4ksb/birtscheduler:develop
+    ports:
+      - 8085
+    environment:
+      - birtscheduler.corepoolsize=6
+      - birtscheduler.maxpoolsize=30
+      - birtscheduler.keepalivetime=150
+      - birtscheduler.queuesize=150
+      - birtscheduler.intervalperiod=60
+    volumes:
+      -  /mnt/camos/ksb:/app/camos/ksb
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    restart: unless-stopped

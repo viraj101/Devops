@@ -1,0 +1,28 @@
+{
+    "lang": "en",
+    "features": [
+        {
+            "feature_id": "MNS_FRQNC",
+            "type": null,
+            "unit_id": "Hz",
+            "unit_group_id": "Frequency",
+            "title": "Mains frequency",
+            "domain_values": [
+                {
+                    "domain_id": "50",
+                    "domain_value": "50"
+                },
+                {
+                    "domain_id": "60",
+                    "domain_value": "60"
+                },
+                {
+                    "domain_id": "99999",
+                    "domain_value": "99999"
+                }
+            ],
+            "feature_value": null,
+            "visible": null
+        }
+    ]
+}

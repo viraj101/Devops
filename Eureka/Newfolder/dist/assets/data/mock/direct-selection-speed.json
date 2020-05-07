@@ -1,0 +1,28 @@
+{
+    "lang": "en",
+    "features": [
+        {
+            "feature_id": "MTR_EFFCTV_SPD",
+            "type": null,
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Motor-Effektivdrehzahl",
+            "domain_values": [
+                {
+                    "domain_id": "960",
+                    "domain_value": "960"
+                },
+                {
+                    "domain_id": "860",
+                    "domain_value": "860"
+                },
+                {
+                    "domain_id": "240",
+                    "domain_value": "240"
+                }
+            ],
+            "feature_value": null,
+            "visible": null
+        }
+    ]
+}

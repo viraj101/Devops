@@ -1,0 +1,63 @@
+version: '2.0'
+
+#services:
+#  nginxproxy:
+#    container_name: nginxproxy
+#    build: .
+#    scale: 3
+#    ports:
+#      - 81:80
+#    depends_on:
+#      - searcherservice
+
+services:
+  nginxproxy:
+    container_name: nginxproxy
+    image: digitalunit4ksb/birtscheduler:nginx
+    build: . 
+    ports:
+      - 81:80
+    depends_on:
+      - birtscheduler
+#    deploy:
+#   replicas: 2
+#    networks:
+#      - mynet	
+
+  birtscheduler:
+    image: digitalunit4ksb/birtscheduler:develop
+    build: ./birt
+    container_name: birtscheduler
+    #replicas: 2
+    ports:
+      - 8085
+    environment:
+      - birtscheduler.corepoolsize=6
+      - birtscheduler.maxpoolsize=30
+      - birtscheduler.keepalivetime=150
+      - birtscheduler.queuesize=150
+      - birtscheduler.intervalperiod=60
+#    volumes:
+#      -  /mnt/camos/ksb:/app/camos/ksb
+#    logging:
+#      driver: "json-file"
+#      options:
+#        max-size: "10m"
+#        max-file: "3"
+    restart: unless-stopped
+
+#  nodejs:
+    #image: 
+#    build: ./docker-hello-world
+#    container_name: nodejs
+    #replicas: 2
+#    ports:
+#      - 8080
+
+ # searcherservice:
+    #image: 
+ #   build: ../../ss
+ #   container_name: searcherservice
+    #replicas: 2
+ #   ports:
+ #     - 8090

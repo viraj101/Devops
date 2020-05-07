@@ -1,0 +1,2307 @@
+{
+    "page": null,
+    "limit": null,
+    "total": 355,
+    "lang": "en",
+    "items": [
+        {"id": "10099","title": "Wastewater, municipal",
+            "variants": [
+                {"id": "50100","title": "Raw water containing solids and long fibres"},
+                {"id": "50101","title": "biologically treated"},
+                {"id": "50103","title": "Pressure drainage"},
+                {"id": "50105","title": "containing air and gas"},
+                {"id": "51705","title": "Domestic wastewater with faeces"},
+                {"id": "51706","title": "Domestic wastewater without faeces"},
+                {"id": "50107","title": "mechanically treated"},
+                {"id": "50109","title": "untreated"}
+            ]
+        },
+        {"id": "10111","title": "Alkali lye, bottle rinsing lye",
+            "variants": [
+                {"id": "51673","title": "with 10% sodium hydroxide"},
+                {"id": "51165","title": "with 2% Sodium hydroxide (NaOH)"}
+            ]
+        },
+        {"id": "10113","title": "Ammonia water",
+            "variants": [
+                {"id": "50113","title": "Concentration up to 10% 50113"},
+                {"id": "51097","title": "Concentration up to 30% 51097"},
+                {"id": "51131","title": "Concentration up to 25% 51131"}
+            ]
+        },
+        {"id": "10116","title": "Ammonium bicarbonate",
+            "variants": [
+                {"id": "50116","title": "Concentration up to 10% 50116"},
+                {"id": "51098","title": "Concentration up to 26% 51098"}
+            ]
+        },
+        {"id": "10120","title": "Degreasing solution",
+            "variants": [
+                {"id": "50120","title": "Alkaline degreasing solution"},
+                {"id": "51134","title": "Alkaline degreasing solution (10% NaOH)"}
+            ]
+        },
+        {"id": "10121","title": "Potassium hydroxide",
+            "variants": [
+                {"id": "50121","title": "Concentration up to 50% 50121"},
+                {"id": "50921","title": "Concentration up to 30% 50921"},
+                {"id": "50922","title": "Concentration up to 80% 50922"},
+                {"id": "50142","title": "Concentration up to 5% 50142"},
+                {"id": "50143","title": "Concentration up to 10% 50143"}
+            ]
+        },
+        {"id": "10123","title": "Cooling brine on potassium carbonate base",
+            "variants": [
+                {"id": "50130","title": "Concentration up to 36.6% 50130"},
+                {"id": "50133","title": "Concentration up to 12.8% 50133"},
+                {"id": "50134","title": "Concentration up to 21.2% 50134"},
+                {"id": "50137","title": "Concentration up to 50% 50137"},
+                {"id": "50122","title": "Concentration up to 10% 50122"},
+                {"id": "50138","title": "Concentration up to 25% 50138"},
+                {"id": "50127","title": "Concentration up to 31% 50127"}
+            ]
+        },
+        {"id": "10144","title": "Calcium hydroxide",
+            "variants": [
+                {"id": "50144","title": "Concentration up to 10% 50144"},
+                {"id": "50775","title": "Concentration up to 25% 50775"},
+                {"id": "50776","title": "Concentration up to 15% 50776"},
+                {"id": "50777","title": "Concentration up to 5% 50777"},
+                {"id": "50779","title": "Concentration (to be specified) 50779"}
+            ]
+        },
+        {"id": "10146","title": "Sodium carbonate",
+            "variants": [
+                {"id": "50146","title": "Concentration up to 6% 50146"},
+                {"id": "50148","title": "Concentration up to 10% 50148"},
+                {"id": "50149","title": "Concentration up to 25% 50149"},
+                {"id": "51113","title": "Concentration up to 30% 51113"}
+            ]
+        },
+        {"id": "10151","title": "Sodium hydrogen carbonate",
+            "variants": [
+                {"id": "50151","title": "Concentration up to 6% 50151"},
+                {"id": "51114","title": "Concentration up to 10% 51114"}
+            ]
+        },
+        {"id": "10158","title": "Sodium hydroxide",
+            "variants": [
+                {"id": "50935","title": "Concentration up to 75% 50935"},
+                {"id": "50937","title": "Concentration up to 50% 50937"},
+                {"id": "51146","title": "Concentration up to 30% 51146"},
+                {"id": "50155","title": "Concentration up to 5% 50155"},
+                {"id": "51147","title": "Concentration up to 35% 51147"},
+                {"id": "50156","title": "Concentration up to 10% 50156"},
+                {"id": "51148","title": "Concentration up to 40% 51148"},
+                {"id": "51149","title": "Concentration up to 45% 51149"},
+                {"id": "50158","title": "Concentration up to 20%"}
+            ]
+        },
+        {"id": "10170","title": "Alcohol, butanol",
+            "variants": [
+                {"id": "51096","title": "Isobutanol (2-methylpropyl alcohol)"},
+                {"id": "50170","title": "n-butanol"}
+            ]
+        },
+        {"id": "10171","title": "Alcohol, ethanol",
+            "variants": [
+                {"id": "51987","title": "Ethanol 95 %"},
+                {"id": "50171","title": "without further specification 50171"}
+            ]
+        },
+        {"id": "10173","title": "Alcohol, propanol",
+            "variants": [
+                {"id": "51130","title": "2-propanol"},
+                {"id": "50173","title": "1-propanol"}
+            ]
+        },
+        {"id": "10174","title": "Alcohol, methanol",
+            "variants": [
+                {"id": "50174","title": "without further specification 50174"}
+            ]
+        },
+        {"id": "10188","title": "Cooling lubricant",
+            "variants": [
+                {"id": "50188","title": "Boring emulsion (Cimcool)"}
+            ]
+        },
+        {"id": "10192","title": "Emulsion",
+            "variants": [
+                {"id": "50192","title": "Water/oil, free of solids"},
+                {"id": "51166","title": "Water/oil (95%/5%), free of solids"}
+            ]
+        },
+        {"id": "10199","title": "Water, fire-fighting water",
+            "variants": [
+                {"id": "50204","title": "without further specification 50204"}
+            ]
+        },
+        {"id": "10205","title": "Glycols (pure)",
+            "variants": [
+                {"id": "50209","title": "Polyethylene glycol"},
+                {"id": "50849","title": "without further specification 50849"},
+                {"id": "50213","title": "Polypropylene glycol"},
+                {"id": "50763","title": "Dipropylene glycol"},
+                {"id": "50832","title": "Triethylene glycol"},
+                {"id": "50801","title": "Methyl glycol"},
+                {"id": "50833","title": "Trimethylene glycol"},
+                {"id": "50834","title": "Tripropylene glycol"},
+                {"id": "50773","title": "Hexamethylene glycol"},
+                {"id": "50805","title": "Neopentyl glycol"},
+                {"id": "50807","title": "Propylene glycol"},
+                {"id": "50907","title": "Hexylene glycol"},
+                {"id": "50205","title": "Diethylene glycol"},
+                {"id": "50207","title": "Ethylene glycol"}
+            ]
+        },
+        {"id": "10214","title": "Antifreeze on ethylene glycol base, inhibited, closed system, e.g. Antifrogen N or similar products",
+            "variants": [
+                {"id": "52000","title": "Antifrogen N, concentration 60%"},
+                {"id": "50221","title": "Concentration 20%"},
+                {"id": "50288","title": "Concentration 45% 50288"},
+                {"id": "50261","title": "Concentration 40% 50261"},
+                {"id": "50295","title": "Concentration 30% 50295"},
+                {"id": "50296","title": "Concentration 35% 50296"},
+                {"id": "51992","title": "Antifrogen N, concentration 34%"},
+                {"id": "51993","title": "Antifrogen N, concentration 39%"},
+                {"id": "51994","title": "Antifrogen N, concentration 44%"},
+                {"id": "51995","title": "Antifrogen N, concentration 46%"},
+                {"id": "51996","title": "Antifrogen N, concentration 52%"},
+                {"id": "50237","title": "Concentration 25%"},
+                {"id": "50269","title": "Concentration 50% 50269"},
+                {"id": "51997","title": "Antifrogen N, concentration 53%"},
+                {"id": "51998","title": "Antifrogen N, concentration 55%"},
+                {"id": "51999","title": "Antifrogen N, concentration 56%"}
+            ]
+        },
+        {"id": "10270","title": "Antifreeze on ethylene glycol base, inhibited, open system, e.g. Antifrogen N or similar products",
+            "variants": [
+                {"id": "50272","title": "Concentration 30% 50272"},
+                {"id": "50273","title": "Concentration 35% 50273"},
+                {"id": "50274","title": "Concentration 40% 50274"},
+                {"id": "50275","title": "Concentration 45% 50275"},
+                {"id": "50276","title": "Concentration 50% 50276"},
+                {"id": "50270","title": "Concentration 20% 50270"},
+                {"id": "50271","title": "Concentration 25% 50271"}
+            ]
+        },
+        {"id": "10300","title": "Acetone",
+            "variants": [
+                {"id": "50300","title": "without further specification 50300"}
+            ]
+        },
+        {"id": "10301","title": "Fuel, petrol",
+            "variants": [
+                {"id": "50301","title": "without further specification 50301"}
+            ]
+        },
+        {"id": "10304","title": "Fuel, diesel oil",
+            "variants": [
+                {"id": "50304","title": "without further specification 50304"},
+                {"id": "50920","title": "Heavy oil"}
+            ]
+        },
+        {"id": "10308","title": "Fuel, heating fuel oil",
+            "variants": [
+                {"id": "50308","title": "Heating fuel oil, EL"}
+            ]
+        },
+        {"id": "10310","title": "Petroleum (kerosene)",
+            "variants": [
+                {"id": "50310","title": "without further specification 50310"}
+            ]
+        },
+        {"id": "10311","title": "Glycerine",
+            "variants": [
+                {"id": "51681","title": "Concentration up to 40% 51681"},
+                {"id": "50311","title": "Concentration up to 90% 50311"}
+            ]
+        },
+        {"id": "10314","title": "Hydrocarbon",
+            "variants": [
+                {"id": "51008","title": "Butadiene (1,3-butadiene)"},
+                {"id": "51009","title": "n-butane"},
+                {"id": "51010","title": "Cyclohexane"},
+                {"id": "51011","title": "Decane"},
+                {"id": "51012","title": "Heptane (n-heptane)"},
+                {"id": "51013","title": "Isobutane (2-methyl propane)"},
+                {"id": "51014","title": "Isobutene (isobutylene)"},
+                {"id": "51015","title": "Isopentane (2-methyl butane)"},
+                {"id": "51016","title": "C4 hydrocarbons (C4 fraction)"},
+                {"id": "51017","title": "n-pentane"},
+                {"id": "50314","title": "n-hexane"},
+                {"id": "51019","title": "n-butene"},
+                {"id": "51020","title": "Propane 51020"},
+                {"id": "51021","title": "Propene"},
+                {"id": "51922","title": "Styrene (Vinylbenzene)"},
+                {"id": "51925","title": "Methylcyclohexane (Hexahydrotoluene)"}
+            ]
+        },
+        {"id": "10317","title": "Fuel, kerosene",
+            "variants": [
+                {"id": "51168","title": "Kerosene JP4"},
+                {"id": "50317","title": "without further specification 50317"}
+            ]
+        },
+        {"id": "10319","title": "Paraffin",
+            "variants": [
+                {"id": "51687","title": "White oil (paraffin oil) BP Energol WM2"},
+                {"id": "50319","title": "without further specification v"}
+            ]
+        },
+        {"id": "10321","title": "Cooling brine, Tyfoxit",
+            "variants": [
+                {"id": "50321","title": "Concentrate, pure Tyfoxit 50"}
+            ]
+        },
+        {"id": "10323","title": "Cooling brine, Pekasol",
+            "variants": [
+                {"id": "50323","title": "Concentrate, pure Pekasol 50"}
+            ]
+        },
+        {"id": "10327","title": "Beverages, alcoholic",
+            "variants": [
+                {"id": "51936","title": "Liqueur with egg yolks"},
+                {"id": "51937","title": "Herbal liqueur up to 50 % alcohol content"},
+                {"id": "50338","title": "Wine, white, red"},
+                {"id": "51938","title": "Sparkling wine"},
+                {"id": "51891","title": "Liqueur of fruits"},
+                {"id": "51939","title": "Plant juice (sap) with 24% ethanol"},
+                {"id": "50327","title": "Beer"},
+                {"id": "50330","title": "Spirits (40% ethanol)"},
+                {"id": "50924","title": "Must"},
+                {"id": "50925","title": "Pernod"}
+            ]
+        },
+        {"id": "10328","title": "Beer mash",
+            "variants": [
+                {"id": "50328","title": "without further specification 50328"}
+            ]
+        },
+        {"id": "10329","title": "Beer wort",
+            "variants": [
+                {"id": "50329","title": "without further specification 50329"},
+                {"id": "51933","title": "Brewing yeast (propagation)"},
+                {"id": "51934","title": "Hops (brewery)"},
+                {"id": "51935","title": "Beer trub (brewery)"}
+            ]
+        },
+        {"id": "10332","title": "Condenser water (sugar production)",
+            "variants": [
+                {"id": "50332","title": "without further specification 50332"}
+            ]
+        },
+        {"id": "10333","title": "Beverages, non-alcoholic",
+            "variants": [
+                {"id": "51892","title": "Cola"},
+                {"id": "51940","title": "Lemonade"},
+                {"id": "51988","title": "Caffeine crystals (liquid)"},
+                {"id": "51893","title": "Cola, concentrate"},
+                {"id": "50895","title": "Coffee"}
+            ]
+        },
+        {"id": "10336","title": "Fruit pulp",
+            "variants": [
+                {"id": "50336","title": "without further specification 50336"},
+                {"id": "51945","title": "Apricot pulp with 40% water"},
+                {"id": "51898","title": "Apple puree"}
+            ]
+        },
+        {"id": "10339","title": "Dairy products",
+            "variants": [
+                {"id": "50339","title": "Milk"},
+                {"id": "51894","title": "Milk of cocoa"},
+                {"id": "51895","title": "Condensed milk, sugared"},
+                {"id": "51943","title": "Sweet permeate (milk)"},
+                {"id": "51896","title": "Skimmed milk (fresh, sour)"},
+                {"id": "51944","title": "Concentrated milk (15 % dry matter)"},
+                {"id": "51897","title": "Cream (sweet, sour)"}
+            ]
+        },
+        {"id": "10341","title": "Heat transfer fluids",
+            "variants": [
+                {"id": "51712","title": "Marlotherm LH"},
+                {"id": "51713","title": "MultiTherm IG-4"},
+                {"id": "51714","title": "Ucotherm Q-32-N"},
+                {"id": "51984","title": "Therminol 59"},
+                {"id": "51985","title": "Therminol 68"},
+                {"id": "51986","title": "Therminol D12"},
+                {"id": "50753","title": "Aral Farolin S"},
+                {"id": "50754","title": "Aral Farolin T"},
+                {"id": "50755","title": "Aral Farolin U"},
+                {"id": "50760","title": "Diphyl DT"},
+                {"id": "50761","title": "Diphyl KT"},
+                {"id": "50762","title": "Diphyl THT"},
+                {"id": "50764","title": "Dowtherm A"},
+                {"id": "50765","title": "Dowtherm G"},
+                {"id": "50766","title": "Dowtherm J"},
+                {"id": "50767","title": "Dowtherm LF"},
+                {"id": "50768","title": "Dowtherm Q"},
+                {"id": "50514","title": "Avia Thermofluid A"},
+                {"id": "50770","title": "Gilotherm D0"},
+                {"id": "50771","title": "Gilotherm D12"},
+                {"id": "50516","title": "Shell Thermia Oil A"},
+                {"id": "50517","title": "OEST-WT-A"},
+                {"id": "50520","title": "Gilotherm ADX 10"},
+                {"id": "50521","title": "Santotherm ADX 10"},
+                {"id": "50524","title": "Petro Canada Calflo AF"},
+                {"id": "50526","title": "Fragol Agotherm Q32"},
+                {"id": "50528","title": "Gilotherm ALD"},
+                {"id": "60000","title": "Mobiltherm 611"},
+                {"id": "50529","title": "Santotherm ALD"},
+                {"id": "50532","title": "Aral WTS"},
+                {"id": "50533","title": "Aral WTT"},
+                {"id": "50534","title": "Aral WTU"},
+                {"id": "50538","title": "Avia Thermofluid B"},
+                {"id": "50542","title": "Shell Thermia Oil B"},
+                {"id": "50798","title": "Marlotherm L"},
+                {"id": "50543","title": "OEST-WT-B"},
+                {"id": "50799","title": "Marlotherm SH"},
+                {"id": "50800","title": "Marlotherm X"},
+                {"id": "50546","title": "BP Transcal LT"},
+                {"id": "50547","title": "BP Transcal N"},
+                {"id": "50548","title": "BP Olex WF 0801"},
+                {"id": "50549","title": "BP Transcal 40"},
+                {"id": "50550","title": "BP Transcal 65"},
+                {"id": "50811","title": "Santotherm 59"},
+                {"id": "50812","title": "Santotherm 68"},
+                {"id": "50557","title": "Petro Canada Calflo FG"},
+                {"id": "50813","title": "Santotherm 75"},
+                {"id": "50559","title": "Petro Canada Calflo HTF"},
+                {"id": "50816","title": "Santotherm D 12"},
+                {"id": "50561","title": "Fina Caloran 31"},
+                {"id": "50565","title": "Höchst Thermogen 1757"},
+                {"id": "50569","title": "Deacal 32"},
+                {"id": "50570","title": "Deacal 46"},
+                {"id": "50571","title": "Deacal HT22"},
+                {"id": "50829","title": "Syltherm 800"},
+                {"id": "50575","title": "Dowtherm HT"},
+                {"id": "50577","title": "Shell Thermia Oil E"},
+                {"id": "50579","title": "Esso Thermal oil S"},
+                {"id": "50580","title": "Esso Thermal oil T"},
+                {"id": "50583","title": "Essotherm 650"},
+                {"id": "50585","title": "Finkotherm M-300"},
+                {"id": "50586","title": "Finkotherm S-300"},
+                {"id": "51867","title": "Ucotherm Q-7"},
+                {"id": "51868","title": "Therminol 72"},
+                {"id": "50589","title": "Heat transfer medium 160"},
+                {"id": "50590","title": "Gilotherm RD"},
+                {"id": "50591","title": "Gilotherm TH"},
+                {"id": "50592","title": "Hüls Ilexan S"},
+                {"id": "50593","title": "Mediatherm 250 IL"},
+                {"id": "50594","title": "Minera Thermal oil 36"},
+                {"id": "50595","title": "Minera Thermal oil 4"},
+                {"id": "50596","title": "ÖMV-Öl WT15"},
+                {"id": "50341","title": "AVILUB B-3824/UV"},
+                {"id": "50597","title": "ÖMV-Öl WT32"},
+                {"id": "50342","title": "AVILUB C-3826/UV"},
+                {"id": "50598","title": "ÖMV-Öl WT46"},
+                {"id": "50599","title": "Shell Thermia Oil 23"},
+                {"id": "50601","title": "Mobiltherm Light"},
+                {"id": "50602","title": "Marlotherm N"},
+                {"id": "50603","title": "Marlotherm S"},
+                {"id": "50604","title": "Mobiltherm 594"},
+                {"id": "50605","title": "Mobiltherm 603"},
+                {"id": "50606","title": "Mobiltherm 605"},
+                {"id": "50607","title": "Shell Thermia Oil 11"},
+                {"id": "50608","title": "Shell Thermia Oil 27"},
+                {"id": "50609","title": "Santotherm RD"},
+                {"id": "50610","title": "Renotherm 250"},
+                {"id": "50611","title": "Renotherm 300"},
+                {"id": "50612","title": "Renotherm 320"},
+                {"id": "50613","title": "Santotherm SP"},
+                {"id": "50614","title": "Santotherm 44"},
+                {"id": "50615","title": "Santotherm 55"},
+                {"id": "50616","title": "Santotherm 66"},
+                {"id": "50617","title": "Thermal Oil T"},
+                {"id": "50633","title": "Mobiltherm 600"},
+                {"id": "51157","title": "Avia Thermofluid S"},
+                {"id": "51158","title": "Diphyl"},
+                {"id": "51159","title": "Thermocal HT6"},
+                {"id": "51160","title": "Thermocal HT8"},
+                {"id": "51161","title": "Therminol 66"},
+                {"id": "51162","title": "Therminol VP-1"},
+                {"id": "51698","title": "Therminol 55"},
+                {"id": "51711","title": "Dowtherm RP"}
+            ]
+        },
+        {"id": "10346","title": "Oil",
+            "variants": [
+                {"id": "50352","title": "Mineral oil"},
+                {"id": "50913","title": "ASTM oil No. 3"},
+                {"id": "50803","title": "Naphthalene oil"},
+                {"id": "50356","title": "Cutting oil"},
+                {"id": "50836","title": "Washing oil"},
+                {"id": "50357","title": "Silicone oil"},
+                {"id": "50358","title": "Turpentine"},
+                {"id": "50346","title": "Crude oil"},
+                {"id": "50909","title": "ASTM oil No. 1"},
+                {"id": "50351","title": "Hydraulic oil"},
+                {"id": "50831","title": "Tar oil"},
+                {"id": "50911","title": "ASTM oil No. 2"}
+            ]
+        },
+        {"id": "10347","title": "Oil, lubricating oil",
+            "variants": [
+                {"id": "50354","title": "without further specification 50354"},
+                {"id": "50355","title": "Shell TELLUS 46"},
+                {"id": "50347","title": "Turbine oil"}
+            ]
+        },
+        {"id": "10350","title": "Oil, vegetable oil",
+            "variants": [
+                {"id": "50368","title": "Linseed oil"},
+                {"id": "50369","title": "Corn oil"},
+                {"id": "50370","title": "Rapeseed oil"},
+                {"id": "50371","title": "Soybean oil"},
+                {"id": "50915","title": "Walnut oil"},
+                {"id": "50916","title": "Coconut oil"},
+                {"id": "50376","title": "Olive oil"},
+                {"id": "50825","title": "Edible oil with bleaching earth"},
+                {"id": "50826","title": "Edible oil with nickel catalyst"},
+                {"id": "50380","title": "Sunflower oil"},
+                {"id": "50350","title": "Linseed oil with up to 3% H2SO4"},
+                {"id": "50353","title": "Castor oil"},
+                {"id": "50899","title": "Aniseed oil"},
+                {"id": "50901","title": "Lavender oil"},
+                {"id": "50774","title": "Cocoa oil"},
+                {"id": "50806","title": "Palm oil"},
+                {"id": "50363","title": "Cotton seed oil"},
+                {"id": "50364","title": "Peanut oil"},
+                {"id": "50367","title": "Edible oil"}
+            ]
+        },
+        {"id": "10361","title": "Hydrocarbon, crude oil condensate",
+            "variants": [
+                {"id": "50361","title": "without further specification 50361"}
+            ]
+        },
+        {"id": "10381","title": "Alum",
+            "variants": [
+                {"id": "50381","title": "Aluminium potassium sulfates up to 3%"}
+            ]
+        },
+        {"id": "10382","title": "Aluminium sulfate",
+            "variants": [
+                {"id": "51674","title": "Concentration up to 5% 51674"},
+                {"id": "51675","title": "Concentration up to 10% 51675"},
+                {"id": "50382","title": "Concentration up to 24% 50382"}
+            ]
+        },
+        {"id": "10383","title": "Ammonium chloride",
+            "variants": [
+                {"id": "51676","title": "Concentration up to 10% 51676"},
+                {"id": "50383","title": "Concentration up to 25% 50383"}
+            ]
+        },
+        {"id": "10384","title": "Ammonium sulfate",
+            "variants": [
+                {"id": "50384","title": "Concentration up to 50% 50384"},
+                {"id": "51099","title": "Concentration up to 41% 51099"},
+                {"id": "51677","title": "Concentration up to 20% 51677"}
+            ]
+        },
+        {"id": "10385","title": "Magnesium sulfate",
+            "variants": [
+                {"id": "50385","title": "Concentration up to 10% 50385"},
+                {"id": "51112","title": "Concentration up to 20% 51112"},
+                {"id": "50926","title": "Concentration up to 60% 50926"},
+                {"id": "50927","title": "Concentration up to 100% 50927"}
+            ]
+        },
+        {"id": "10386","title": "Calcium acetate",
+            "variants": [
+                {"id": "50386","title": "Concentration <10% 50386"}
+            ]
+        },
+        {"id": "10387","title": "Cooling brine on calcium chloride base",
+            "variants": [
+                {"id": "50387","title": "Concentration up to 14.7% 50387"},
+                {"id": "50397","title": "Concentration up to 25.7% 50397"}
+            ]
+        },
+        {"id": "10389","title": "Calcium nitrate",
+            "variants": [
+                {"id": "50389","title": "Concentration up to 10% 50389"},
+                {"id": "51100","title": "Concentration up to 50% 51100"}
+            ]
+        },
+        {"id": "10391","title": "Disodium phosphate",
+            "variants": [
+                {"id": "50391","title": "Concentration up to 5% 50391"}
+            ]
+        },
+        {"id": "10392","title": "Iron (II) sulfate",
+            "variants": [
+                {"id": "50392","title": "Concentration up to 30% 50392"},
+                {"id": "51678","title": "Concentration up to 5% 51678"},
+                {"id": "51679","title": "Concentration up to 10% 51679"}
+            ]
+        },
+        {"id": "10393","title": "Iron (III) sulfate",
+            "variants": [
+                {"id": "50393","title": "Unsaturated solution"}
+            ]
+        },
+        {"id": "10394","title": "Iron phosphate",
+            "variants": [
+                {"id": "50394","title": "Concentration up to 25% 50394"}
+            ]
+        },
+        {"id": "10395","title": "Sodium sulfate",
+            "variants": [
+                {"id": "50395","title": "Concentration up to 5% 50395"},
+                {"id": "51116","title": "Concentration up to 30% 51116"}
+            ]
+        },
+        {"id": "10399","title": "Potassium nitrate",
+            "variants": [
+                {"id": "51682","title": "Concentration up to 5% 51682"},
+                {"id": "50399","title": "Concentration up to 25% 50399"}
+            ]
+        },
+        {"id": "10400","title": "Potassium permanganate",
+            "variants": [
+                {"id": "50400","title": "Concentration up to 5% 50400"}
+            ]
+        },
+        {"id": "10401","title": "Potassium sulfate",
+            "variants": [
+                {"id": "50401","title": "Concentration up to 25% 50401"},
+                {"id": "50402","title": "Concentration up to 3% 50402"},
+                {"id": "51110","title": "Concentration up to 10% 51110"}
+            ]
+        },
+        {"id": "10407","title": "Copper sulfate",
+            "variants": [
+                {"id": "51683","title": "Concentration up to 10% 51683"},
+                {"id": "50407","title": "Concentration up to 5% 50407"},
+                {"id": "51111","title": "Concentration up to 15% 51111"}
+            ]
+        },
+        {"id": "10410","title": "Cooling brine on magnesium chloride base",
+            "variants": [
+                {"id": "50410","title": "Concentration up to 7.2% 50410"},
+                {"id": "50412","title": "Concentration up to 13.8% 50412"}
+            ]
+        },
+        {"id": "10417","title": "Cooling brine on sodium chloride base",
+            "variants": [
+                {"id": "50417","title": "Concentration up to 7% 50417"},
+                {"id": "50419","title": "Concentration up to 23.1% 50419"},
+                {"id": "50421","title": "Concentration up to 16.2% 50421"}
+            ]
+        },
+        {"id": "10423","title": "Sodium nitrate",
+            "variants": [
+                {"id": "50423","title": "Concentration up to 10% 50423"},
+                {"id": "51115","title": "Concentration up to 50% 51115"}
+            ]
+        },
+        {"id": "10429","title": "Trisodium phosphate",
+            "variants": [
+                {"id": "50432","title": "Concentration up to 4% 50432"},
+                {"id": "50429","title": "Concentration up to 25% 50429"}
+            ]
+        },
+        {"id": "10433","title": "Acid, acetyl salicylic acid",
+            "variants": [
+                {"id": "50433","title": "Concentration (to be specified) 50433"}
+            ]
+        },
+        {"id": "10434","title": "Acid, benzoic acid",
+            "variants": [
+                {"id": "50434","title": "Aqueous benzoic acid"},
+                {"id": "50868","title": "Concentration up to 70% 50868"},
+                {"id": "50869","title": "Concentration from xx% to 100% 50869"}
+            ]
+        },
+        {"id": "10436","title": "Acid, butyric acid",
+            "variants": [
+                {"id": "50436","title": "n-butyric acid"}
+            ]
+        },
+        {"id": "10438","title": "Acid, citric acid",
+            "variants": [
+                {"id": "51154","title": "Concentration up to 10% 51154"},
+                {"id": "50438","title": "Concentration up to 50% 50438"},
+                {"id": "51689","title": "Concentration up to 25% 51689"}
+            ]
+        },
+        {"id": "10439","title": "Acid, acetic acid",
+            "variants": [
+                {"id": "50769","title": "Concentration up to 100% 50769"},
+                {"id": "50866","title": "Concentration up to 30%"},
+                {"id": "50439","title": "Concentration up to 5% 50439"},
+                {"id": "50441","title": "Concentration up to 10% 50441"},
+                {"id": "51948","title": "Concentration up to 20%"},
+                {"id": "51901","title": "Concentration up to 25%"},
+                {"id": "51902","title": "Concentration up to 50%"}
+            ]
+        },
+        {"id": "10445","title": "Acid, tannic acid",
+            "variants": [
+                {"id": "51680","title": "Concentration up to 20% 51680"},
+                {"id": "50445","title": "Concentration up to 50% 50445"}
+            ]
+        },
+        {"id": "10446","title": "Acid, sulfurous acid",
+            "variants": [
+                {"id": "51129","title": "Concentration up to 10% 51129"},
+                {"id": "50446","title": "Concentration from xx% to 100% 50446"}
+            ]
+        },
+        {"id": "10447","title": "Acid, uric acid",
+            "variants": [
+                {"id": "50447","title": "Aqueous uric acid solution without solids"}
+            ]
+        },
+        {"id": "10448","title": "Acid, maleic acid",
+            "variants": [
+                {"id": "50448","title": "Concentration up to 50% 50448"},
+                {"id": "51684","title": "Concentration up to 10% 51684"},
+                {"id": "50891","title": "Concentration from xx% to 100% 50891"}
+            ]
+        },
+        {"id": "10449","title": "Acid, lactic acid",
+            "variants": [
+                {"id": "51904","title": "Concentration up to 10%"},
+                {"id": "50449","title": "Concentration up to 50% 50449"},
+                {"id": "51685","title": "Concentration up to 5% 51685"},
+                {"id": "51686","title": "Concentration up to 40% 51686"},
+                {"id": "51949","title": "Concentration up to 30%"}
+            ]
+        },
+        {"id": "10451","title": "Acid, oxalic acid",
+            "variants": [
+                {"id": "50451","title": "Concentration up to 5% 50451"}
+            ]
+        },
+        {"id": "10452","title": "Acid, phosphoric acid",
+            "variants": [
+                {"id": "50945","title": "Concentration up to 70% 50945"},
+                {"id": "50946","title": "Concentration up to 60% 50946"},
+                {"id": "50947","title": "Concentration up to 5% 50947"},
+                {"id": "50452","title": "Concentration up to 10% 50452"},
+                {"id": "50870","title": "Concentration up to 50% 50870"},
+                {"id": "50871","title": "Concentration up to 80% 50871"},
+                {"id": "50873","title": "Concentration up to 30% 50873"},
+                {"id": "50938","title": "Concentration from xx% to 100% 50938"},
+                {"id": "50941","title": "Concentration up to 90% 50941"},
+                {"id": "50942","title": "Concentration up to 85% 50942"},
+                {"id": "50943","title": "Concentration up to 45% 50943"}
+            ]
+        },
+        {"id": "10454","title": "Acid, salicylic acid",
+            "variants": [
+                {"id": "50454","title": "Concentration (to be specified) 50454"}
+            ]
+        },
+        {"id": "10455","title": "Acid, sulfuric acid",
+            "variants": [
+                {"id": "50881","title": "Concentration up to 30% 50881"},
+                {"id": "50948","title": "Concentration up to 40% 50948"},
+                {"id": "50949","title": "Concentration up to 20% 50949"},
+                {"id": "50950","title": "Concentration up to 90% 50950"},
+                {"id": "50889","title": "Concentration up to 60% 50889"},
+                {"id": "50953","title": "Concentration up to 55% 50953"},
+                {"id": "50890","title": "Concentration up to 80%"},
+                {"id": "50955","title": "Concentration up to 65% 50955"},
+                {"id": "50957","title": "Concentration up to 10% 50957"},
+                {"id": "50961","title": "Concentration from 98% to 100%"},
+                {"id": "51123","title": "Concentration up to 3% 51123"},
+                {"id": "51124","title": "Concentration up to 50% 51124"},
+                {"id": "51125","title": "Concentration 85-88%"},
+                {"id": "51126","title": "Concentration 88-90%"},
+                {"id": "50455","title": "Concentration up to 5% 50455"},
+                {"id": "51127","title": "Concentration 90-96%"},
+                {"id": "50456","title": "Concentration up to 2.5% 50456"},
+                {"id": "51128","title": "Concentration 96-98%"},
+                {"id": "50876","title": "Concentration up to 70% 50876"}
+            ]
+        },
+        {"id": "10460","title": "Acid, tartaric acid",
+            "variants": [
+                {"id": "51688","title": "Concentration up to 8% 51688"},
+                {"id": "50460","title": "Concentration up to 50% 50460"}
+            ]
+        },
+        {"id": "10462","title": "Sludge",
+            "variants": [
+                {"id": "50820","title": "Sludge water"},
+                {"id": "51727","title": "Activated sludge (agitator)"},
+                {"id": "51728","title": "Primary and excess sludge (agitator)"},
+                {"id": "51729","title": "Digested sludge without polymer addition (agitator)"},
+                {"id": "51730","title": "Digested sludge with polymer addition (agitator)"},
+                {"id": "51731","title": "Polymer sludge, screening drum (agitator)"},
+                {"id": "51732","title": "Polymer sludge, centrifuge (agitator)"},
+                {"id": "51733","title": "Buffer tank / Stormwater overflow tank (agitator)"},
+                {"id": "51734","title": "Raw sewage (agitator)"},
+                {"id": "51865","title": "Substrate (agitator)"},
+                {"id": "51866","title": "Digestate (agitator)"},
+                {"id": "50462","title": "Sewage sludge, general up to 2% bone dry"},
+                {"id": "50464","title": "Activated sludge up to 2% bone dry"},
+                {"id": "50785","title": "Faeces sludge up to 2% bone dry"},
+                {"id": "50466","title": "Excess sludge up to 4% bone dry"},
+                {"id": "50787","title": "Fresh sludge up to 2% bone dry"},
+                {"id": "50468","title": "Return sludge up to 2% bone dry"},
+                {"id": "50789","title": "Seed sludge up to 6% bone dry"},
+                {"id": "50470","title": "Digested sludge up to 6% bone dry"},
+                {"id": "50472","title": "Heated sludge up to 2% bone dry"},
+                {"id": "50792","title": "Floating sludge up to 2% bone dry"},
+                {"id": "50474","title": "Industrial sludge"},
+                {"id": "50794","title": "Recirculated sludge up to 2% bone dry"},
+                {"id": "50476","title": "Raw sludge up to 2% bone dry"},
+                {"id": "50478","title": "Pre-thickened sludge up to 6% bone dry"}
+            ]
+        },
+        {"id": "10484","title": "Water, contaminated water",
+            "variants": [
+                {"id": "50484","title": "Mixed water with strainer"},
+                {"id": "50485","title": "Mixed water without strainer"},
+                {"id": "50696","title": "Slightly contaminated water"},
+                {"id": "51709","title": "Wastewater with faeces"},
+                {"id": "51710","title": "Wastewater without faeces"}
+            ]
+        },
+        {"id": "10488","title": "cleaning agent",
+            "variants": [
+                {"id": "50488","title": "without further specification"}
+            ]
+        },
+        {"id": "10490","title": "Fixing bath",
+            "variants": [
+                {"id": "50490","title": "without further specification 50490"}
+            ]
+        },
+        {"id": "10492","title": "Imbibition water (sugar production)",
+            "variants": [
+                {"id": "50492","title": "without further specification 50492"}
+            ]
+        },
+        {"id": "10493","title": "Oil, miscella",
+            "variants": [
+                {"id": "50493","title": "without further specification 50493"},
+                {"id": "51167","title": "80% n-Hexane / 20% Soybean oil"}
+            ]
+        },
+        {"id": "10494","title": "Water, boiler feed water",
+            "variants": [
+                {"id": "50496","title": "Mode of operation AFT"},
+                {"id": "50505","title": "Mode of operation KF 50505"},
+                {"id": "50506","title": "Mode of operation NF 50506"},
+                {"id": "50494","title": "as per VdTÜV 1466"},
+                {"id": "50511","title": "Mode of operation AF 50511"}
+            ]
+        },
+        {"id": "10495","title": "Water, condensate",
+            "variants": [
+                {"id": "50497","title": "non-treated"},
+                {"id": "50660","title": "Vapour condensate (breweries)"},
+                {"id": "51702","title": "Condensate, chemically neutral from unpressurized tanks"},
+                {"id": "50503","title": "treated to VdTÜV 1466"},
+                {"id": "51690","title": "Condensing boiler"},
+                {"id": "50507","title": "Mode of operation KF 50507"},
+                {"id": "50508","title": "Mode of operation NF 50508"},
+                {"id": "50495","title": "Mode of operation AF"}
+            ]
+        },
+        {"id": "10499","title": "Water, heating water",
+            "variants": [
+                {"id": "50499","title": "Heating water up to 100°C (max.), acc. to VDI 2035"}
+            ]
+        },
+        {"id": "10655","title": "Water, swimming-pool and bathing water",
+            "variants": [
+                {"id": "50704","title": "Sea water 50704"},
+                {"id": "50725","title": "Fresh water"}
+            ]
+        },
+        {"id": "10657","title": "Water, high-temperature hot water",
+            "variants": [
+                {"id": "50657","title": "High-temperature hot water treated to VdTÜV 1466"}
+            ]
+        },
+        {"id": "10658","title": "Water, raw water",
+            "variants": [
+                {"id": "50658","title": "without further specification 50658"}
+            ]
+        },
+        {"id": "10661","title": "Water, sea and brackish water",
+            "variants": [
+                {"id": "52001","title": "Ballast water"},
+                {"id": "50661","title": "Brackish water"},
+                {"id": "50663","title": "without further specification 50663"},
+                {"id": "50702","title": "Sea water 50702"}
+            ]
+        },
+        {"id": "10665","title": "Water, drinking water / tap water",
+            "variants": [
+                {"id": "50665","title": "Iced water (breweries)"},
+                {"id": "50666","title": "Hot water (breweries)"},
+                {"id": "50746","title": "without further specification 50746"},
+                {"id": "50667","title": "Mashing liquor"},
+                {"id": "50699","title": "Tap water"}
+            ]
+        },
+        {"id": "10668","title": "Water, cooling water",
+            "variants": [
+                {"id": "51169","title": "Open circuit"},
+                {"id": "51905","title": "Cooling water with cleaning balls"},
+                {"id": "50668","title": "closed cooling circuit"}
+            ]
+        },
+        {"id": "10669","title": "Water, desalinated",
+            "variants": [
+                {"id": "50736","title": "Partly desalinated water"},
+                {"id": "50673","title": "Decarbonized water"},
+                {"id": "51699","title": "Permeate (osmosis)"},
+                {"id": "50837","title": "Debasified water"},
+                {"id": "51990","title": "Ultra-pure water (pharmacy)"},
+                {"id": "51991","title": "Water for injection (pharmacy)"},
+                {"id": "50669","title": "Deionized water"}
+            ]
+        },
+        {"id": "10676","title": "Solids in suspension (slurry)",
+            "variants": [
+                {"id": "50827","title": "Pulp, concentration up to 3% bone dry"},
+                {"id": "50828","title": "Pulp, concentration up to 6% bone dry"},
+                {"id": "50839","title": "Wastewater, containing sand"},
+                {"id": "51671","title": "Water-sand mixture up to 50 mg/l"},
+                {"id": "51672","title": "Water-sand mixture up to 200 mg/l"},
+                {"id": "51869","title": "Water-sand mixture up to 500 mg/l"},
+                {"id": "51871","title": "Scale water with a sinter concentration of up to 2 g/l"},
+                {"id": "51872","title": "Scale water with a sinter concentration of up to 4 g/l"},
+                {"id": "51873","title": "Scale water with a sinter concentration of up to 8 g/l"},
+                {"id": "51874","title": "Scale water with a sinter concentration of up to 80 g/l"},
+                {"id": "51875","title": "Coke quenching water with a coke concentration of up to 2 g/l"},
+                {"id": "51876","title": "Coke quenching water with a coke concentration of up to 4 g/l"},
+                {"id": "51877","title": "Coke quenching water with a coke concentration of up to 8 g/l"},
+                {"id": "50854","title": "Water-sand mixture up to 20 mg/l"},
+                {"id": "51878","title": "Coke quenching water with a coke concentration of up to 80 g/l"},
+                {"id": "51879","title": "Water/silicone dioxide suspension with a SiO2 concentration of up to 3 g/l"},
+                {"id": "51880","title": "Water/silicone dioxide suspension with a SiO2 concentration of up to 5 g/l"},
+                {"id": "51881","title": "Water/silicone dioxide suspension with a SiO2 concentration of up to 10 g/l"},
+                {"id": "51882","title": "Water/silicone dioxide suspension with a SiO2 concentration of up to 15 g/l"},
+                {"id": "51691","title": "Water-sand mixture up to 2 g/l"},
+                {"id": "51883","title": "Water/silicone dioxide suspension with a SiO2 concentration of up to 25 g/l"},
+                {"id": "51692","title": "Water-sand mixture up to 10 g/l"},
+                {"id": "51884","title": "Water/diatomaceous earth suspension with a diatomaceous earth concentration of up to 30 g/l"},
+                {"id": "51885","title": "Water/diatomaceous earth suspension with a diatomaceous earth concentration of up to 50 g/l"},
+                {"id": "51886","title": "Water/diatomaceous earth suspension with a diatomaceous earth concentration of up to 100 g/l"},
+                {"id": "51887","title": "Water/diatomaceous earth suspension with a diatomaceous earth concentration of up to 150 g/l"},
+                {"id": "51888","title": "Water/diatomaceous earth suspension with a diatomaceous earth concentration of up to 250 g/l"},
+                {"id": "51889","title": "Water/magnesium oxide with a solids content of up to 5 %"},
+                {"id": "50676","title": "Water-sand mixture up to 25 g/l"},
+                {"id": "50680","title": "Water-sand mixture up to 5 g/l"},
+                {"id": "50489","title": "Pulp, concentration up to 1% bone dry"},
+                {"id": "50681","title": "Water-sand mixture up to 3 g/l"}
+            ]
+        },
+        {"id": "10683","title": "Water, surface water",
+            "variants": [
+                {"id": "50824","title": "Lake water (fresh water)"},
+                {"id": "50683","title": "River water"},
+                {"id": "50731","title": "Dam water"},
+                {"id": "50847","title": "without further specification 50847"}
+            ]
+        },
+        {"id": "10700","title": "Water, process water",
+            "variants": [
+                {"id": "50729","title": "Barrier water"},
+                {"id": "50700","title": "Flushing water"}
+            ]
+        },
+        {"id": "10710","title": "Water, rainwater",
+            "variants": [
+                {"id": "50710","title": "with strainer"},
+                {"id": "50716","title": "without strainer"}
+            ]
+        },
+        {"id": "10749","title": "Antifreeze on ethylene glycol base, not inhibited",
+            "variants": [
+                {"id": "50749","title": "Concentration (to be specified) 50749"}
+            ]
+        },
+        {"id": "10808","title": "Acid, nitric acid",
+            "variants": [
+                {"id": "51120","title": "Concentration up to 60% 51120"},
+                {"id": "50808","title": "Nitric acid, highly concentrated"},
+                {"id": "50809","title": "Concentration up to 69.2% 50809"},
+                {"id": "51117","title": "Concentration up to 20% 51117"},
+                {"id": "51118","title": "Concentration up to 40% 51118"},
+                {"id": "51119","title": "Concentration up to 50% 51119"}
+            ]
+        },
+        {"id": "10846","title": "Beverages, carbonated",
+            "variants": [
+                {"id": "50846","title": "Mineral water"}
+            ]
+        },
+        {"id": "10860","title": "Ammonia",
+            "variants": [
+                {"id": "50860","title": "without further specification 50860"}
+            ]
+        },
+        {"id": "10861","title": "Cleaning-in-place (CIP)",
+            "variants": [
+                {"id": "50861","title": "without further specification 50861"}
+            ]
+        },
+        {"id": "10862","title": "Water, pit water",
+            "variants": [
+                {"id": "50862","title": "without further specification 50862"}
+            ]
+        },
+        {"id": "10863","title": "Urea",
+            "variants": [
+                {"id": "51108","title": "Concentration up to 65% 51108"},
+                {"id": "51947","title": "Concentration up to 35%"},
+                {"id": "50863","title": "without further specification 50863"}
+            ]
+        },
+        {"id": "10865","title": "Molten salt",
+            "variants": [
+                {"id": "50865","title": "without further specification 50865"}
+            ]
+        },
+        {"id": "10866","title": "Acetaldehyde",
+            "variants": [
+                {"id": "50963","title": "without further specification 50963"}
+            ]
+        },
+        {"id": "10867","title": "Acrylamide",
+            "variants": [
+                {"id": "50964","title": "Aqueous solution up to max 50%"}
+            ]
+        },
+        {"id": "10868","title": "Acrylonitrile (acrylic nitrile)",
+            "variants": [
+                {"id": "50965","title": "without further specification 50965"}
+            ]
+        },
+        {"id": "10869","title": "Alcohol, amyl alcohol",
+            "variants": [
+                {"id": "50966","title": "without further specification 50966"}
+            ]
+        },
+        {"id": "10870","title": "Alcohol, cyclohexanol",
+            "variants": [
+                {"id": "50967","title": "without further specification 50967"}
+            ]
+        },
+        {"id": "10871","title": "Alcohol, decanol",
+            "variants": [
+                {"id": "50968","title": "without further specification 50968"}
+            ]
+        },
+        {"id": "10872","title": "Alcohol, ethylhexanol (isooctanol)",
+            "variants": [
+                {"id": "50969","title": "without further specification 50969"}
+            ]
+        },
+        {"id": "10873","title": "Alcohol, hexanol, 1- (n-hexyl alcohol)",
+            "variants": [
+                {"id": "50970","title": "without further specification 50970"}
+            ]
+        },
+        {"id": "10874","title": "Alcohol (octanol)",
+            "variants": [
+                {"id": "50971","title": "1-octanol"},
+                {"id": "50972","title": "2-octanol"}
+            ]
+        },
+        {"id": "10875","title": "Alcohol (pentanol)",
+            "variants": [
+                {"id": "50973","title": "1-pentanol"}
+            ]
+        },
+        {"id": "10876","title": "Ammonium carbonate",
+            "variants": [
+                {"id": "50975","title": "Concentration up to 30% 50975"}
+            ]
+        },
+        {"id": "10877","title": "Ammonium nitrate",
+            "variants": [
+                {"id": "50976","title": "Concentration up to 50% 50976"},
+                {"id": "51908","title": "Concentration up to 60%"},
+                {"id": "51132","title": "Concentration up to 20% 51132"},
+                {"id": "51133","title": "Concentration up to 40% 51133"}
+            ]
+        },
+        {"id": "10878","title": "Ammonium phosphate",
+            "variants": [
+                {"id": "50977","title": "Ammoniumdihydrogen phosphate, unsaturated aqueous solution"},
+                {"id": "50978","title": "Diammoniumhydrogen phosphate,  unsaturated aqueous solution"}
+            ]
+        },
+        {"id": "10879","title": "Aniline (aminobenzene, phenylamine",
+            "variants": [
+                {"id": "50980","title": "without further specification 50980"}
+            ]
+        },
+        {"id": "10880","title": "Vapour condensate",
+            "variants": [
+                {"id": "50981","title": "without further specification 50981"}
+            ]
+        },
+        {"id": "10881","title": "Butyl acrylate (n-butyl acrylate)",
+            "variants": [
+                {"id": "50982","title": "without further specification 50982"}
+            ]
+        },
+        {"id": "10882","title": "Calcium chloride",
+            "variants": [
+                {"id": "50983","title": "Concentration up to 50% 50983"}
+            ]
+        },
+        {"id": "10883","title": "Caprolactam",
+            "variants": [
+                {"id": "51101","title": "Pure melt (100% caprolactam)"}
+            ]
+        },
+        {"id": "10884","title": "Cyclohexanone",
+            "variants": [
+                {"id": "50985","title": "without further specification 50985"}
+            ]
+        },
+        {"id": "10885","title": "Dibutyl phthalate (DBP)",
+            "variants": [
+                {"id": "50986","title": "without further specification 50986"}
+            ]
+        },
+        {"id": "10886","title": "Strong liquor (paper industry)",
+            "variants": [
+                {"id": "50987","title": "without further specification 50987"}
+            ]
+        },
+        {"id": "10887","title": "Diethanolamine (2,2-iminodiethanol)",
+            "variants": [
+                {"id": "50988","title": "without further specification 50988"}
+            ]
+        },
+        {"id": "10888","title": "Diethyl ether",
+            "variants": [
+                {"id": "50989","title": "without further specification 50989"}
+            ]
+        },
+        {"id": "10889","title": "Dimethylformamide (DMF)",
+            "variants": [
+                {"id": "50990","title": "without further specification 50990"}
+            ]
+        },
+        {"id": "10890","title": "Dimethyl sulfate",
+            "variants": [
+                {"id": "50991","title": "without further specification 50991"}
+            ]
+        },
+        {"id": "10891","title": "Dimethyl terephthalate (DMT)",
+            "variants": [
+                {"id": "51103","title": "Pure melt (100% DMT)"}
+            ]
+        },
+        {"id": "10892","title": "Weak liquor (paper industry)",
+            "variants": [
+                {"id": "50993","title": "without further specification 50993"}
+            ]
+        },
+        {"id": "10893","title": "diaminoethane)",
+            "variants": [
+                {"id": "51106","title": "Ethylenediamine, pure"},
+                {"id": "51107","title": "Ethylenediamine, contaminated"}
+            ]
+        },
+        {"id": "10894","title": "Ethylene oxide",
+            "variants": [
+                {"id": "50995","title": "without further specification 50995"}
+            ]
+        },
+        {"id": "10895","title": "Dyeing bath",
+            "variants": [
+                {"id": "50996","title": "without further specification 50996"}
+            ]
+        },
+        {"id": "10896","title": "Fatty alcohols",
+            "variants": []
+        },
+        {"id": "10897","title": "Fatty acids (saturated/unsaturated)",
+            "variants": []
+        },
+        {"id": "10898","title": "Formaldehyde",
+            "variants": [
+                {"id": "51135","title": "Concentration 30% 51135"}
+            ]
+        },
+        {"id": "10899","title": "Furfurol (furfural, 2-furaldehyde)",
+            "variants": [
+                {"id": "51000","title": "without further specification 51000"}
+            ]
+        },
+        {"id": "10900","title": "Furfuryl alcohol (2-furane methanol)",
+            "variants": [
+                {"id": "51001","title": "without further specification 51001"}
+            ]
+        },
+        {"id": "10901","title": "Glucose",
+            "variants": [
+                {"id": "51002","title": "Unsaturated aqueous solution 51002"}
+            ]
+        },
+        {"id": "10902","title": "Green liquor (paper industry)",
+            "variants": [
+                {"id": "51003","title": "without further specification 51003"}
+            ]
+        },
+        {"id": "10903","title": "Potassium chloride",
+            "variants": [
+                {"id": "51004","title": "Concentration up to 22% 51004"}
+            ]
+        },
+        {"id": "10904","title": "White liquor (paper industry)",
+            "variants": [
+                {"id": "51005","title": "without further specification 51005"}
+            ]
+        },
+        {"id": "10905","title": "Digestion acid (calcium bisulfite)",
+            "variants": [
+                {"id": "51006","title": "without further specification 51006"}
+            ]
+        },
+        {"id": "10906","title": "Carbon dioxide",
+            "variants": []
+        },
+        {"id": "10909","title": "Hydrocarbon, aromatic",
+            "variants": [
+                {"id": "51024","title": "Toluene (Methylbenzene)"},
+                {"id": "51025","title": "Benzene"},
+                {"id": "51137","title": "o-Xylene (1,2-Dimetylbenzene)"},
+                {"id": "51138","title": "p-Xylene (1,4-Dimetylbenzene)"},
+                {"id": "51170","title": "m-Xylene (1,3-Dimetylbenzene)"},
+                {"id": "51022","title": "Cumene"},
+                {"id": "51023","title": "Ethylbenzene"}
+            ]
+        },
+        {"id": "10910","title": "Hydrocarbon, chlorinated",
+            "variants": [
+                {"id": "51139","title": "1,1-Dichloroethane"},
+                {"id": "51140","title": "Cis-1,2-Dichloroethene (cis-1,2-Dichloroethylene)"},
+                {"id": "51909","title": "Benzyl chloride (alpha-Chloratoluene)"},
+                {"id": "51027","title": "1,2-Dichloroethane (Ethylene dichloride)"},
+                {"id": "51923","title": "Chlorobenzene (Monochlorobenzene)"},
+                {"id": "51028","title": "1,1-Dichloroethene (1,1-Dichloroethylene)"},
+                {"id": "51924","title": "1,2-Dichloropropane (Propylene dichloride)"},
+                {"id": "51029","title": "Methyl chloride (chloromethane)"},
+                {"id": "51030","title": "Methylene chloride (Dichloromethane)"},
+                {"id": "51032","title": "1,1,2,2-Tetrachloroethane"},
+                {"id": "51033","title": "Tetrachloroethene (Tetrachloroethylene)"},
+                {"id": "51034","title": "Tetrachloromethane (Carbon tetrachloride)"},
+                {"id": "51035","title": "1,1,1-Trichloroethane"},
+                {"id": "51036","title": "Trichloroethene (Trichloroethylene)"},
+                {"id": "51037","title": "Trichloromethane (Cloroform)"},
+                {"id": "51038","title": "Vinyl chloride (Chloroethene)"}
+            ]
+        },
+        {"id": "10911","title": "Cresol",
+            "variants": [
+                {"id": "51136","title": "ortho-Cresol"},
+                {"id": "51141","title": "para-Cresol"},
+                {"id": "51142","title": "meta-Cresol"}
+            ]
+        },
+        {"id": "10912","title": "Cathodic dip painting (CDP) application",
+            "variants": [
+                {"id": "51040","title": "Filtrate (CDP application)"},
+                {"id": "51041","title": "Cataphoretic dip paint"},
+                {"id": "51042","title": "Recirculate (CDP application)"},
+                {"id": "51043","title": "Flushing water (CDP application)"},
+                {"id": "51044","title": "Ultrafiltrate (CDP application)"},
+                {"id": "51045","title": "Anolyte (CDP application)"}
+            ]
+        },
+        {"id": "10913","title": "Paint water",
+            "variants": [
+                {"id": "51143","title": "Paint water with pH > 6"},
+                {"id": "51144","title": "Paint water with pH <= 6"}
+            ]
+        },
+        {"id": "10914","title": "Laurolactam",
+            "variants": [
+                {"id": "51145","title": "Pure melt (100% laurolactam)"}
+            ]
+        },
+        {"id": "10915","title": "Magnesium bisulfite waste lye",
+            "variants": [
+                {"id": "51048","title": "without further specification 51048"},
+                {"id": "51981","title": "Sulfite waste lye containing solids up to max. 120 °C"}
+            ]
+        },
+        {"id": "10916","title": "Magnesium chloride",
+            "variants": [
+                {"id": "51049","title": "Concentration up to 35% 51049"}
+            ]
+        },
+        {"id": "10917","title": "Magnesium hydrogen sulfite",
+            "variants": [
+                {"id": "51050","title": "Pure aqueous solution"},
+                {"id": "51982","title": "Solution containing solids up to max. 120 °C"}
+            ]
+        },
+        {"id": "10918","title": "Maleic acid anhydride (MSA)",
+            "variants": [
+                {"id": "51051","title": "without further specification 51051"}
+            ]
+        },
+        {"id": "10919","title": "Methyl ester",
+            "variants": []
+        },
+        {"id": "10920","title": "Methyl pyrrolidone, N- (NMP)",
+            "variants": [
+                {"id": "51053","title": "without further specification 51053"}
+            ]
+        },
+        {"id": "10921","title": "Monoethanolamine (2-aminoethanol)",
+            "variants": [
+                {"id": "51054","title": "without further specification 51054"}
+            ]
+        },
+        {"id": "10922","title": "Sodium acetate",
+            "variants": [
+                {"id": "51055","title": "Concentration up to 30% 51055"}
+            ]
+        },
+        {"id": "10923","title": "Sodium aluminates",
+            "variants": [
+                {"id": "51056","title": "Concentration up to 31.5% 51056"}
+            ]
+        },
+        {"id": "10924","title": "Sodium bisulfate (Sodium hydrogen sulfate)",
+            "variants": [
+                {"id": "51057","title": "Concentration up to 10% 51057"}
+            ]
+        },
+        {"id": "10925","title": "Sodium chloride (solution)",
+            "variants": [
+                {"id": "51058","title": "Concentration up to 26.3% 51058"}
+            ]
+        },
+        {"id": "10926","title": "Sodium cyanide",
+            "variants": [
+                {"id": "51059","title": "Concentration up to 30% 51059"}
+            ]
+        },
+        {"id": "10927","title": "Sodium dihydrogen phosphate",
+            "variants": [
+                {"id": "51060","title": "Concentration up to 50% 51060"}
+            ]
+        },
+        {"id": "10928","title": "Sodium hydrogen sulfite",
+            "variants": [
+                {"id": "51061","title": "Concentration up to 25% 51061"}
+            ]
+        },
+        {"id": "10929","title": "Sodium nitrite",
+            "variants": [
+                {"id": "51062","title": "Concentration up to 42% 51062"}
+            ]
+        },
+        {"id": "10930","title": "Sodium sulfite",
+            "variants": [
+                {"id": "51063","title": "Concentration up to 21% 51063"}
+            ]
+        },
+        {"id": "10931","title": "Sodium thiocyanate (sodium rhodanide)",
+            "variants": [
+                {"id": "51064","title": "Concentration up to 63% 51064"}
+            ]
+        },
+        {"id": "10932","title": "Sodium thiosulfate",
+            "variants": [
+                {"id": "51065","title": "Concentration up to 45% 51065"}
+            ]
+        },
+        {"id": "10933","title": "Nitrobenzene",
+            "variants": [
+                {"id": "51066","title": "without further specification 51066"}
+            ]
+        },
+        {"id": "10934","title": "Phenol (carbolic acid)",
+            "variants": [
+                {"id": "51067","title": "Aqueous solution up to 80% phenol"},
+                {"id": "51151","title": "Pure melt (100% phenol)"}
+            ]
+        },
+        {"id": "10935","title": "Phosphatizing solution",
+            "variants": [
+                {"id": "51152","title": "Iron phosphatizing solution"},
+                {"id": "51068","title": "Zinc or Manganese phosphatizing solution"}
+            ]
+        },
+        {"id": "10936","title": "Phthalimide",
+            "variants": []
+        },
+        {"id": "10937","title": "Phthalic acid anhydride (PSA)",
+            "variants": [
+                {"id": "51070","title": "Pure melt (100% phthalic anhydride)"}
+            ]
+        },
+        {"id": "10938","title": "Pyridine",
+            "variants": [
+                {"id": "51071","title": "without further specification 51071"}
+            ]
+        },
+        {"id": "10939","title": "Acid, acrylic acid",
+            "variants": [
+                {"id": "51072","title": "without further specification 51072"}
+            ]
+        },
+        {"id": "10940","title": "Acid, adipic acid",
+            "variants": []
+        },
+        {"id": "10941","title": "Acid, formic acid",
+            "variants": [
+                {"id": "51153","title": "Concentration 100% 51153"}
+            ]
+        },
+        {"id": "10942","title": "Acid, suberic acid",
+            "variants": [
+                {"id": "51075","title": "Pure melt (100% suberic acid)"}
+            ]
+        },
+        {"id": "10943","title": "Acid, lauric acid",
+            "variants": [
+                {"id": "51076","title": "without further specification 51076"}
+            ]
+        },
+        {"id": "10944","title": "Acid, oleic acid",
+            "variants": [
+                {"id": "51077","title": "without further specification 51077"}
+            ]
+        },
+        {"id": "10945","title": "Acid, palmitic acid (cetylic acid)",
+            "variants": [
+                {"id": "51078","title": "Pure melt (100% palmitic acid)"}
+            ]
+        },
+        {"id": "10946","title": "Acid, sulfuric acid with iron sulfate",
+            "variants": [
+                {"id": "51079","title": "20% Iron(II) sulfate solution with max. 20% sulfuric acid"}
+            ]
+        },
+        {"id": "10947","title": "Acid, stearic acid",
+            "variants": [
+                {"id": "51080","title": "Pure melt (100% stearic acid)"}
+            ]
+        },
+        {"id": "10948","title": "Black liquor (paper industry)",
+            "variants": [
+                {"id": "51081","title": "without further specification 51081"}
+            ]
+        },
+        {"id": "10949","title": "Sulfur",
+            "variants": []
+        },
+        {"id": "10950","title": "Sulfur dioxide",
+            "variants": [
+                {"id": "51083","title": "liquified gas"}
+            ]
+        },
+        {"id": "10951","title": "Carbon disulfide",
+            "variants": [
+                {"id": "51084","title": "without further specification 51084"}
+            ]
+        },
+        {"id": "10952","title": "Sorbit (solution)",
+            "variants": [
+                {"id": "51085","title": "Unsaturated aqueous solution 51085"}
+            ]
+        },
+        {"id": "10953","title": "Starch suspension",
+            "variants": [
+                {"id": "51086","title": "aqueous suspension with max. 44% dry substance"}
+            ]
+        },
+        {"id": "10954","title": "Sulfite waste lye (paper industry)",
+            "variants": [
+                {"id": "51087","title": "Sulfite waste lye without solids"}
+            ]
+        },
+        {"id": "10955","title": "Tallow",
+            "variants": [
+                {"id": "51088","title": "Pure melt (100% tallow)"}
+            ]
+        },
+        {"id": "10956","title": "Titanium dioxide suspension",
+            "variants": [
+                {"id": "51089","title": "Suspension up to 150g/l TiO2"},
+                {"id": "51870","title": "Suspension up to 600 g/l TiO2"}
+            ]
+        },
+        {"id": "10957","title": "Triethanolamine",
+            "variants": [
+                {"id": "51090","title": "Pure product"}
+            ]
+        },
+        {"id": "10958","title": "Water, with activated carbon",
+            "variants": [
+                {"id": "51091","title": "without further specification 51091"}
+            ]
+        },
+        {"id": "10959","title": "Acidic water",
+            "variants": []
+        },
+        {"id": "10960","title": "Hydrogen peroxide",
+            "variants": []
+        },
+        {"id": "10961","title": "Zinc sulfate (zinc vitriol)",
+            "variants": [
+                {"id": "51095","title": "Unsaturated aqueous solution 51095"}
+            ]
+        },
+        {"id": "10962","title": "Antifreeze on propylene glycol base, inhibited, closed system, e.g. Antifrogen L or similar products",
+            "variants": [
+                {"id": "51715","title": "Concentration 25%"},
+                {"id": "51716","title": "Concentration 30%"},
+                {"id": "51717","title": "Concentration 35%"},
+                {"id": "51718","title": "Concentration 40%"},
+                {"id": "51719","title": "Concentration 45%"},
+                {"id": "51720","title": "Concentration 50%"}
+            ]
+        },
+        {"id": "10963","title": "Antifreeze on propylene glycol base, inhibited, open system, e.g. Antifrogen L or similar products",
+            "variants": [
+                {"id": "51721","title": "Concentration 25%"},
+                {"id": "51722","title": "Concentration 30%"},
+                {"id": "51723","title": "Concentration 35%"},
+                {"id": "51724","title": "Concentration 40%"},
+                {"id": "51725","title": "Concentration 45%"},
+                {"id": "51726","title": "Concentration 50%"}
+            ]
+        },
+        {"id": "10964","title": "Food (water suspension)",
+            "variants": [
+                {"id": "51890","title": "Water/barley mixture (malthouse)"},
+                {"id": "51989","title": "Malt"}
+            ]
+        },
+        {"id": "10965","title": "Acid, malic acid",
+            "variants": [
+                {"id": "51900","title": "Unsaturated aqueous solution"}
+            ]
+        },
+        {"id": "10966","title": "Acid, gallic acid",
+            "variants": [
+                {"id": "51903","title": "Unsaturated aqueous solution"}
+            ]
+        },
+        {"id": "10967","title": "Ethyl formate",
+            "variants": [
+                {"id": "51906","title": "without further specification"}
+            ]
+        },
+        {"id": "10968","title": "Methyl formate",
+            "variants": [
+                {"id": "51907","title": "without further specification"}
+            ]
+        },
+        {"id": "10969","title": "Butyl acetate (n-Butyl acetate)",
+            "variants": [
+                {"id": "51910","title": "without further specification"}
+            ]
+        },
+        {"id": "10970","title": "Butylamine (n-Butylamine)",
+            "variants": [
+                {"id": "51911","title": "without further specification"}
+            ]
+        },
+        {"id": "10971","title": "Diethylamine",
+            "variants": [
+                {"id": "51912","title": "without further specification"}
+            ]
+        },
+        {"id": "10972","title": "Dimethyl ether (Methyl ether)",
+            "variants": [
+                {"id": "51913","title": "without further specification"}
+            ]
+        },
+        {"id": "10973","title": "Acetic anhydride",
+            "variants": [
+                {"id": "51914","title": "without further specification"}
+            ]
+        },
+        {"id": "10974","title": "Ethyl acetate (Acetic ether)",
+            "variants": [
+                {"id": "51915","title": "without further specification"}
+            ]
+        },
+        {"id": "10975","title": "Methyl acetate",
+            "variants": [
+                {"id": "51916","title": "without further specification"}
+            ]
+        },
+        {"id": "10976","title": "Ethylene bromide (1,2-Dibromethane)",
+            "variants": [
+                {"id": "51917","title": "without further specification"}
+            ]
+        },
+        {"id": "10977","title": "Frigen (Refrigerant)",
+            "variants": [
+                {"id": "51920","title": "Frigen 22 (Freon 22)"},
+                {"id": "51921","title": "Frigen 502 (Freon 502)"},
+                {"id": "51918","title": "Frigen 11 (Freon 11)"},
+                {"id": "51919","title": "Frigen 12 (Freon 12)"}
+            ]
+        },
+        {"id": "10978","title": "Ketone, aliphatic",
+            "variants": [
+                {"id": "51926","title": "Methylethylketone (2-Butanone)"},
+                {"id": "51927","title": "Methylisobutylketone (4-Methyl-2-Pentanone)"}
+            ]
+        },
+        {"id": "10979","title": "Methylmercaptan (Methanethiol)",
+            "variants": [
+                {"id": "51928","title": "without further specification"}
+            ]
+        },
+        {"id": "10980","title": "Methyl methacrylate",
+            "variants": [
+                {"id": "51929","title": "without further specification"}
+            ]
+        },
+        {"id": "10981","title": "Piperidine",
+            "variants": [
+                {"id": "51930","title": "without further specification"}
+            ]
+        },
+        {"id": "10982","title": "Propylamine",
+            "variants": [
+                {"id": "51931","title": "n-Propylamine (1-Aminopropane)"}
+            ]
+        },
+        {"id": "10983","title": "Trimethylamine",
+            "variants": [
+                {"id": "51932","title": "without further specification"}
+            ]
+        },
+        {"id": "10984","title": "Food (liquid)",
+            "variants": [
+                {"id": "51946","title": "Egg (liquid)"}
+            ]
+        },
+        {"id": "10985","title": "Sugar production (liquid)",
+            "variants": [
+                {"id": "51968","title": "Press water (sugar)"},
+                {"id": "51969","title": "Raw juice (sugar)"},
+                {"id": "51970","title": "Beet mud water, solids up to max. 4 g/l"},
+                {"id": "51971","title": "Beet mud water, solids up to max. 12 g/l"},
+                {"id": "51972","title": "Cossette-juice mixture (sugar)"},
+                {"id": "51973","title": "Backflush juice 1 (Sugar)"},
+                {"id": "51974","title": "Backflush juice 2 (Sugar)"},
+                {"id": "51975","title": "Carbonation juice 1 (sugar)"},
+                {"id": "51976","title": "Carbonation juice 2 (sugar)"},
+                {"id": "51977","title": "Carbonatation juice concentrate 1 (sugar)"},
+                {"id": "51978","title": "Carbonatation juice concentrate 2 (sugar)"},
+                {"id": "51979","title": "Circulation juice (sugar)"},
+                {"id": "51950","title": "Sweetening-off filtrate from the plate filter (sugar)"},
+                {"id": "51951","title": "Sweetening-off filtrate from the press filter (sugar)"},
+                {"id": "51952","title": "Sweetening-off condensate (sugar)"},
+                {"id": "51953","title": "Pre-coat suspension (sugar)"},
+                {"id": "51954","title": "Bruckner wash water (sugar), solids up to max. 2 g/l"},
+                {"id": "51955","title": "Bruckner wash water (sugar), solids up to max. 4 g/l"},
+                {"id": "51956","title": "Thick juice (sugar)"},
+                {"id": "51957","title": "Thin juice 1 (sugar)"},
+                {"id": "51958","title": "Thin juice 2 (sugar)"},
+                {"id": "51959","title": "Defoamer juice (sugar)"},
+                {"id": "51960","title": "Extraction water (sugar)"},
+                {"id": "51961","title": "Limed juice (sugar)"},
+                {"id": "51962","title": "Clairce, filtered (sugar)"},
+                {"id": "51963","title": "Clairce, unfiltered (sugar)"},
+                {"id": "51964","title": "Classified juice, juice extraction (sugar)"},
+                {"id": "51965","title": "Classified juice, juice clarification (sugar)"},
+                {"id": "51966","title": "Mixed juice (sugar cane)"},
+                {"id": "51967","title": "Middle juice (sugar)"}
+            ]
+        },
+        {"id": "10986","title": "Water glass",
+            "variants": [
+                {"id": "51980","title": "without further specification"}
+            ]
+        },
+        {"id": "10987","title": "Chromium oxides (liquid)",
+            "variants": [
+                {"id": "51983","title": "Chromic dioxide (chromium-IV-oxide)"}
+            ]
+        },
+        {"id": "10988","title": "Temper (Refrigerant and heat transfer liquid, closed system)",
+            "variants": [
+                {"id": "52002","title": "Temper-10"},
+                {"id": "52003","title": "Temper-20"},
+                {"id": "52004","title": "Temper-30"},
+                {"id": "52005","title": "Temper-40"}
+            ]
+        },
+        {"id": "11000","title": "Water",
+            "variants": [
+                {"id": "51670","title": "Clean water"}
+            ]
+        },
+        {"id": "11001","title": "Air (gas)",
+            "variants": [
+                {"id": "51735","title": "without further specification"},
+                {"id": "51736","title": "with oil content"},
+                {"id": "51737","title": "without oil content"}
+            ]
+        },
+        {"id": "11002","title": "Argon (gas)",
+            "variants": [
+                {"id": "51738","title": "without further specification"}
+            ]
+        },
+        {"id": "11003","title": "Blast furnace gas",
+            "variants": [
+                {"id": "51739","title": "without further specification"}
+            ]
+        },
+        {"id": "11004","title": "Carbon dioxide (gas)",
+            "variants": [
+                {"id": "51741","title": "without further specification"}
+            ]
+        },
+        {"id": "11005","title": "Carbon monoxide (gas)",
+            "variants": [
+                {"id": "51742","title": "without further specification"}
+            ]
+        },
+        {"id": "11006","title": "Chlorine dioxide (gas)",
+            "variants": [
+                {"id": "51743","title": "without further specification"}
+            ]
+        },
+        {"id": "11007","title": "Chlorine (gas)",
+            "variants": [
+                {"id": "51744","title": "without further specification"}
+            ]
+        },
+        {"id": "11008","title": "Chloroform (gas)",
+            "variants": [
+                {"id": "51745","title": "without further specification"}
+            ]
+        },
+        {"id": "11009","title": "Coke oven gas",
+            "variants": [
+                {"id": "51746","title": "water gas"},
+                {"id": "51747","title": "Purified coke oven gas"},
+                {"id": "51748","title": "Untreated coke oven gas"},
+                {"id": "51749","title": "without further specification"}
+            ]
+        },
+        {"id": "11010","title": "Combustion motor exhaust gas",
+            "variants": [
+                {"id": "51751","title": "Diesel motor exhaust"}
+            ]
+        },
+        {"id": "11011","title": "Cumene (gas)",
+            "variants": [
+                {"id": "51752","title": "concentration up to 2%"}
+            ]
+        },
+        {"id": "11012","title": "Ethane (gas)",
+            "variants": [
+                {"id": "51753","title": "without further specification"}
+            ]
+        },
+        {"id": "11013","title": "Ethylene (gas)",
+            "variants": [
+                {"id": "51754","title": "without further specification"}
+            ]
+        },
+        {"id": "11014","title": "Ethylene oxide (gas)",
+            "variants": [
+                {"id": "51755","title": "without further specification"}
+            ]
+        },
+        {"id": "11015","title": "Freon (gas)",
+            "variants": [
+                {"id": "51776","title": "Freon MF"},
+                {"id": "51777","title": "Freon TA"},
+                {"id": "51778","title": "Freon TC"},
+                {"id": "51779","title": "Freon TF"},
+                {"id": "51780","title": "Freon TMC"},
+                {"id": "51781","title": "Freon TP35"},
+                {"id": "51782","title": "Freon TWD602"},
+                {"id": "51756","title": "Freon 11"},
+                {"id": "51757","title": "Freon 112"},
+                {"id": "51758","title": "Freon 113"},
+                {"id": "51759","title": "Freon 114"},
+                {"id": "51760","title": "Freon 114B2"},
+                {"id": "51761","title": "Freon 115"},
+                {"id": "51762","title": "Freon 12"},
+                {"id": "51763","title": "Freon 13"},
+                {"id": "51764","title": "Freon 14"},
+                {"id": "51765","title": "Freon 21"},
+                {"id": "51766","title": "Freon 218"},
+                {"id": "51767","title": "Freon 22"},
+                {"id": "51768","title": "Freon 31"},
+                {"id": "51769","title": "Freon 502"},
+                {"id": "51770","title": "Freon BF"},
+                {"id": "51771","title": "Freon C142B"},
+                {"id": "51772","title": "Freon C152A"},
+                {"id": "51773","title": "Freon C31"},
+                {"id": "51774","title": "Freon C318"},
+                {"id": "51775","title": "Freon C32"}
+            ]
+        },
+        {"id": "11016","title": "Helium (gas)",
+            "variants": [
+                {"id": "51783","title": "without further specification"}
+            ]
+        },
+        {"id": "11017","title": "Hydrocarbon (gas)",
+            "variants": [
+                {"id": "51784","title": "butane"},
+                {"id": "51785","title": "methane"},
+                {"id": "51786","title": "propane"}
+            ]
+        },
+        {"id": "11018","title": "Hydrofluoric acid (gas)",
+            "variants": [
+                {"id": "51787","title": "concentration up to 5%"},
+                {"id": "51788","title": "concentration up to 100%"}
+            ]
+        },
+        {"id": "11019","title": "Hydrogen chloride (gas)",
+            "variants": [
+                {"id": "51789","title": "concentration up to 100%"},
+                {"id": "51790","title": "concentration up to 50%"}
+            ]
+        },
+        {"id": "11020","title": "Hydrogen (gas)",
+            "variants": [
+                {"id": "51791","title": "without further specification"}
+            ]
+        },
+        {"id": "11021","title": "Hydrogen sulphide (gas)",
+            "variants": [
+                {"id": "51792","title": "concentration up to 5%"},
+                {"id": "51793","title": "concentration up to 10%"},
+                {"id": "51794","title": "concentration up to 100%"}
+            ]
+        },
+        {"id": "11022","title": "Iodine (gas)",
+            "variants": [
+                {"id": "51795","title": "without further specification"}
+            ]
+        },
+        {"id": "11023","title": "Methyl chloride (gas)",
+            "variants": [
+                {"id": "51796","title": "without further specification"}
+            ]
+        },
+        {"id": "11024","title": "Natural gas",
+            "variants": [
+                {"id": "51797","title": "town gas"},
+                {"id": "51798","title": "natural gas"},
+                {"id": "51799","title": "conditioned natural gas"}
+            ]
+        },
+        {"id": "11025","title": "Nitrogen (gas)",
+            "variants": [
+                {"id": "51800","title": "without further specification"}
+            ]
+        },
+        {"id": "11026","title": "Oxygen (gas)",
+            "variants": [
+                {"id": "51801","title": "ozoned air"},
+                {"id": "51802","title": "without further specification"},
+                {"id": "51803","title": "ozone"}
+            ]
+        },
+        {"id": "11027","title": "Propylene (gas)",
+            "variants": [
+                {"id": "51804","title": "without further specification"}
+            ]
+        },
+        {"id": "11028","title": "Sodium cyanide (gas)",
+            "variants": [
+                {"id": "51805","title": "without further specification"}
+            ]
+        },
+        {"id": "11029","title": "Sulphur dioxide (gas)",
+            "variants": [
+                {"id": "51806","title": "without further specification"}
+            ]
+        },
+        {"id": "11030","title": "Water vapour (gas)",
+            "variants": [
+                {"id": "51808","title": "without further specification"},
+                {"id": "51807","title": "Water vapour (sugar production)"}
+            ]
+        },
+        {"id": "11031","title": "Xenon (gas)",
+            "variants": [
+                {"id": "51809","title": "without further specification"}
+            ]
+        },
+        {"id": "11033","title": "Adipic acid (crystalline)",
+            "variants": [
+                {"id": "51811","title": "without further specification"}
+            ]
+        },
+        {"id": "11034","title": "Alumina (solid phase)",
+            "variants": [
+                {"id": "51812","title": "without further specification"}
+            ]
+        },
+        {"id": "11035","title": "Ammonium carbonate (solid phase)",
+            "variants": [
+                {"id": "51813","title": "without further specification"}
+            ]
+        },
+        {"id": "11036","title": "Ash (solid phase)",
+            "variants": [
+                {"id": "51814","title": "without further specification"}
+            ]
+        },
+        {"id": "11037","title": "Blast furnace slag granulation (solid phase)",
+            "variants": [
+                {"id": "51815","title": "without further specification"}
+            ]
+        },
+        {"id": "11038","title": "Calcium carbonate (solid phase)",
+            "variants": [
+                {"id": "51816","title": "without further specification"}
+            ]
+        },
+        {"id": "11039","title": "Carbon black powder",
+            "variants": [
+                {"id": "51817","title": "without further specification"}
+            ]
+        },
+        {"id": "11040","title": "Cement (solid phase)",
+            "variants": [
+                {"id": "51818","title": "without further specification"},
+                {"id": "51819","title": "Raw cement extraction"},
+                {"id": "51820","title": "Raw cement process"},
+                {"id": "51821","title": "Cement extraction"}
+            ]
+        },
+        {"id": "11041","title": "Chalk (solid phase)",
+            "variants": [
+                {"id": "51822","title": "without further specification"}
+            ]
+        },
+        {"id": "11042","title": "Clinker (solid phase)",
+            "variants": [
+                {"id": "51823","title": "without further specification"}
+            ]
+        },
+        {"id": "11043","title": "Coffee beans",
+            "variants": [
+                {"id": "51824","title": "without further specification"}
+            ]
+        },
+        {"id": "11044","title": "Dust (solid phase)",
+            "variants": [
+                {"id": "51825","title": "without further specification"},
+                {"id": "51826","title": "Dust transport"}
+            ]
+        },
+        {"id": "11045","title": "Ferrous chloride (solid phase)",
+            "variants": [
+                {"id": "51827","title": "without further specification"}
+            ]
+        },
+        {"id": "11046","title": "Fertilizer (phosphoric acid) (solid phase)",
+            "variants": [
+                {"id": "51828","title": "without further specification"}
+            ]
+        },
+        {"id": "11047","title": "Flour (solid phase)",
+            "variants": [
+                {"id": "51829","title": "without further specification"}
+            ]
+        },
+        {"id": "11048","title": "Fodder (solid phase)",
+            "variants": [
+                {"id": "51830","title": "without further specification"}
+            ]
+        },
+        {"id": "11049","title": "Hexachloro cyclohexan (solid phase)",
+            "variants": [
+                {"id": "51831","title": "without further specification"}
+            ]
+        },
+        {"id": "11050","title": "Inert chemical powders",
+            "variants": [
+                {"id": "51832","title": "without further specification"}
+            ]
+        },
+        {"id": "11051","title": "Iodine (solid phase)",
+            "variants": [
+                {"id": "51833","title": "without further specification"}
+            ]
+        },
+        {"id": "11052","title": "Lime (solid phase)",
+            "variants": [
+                {"id": "51834","title": "Slaked lime"},
+                {"id": "51835","title": "Quick lime"}
+            ]
+        },
+        {"id": "11053","title": "Maltose (solid phase)",
+            "variants": [
+                {"id": "51836","title": "without further specification"}
+            ]
+        },
+        {"id": "11054","title": "Milk powder",
+            "variants": [
+                {"id": "51837","title": "without further specification"}
+            ]
+        },
+        {"id": "11055","title": "Moulding sand (solid phase)",
+            "variants": [
+                {"id": "51838","title": "without further specification"}
+            ]
+        },
+        {"id": "11056","title": "Nickel chloride (solid phase)",
+            "variants": [
+                {"id": "51839","title": "without further specification"}
+            ]
+        },
+        {"id": "11057","title": "Plaster (solid phase)",
+            "variants": [
+                {"id": "51840","title": "Gypsum powder"},
+                {"id": "51841","title": "Plaster transport"}
+            ]
+        },
+        {"id": "11058","title": "Plastic granulate (solid phase)",
+            "variants": [
+                {"id": "51842","title": "without further specification"}
+            ]
+        },
+        {"id": "11059","title": "Potassium carbonate (solid phase)",
+            "variants": [
+                {"id": "51843","title": "without further specification"}
+            ]
+        },
+        {"id": "11060","title": "Potassium chloride (solid phase)",
+            "variants": [
+                {"id": "51844","title": "without further specification"}
+            ]
+        },
+        {"id": "11061","title": "Saccharose (solid phase)",
+            "variants": [
+                {"id": "51845","title": "without further specification"}
+            ]
+        },
+        {"id": "11062","title": "Silica (solid phase)",
+            "variants": [
+                {"id": "51846","title": "without further specification"}
+            ]
+        },
+        {"id": "11063","title": "Slurry (solid phase)",
+            "variants": [
+                {"id": "51847","title": "without further specification"}
+            ]
+        },
+        {"id": "11064","title": "Sodium aluminate (solid phase)",
+            "variants": [
+                {"id": "51848","title": "without further specification"}
+            ]
+        },
+        {"id": "11065","title": "Sodium carbonate anhydrous (solid phase)",
+            "variants": [
+                {"id": "51849","title": "without further specification"}
+            ]
+        },
+        {"id": "11066","title": "Sodium chloride (solid phase)",
+            "variants": [
+                {"id": "51850","title": "without further specification"}
+            ]
+        },
+        {"id": "11067","title": "Sodium silicate (solid phase)",
+            "variants": [
+                {"id": "51851","title": "without further specification"}
+            ]
+        },
+        {"id": "11069","title": "Sulphite liquor (solid phase)",
+            "variants": [
+                {"id": "51853","title": "without further specification"}
+            ]
+        },
+        {"id": "11070","title": "Sulphur (solid phase)",
+            "variants": [
+                {"id": "51854","title": "without further specification"}
+            ]
+        },
+        {"id": "11071","title": "Talcum powder",
+            "variants": [
+                {"id": "51855","title": "without further specification"}
+            ]
+        },
+        {"id": "11072","title": "Tannin (solid phase)",
+            "variants": [
+                {"id": "51856","title": "without further specification"}
+            ]
+        },
+        {"id": "11073","title": "Yeast (solid phase)",
+            "variants": [
+                {"id": "51857","title": "without further specification"}
+            ]
+        },
+        {"id": "11074","title": "Iron granulate (foundry) (solid phase)",
+            "variants": [
+                {"id": "51858","title": "without further specification"}
+            ]
+        },
+        {"id": "11075","title": "Massecuites (syrup with sugar crystals) (solid phase)",
+            "variants": [
+                {"id": "51859","title": "without further specification"}
+            ]
+        },
+        {"id": "11076","title": "Ground silica sand (silica flour)",
+            "variants": [
+                {"id": "51860","title": "without further specification"}
+            ]
+        },
+        {"id": "11077","title": "Ammonia (gas)",
+            "variants": [
+                {"id": "51861","title": "without further specification"}
+            ]
+        },
+        {"id": "11078","title": "Sodium hydrogencarbonate (solid phase)",
+            "variants": [
+                {"id": "51862","title": "without further specification"}
+            ]
+        },
+        {"id": "11079","title": "Maleic acid (solid phase)",
+            "variants": [
+                {"id": "51863","title": "without further specification"}
+            ]
+        },
+        {"id": "12000","title": "Sodium chloride (brine)",
+            "variants": []
+        },
+        {"id": "12001","title": "Gas oil",
+            "variants": []
+        },
+        {"id": "12002","title": "Sodium hypochlorite",
+            "variants": []
+        },
+        {"id": "12003","title": "Acetyl chloride",
+            "variants": []
+        },
+        {"id": "12004","title": "Aluminium chloride",
+            "variants": []
+        },
+        {"id": "12005","title": "Amidosulfuric acid",
+            "variants": []
+        },
+        {"id": "12006","title": "Ammonium bromide",
+            "variants": []
+        },
+        {"id": "12007","title": "Ammonium fluroide",
+            "variants": []
+        },
+        {"id": "12008","title": "Arsenic acid",
+            "variants": []
+        },
+        {"id": "12009","title": "Barium chloride",
+            "variants": []
+        },
+        {"id": "12010","title": "Hydrocyanic acid (hydrogen cyanide)",
+            "variants": []
+        },
+        {"id": "12011","title": "Borax",
+            "variants": []
+        },
+        {"id": "12012","title": "Boric acid",
+            "variants": []
+        },
+        {"id": "12013","title": "Hydrobromic acid",
+            "variants": []
+        },
+        {"id": "12014","title": "Calcium hypochlorite",
+            "variants": []
+        },
+        {"id": "12015","title": "Chloracetic acid",
+            "variants": []
+        },
+        {"id": "12016","title": "Chlorosulfuric acid",
+            "variants": []
+        },
+        {"id": "12017","title": "Chloric acid",
+            "variants": []
+        },
+        {"id": "12018","title": "Chlorine water",
+            "variants": []
+        },
+        {"id": "12019","title": "Chromic acid (Chromium-VI-oxide)",
+            "variants": []
+        },
+        {"id": "12020","title": "Ferrous chloride",
+            "variants": []
+        },
+        {"id": "12021","title": "Ferric chloride",
+            "variants": []
+        },
+        {"id": "12022","title": "Hydrofluoric acid",
+            "variants": []
+        },
+        {"id": "12023","title": "Fluorosilicic acid",
+            "variants": []
+        },
+        {"id": "12024","title": "Photo developer",
+            "variants": []
+        },
+        {"id": "12025","title": "Hydrazine",
+            "variants": []
+        },
+        {"id": "12026","title": "Cupric chloride",
+            "variants": []
+        },
+        {"id": "12027","title": "Copper(II)nitrate",
+            "variants": []
+        },
+        {"id": "12028","title": "Magnesium nitrate",
+            "variants": []
+        },
+        {"id": "12029","title": "Manganese chloride",
+            "variants": []
+        },
+        {"id": "12030","title": "Mixed acid",
+            "variants": []
+        },
+        {"id": "12031","title": "Sodium chlorate",
+            "variants": []
+        },
+        {"id": "12032","title": "Sodium chlorite",
+            "variants": []
+        },
+        {"id": "12033","title": "Nickel(II)chloride",
+            "variants": []
+        },
+        {"id": "12034","title": "Nickel-II-sulfate",
+            "variants": []
+        },
+        {"id": "12035","title": "Perchloric acid",
+            "variants": []
+        },
+        {"id": "12036","title": "Hydrochloric acid",
+            "variants": []
+        },
+        {"id": "12037","title": "Zinc chloride",
+            "variants": []
+        },
+        {"id": "15000","title": "Gas",
+            "variants": [
+                {"id": "51700","title": "without further specification"}
+            ]
+        },
+        {"id": "16000","title": "Powder",
+            "variants": [
+                {"id": "51701","title": "without further specification"}
+            ]
+        },
+        {"id": "19000","title": "Wastewater, industrial, corrosive, abrasive",
+            "variants": [
+                {"id": "50080","title": "from flue gas desulfurization (FGD), containing chloride"},
+                {"id": "50013","title": "without further specification 50013"}
+            ]
+        },
+        {"id": "19001","title": "Wastewater, industrial, corrosive, not abrasive",
+            "variants": [
+                {"id": "50060","title": "with iron (II) nitrate up to 5%"},
+                {"id": "50062","title": "with iron (III) sulfate up to 5%"},
+                {"id": "50064","title": "with phosphoric acid up to 5%"},
+                {"id": "50065","title": "with sulfuric acid up to 3%"},
+                {"id": "50068","title": "with nitric acid up to 5%"},
+                {"id": "50070","title": "with potassium chloride up to 5%"},
+                {"id": "50071","title": "with magnesium chloride up to 5%"},
+                {"id": "50072","title": "with magnesium sulfate up to 10%"},
+                {"id": "50073","title": "with sodium sulfate up to 10%"},
+                {"id": "50074","title": "with sodium chloride up to 5%"},
+                {"id": "50017","title": "with aluminium sulfate up to 10%"},
+                {"id": "50021","title": "with formic acid up to 5%"},
+                {"id": "50025","title": "with ammonium chloride up to 10%"},
+                {"id": "51693","title": "Contaminated water (brewery)"},
+                {"id": "51694","title": "Contaminated water (beverage industry)"},
+                {"id": "51695","title": "Contaminated water (fishery)"},
+                {"id": "51696","title": "Contaminated water (car wash)"},
+                {"id": "50033","title": "with barium nitrate"},
+                {"id": "51697","title": "Contaminated water (petrol station)"},
+                {"id": "50039","title": "slightly acidic (pH >= 6)"},
+                {"id": "51703","title": "Wastewater, chemically aggressive"},
+                {"id": "51704","title": "Wastewater, aggressive (pH 5 to 12)"},
+                {"id": "50041","title": "with tannic acid up to 10%"},
+                {"id": "50043","title": "with calcium nitrate up to 10%"},
+                {"id": "50047","title": "with calcium chloride up to 5% CaCl2"},
+                {"id": "50751","title": "Dairy wastewater"}
+            ]
+        },
+        {"id": "19002","title": "Wastewater, industrial, not corrosive, abrasive",
+            "variants": [
+                {"id": "50001","title": "containing dust or ashes"},
+                {"id": "50962","title": "Lime milk >15 to 25%"},
+                {"id": "50003","title": "Washing water containing solids"},
+                {"id": "50005","title": "Lime milk >5 to 15%"},
+                {"id": "50006","title": "Pigment suspension"},
+                {"id": "50007","title": "Scale water"},
+                {"id": "50015","title": "without further specification 50015"}
+            ]
+        },
+        {"id": "19003","title": "Wastewater, industrial, not corrosive,  not abrasive",
+            "variants": [
+                {"id": "50752","title": "Abattoir wastewater"},
+                {"id": "50049","title": "with chlorinated hydrocarbons"},
+                {"id": "50050","title": "with chloroform"},
+                {"id": "50051","title": "with urea up to 25% (NH2)2-CO"},
+                {"id": "50052","title": "with dissolved sodium carbonate up to 10% Na2CO3"},
+                {"id": "50053","title": "with potassium hydroxide up to 10% KOH"},
+                {"id": "50054","title": "with oil"},
+                {"id": "50055","title": "with methane"},
+                {"id": "50056","title": "with methylene chloride"},
+                {"id": "50057","title": "with styrene"},
+                {"id": "50058","title": "with trichloroethylene"},
+                {"id": "50059","title": "with sodium hydroxide up to 5% NaOH"},
+                {"id": "50011","title": "without further specification 50011"},
+                {"id": "50019","title": "with aliphatic hydrocarbons"},
+                {"id": "50086","title": "with paint suspension"},
+                {"id": "50023","title": "with ammonia"},
+                {"id": "50088","title": "with fibres"},
+                {"id": "50090","title": "with lacquer suspension"},
+                {"id": "50027","title": "with ammonium hydroxide up to 5%"},
+                {"id": "50029","title": "with aromatic hydrocarbons"},
+                {"id": "50031","title": "with ethylene chloride"},
+                {"id": "50035","title": "with petrol"},
+                {"id": "50037","title": "with benzene"},
+                {"id": "51707","title": "Industrial wastewater with faeces"},
+                {"id": "51708","title": "Industrial wastewater without faeces"},
+                {"id": "50045","title": "with calcium hydroxide up to 5% Ca(OH)2"}
+            ]
+        },
+        {"id": "19004","title": "Wastewater, municipal, abrasive",
+            "variants": [
+                {"id": "50099","title": "Raw water containing solids and long fibres and abrasive substances"}
+            ]
+        },
+        {"id": "19005","title": "Juice (fruit and sugar juice)",
+            "variants": [
+                {"id": "51941","title": "Orange juice"},
+                {"id": "51942","title": "Pressed plant juice"},
+                {"id": "50923","title": "Fruit juice with SO2"},
+                {"id": "51899","title": "Vegetable juice"},
+                {"id": "50333","title": "Sugar juice solution"},
+                {"id": "50335","title": "Fruit juice"}
+            ]
+        },
+        {"id": "19006","title": "Liquid",
+            "variants": [
+                {"id": "51864","title": "without further specification"}
+            ]
+        },
+        {"id": "19999","title": "Not assigned",
+            "variants": [
+                {"id": "59999","title": "Not assigned"}
+            ]
+        }
+    ]
+}

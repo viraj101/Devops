@@ -1,0 +1,291 @@
+{
+    "lang": "en",
+    "features": [
+        {
+            "feature_id": "MTRL_ACTV_HDRLC_CMPNNT",
+            "type": null,
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Material active hydraulic component",
+            "domain_values": [
+                {
+                    "domain_id": "0000",
+                    "domain_value": "WITHOUT"
+                },
+                {
+                    "domain_id": "0168",
+                    "domain_value": "3.6+A2A"
+                },
+                {
+                    "domain_id": "0210",
+                    "domain_value": "8.8"
+                },
+                {
+                    "domain_id": "0250",
+                    "domain_value": "STEEL"
+                },
+                {
+                    "domain_id": "0256",
+                    "domain_value": "STEEL ELECTROLYTIC ZINC-PLATED"
+                },
+                {
+                    "domain_id": "0698",
+                    "domain_value": "C45+N"
+                },
+                {
+                    "domain_id": "0722",
+                    "domain_value": "IS5517 45C8"
+                },
+                {
+                    "domain_id": "0732",
+                    "domain_value": "C45+C/A311 GR 1045 CLASS A"
+                },
+                {
+                    "domain_id": "1300",
+                    "domain_value": "X6CRNIMOTI17-12-2"
+                },
+                {
+                    "domain_id": "1360",
+                    "domain_value": "X17CRNI16-2+QT800"
+                },
+                {
+                    "domain_id": "1486",
+                    "domain_value": "A276 TYPE 410 CONDITION H"
+                },
+                {
+                    "domain_id": "1488",
+                    "domain_value": "1.4571+C/A276 TP 316 CONDITION B"
+                },
+                {
+                    "domain_id": "1658",
+                    "domain_value": "X2CRNIMON22-5-3/UNS S31803"
+                },
+                {
+                    "domain_id": "1706",
+                    "domain_value": "A276 TYPE 316"
+                },
+                {
+                    "domain_id": "1800",
+                    "domain_value": "GJL/LAMELLAR GRAPHITE CAST IRON"
+                },
+                {
+                    "domain_id": "1819",
+                    "domain_value": "EN-GJL-250/A48 CL 35B"
+                },
+                {
+                    "domain_id": "1821",
+                    "domain_value": "EN-GJL-250"
+                },
+                {
+                    "domain_id": "1824",
+                    "domain_value": "EN-GJL-250 WITHOUT PROTECTIVE COATING"
+                },
+                {
+                    "domain_id": "1877",
+                    "domain_value": "EN-GJS-400-18-LT"
+                },
+                {
+                    "domain_id": "2716",
+                    "domain_value": "GX5CRNIMO19-11-2/A743 GRADE CF-8M"
+                },
+                {
+                    "domain_id": "3519",
+                    "domain_value": "CUSN10-C"
+                },
+                {
+                    "domain_id": "3917",
+                    "domain_value": "CUSN10-C-GS/B30 C90700"
+                },
+                {
+                    "domain_id": "4030",
+                    "domain_value": "CUSN10PB10-C-GS"
+                },
+                {
+                    "domain_id": "4053",
+                    "domain_value": "IS318 GRADE LTB2"
+                },
+                {
+                    "domain_id": "4054",
+                    "domain_value": "IS318 GRADE LTB4"
+                },
+                {
+                    "domain_id": "4334",
+                    "domain_value": "AC-ALSI8CU3F-D"
+                },
+                {
+                    "domain_id": "4400",
+                    "domain_value": "AL"
+                },
+                {
+                    "domain_id": "5505",
+                    "domain_value": "GRAPHITE 99,8% DENSITY 1,2"
+                },
+                {
+                    "domain_id": "5550",
+                    "domain_value": "ARAMID FIBRE WITH PARAFFIN AND PTFE"
+                },
+                {
+                    "domain_id": "5575",
+                    "domain_value": "ACRYLIC FIBRE PTFE IMPREGNATED"
+                },
+                {
+                    "domain_id": "5599",
+                    "domain_value": "COTTON GRAPHITE IMPREGNATED"
+                },
+                {
+                    "domain_id": "5687",
+                    "domain_value": "RAMIE FIBRE PTFE IMPREGNATED"
+                },
+                {
+                    "domain_id": "5689",
+                    "domain_value": "PTFE WITH INCORPORATED GRAPHITE"
+                },
+                {
+                    "domain_id": "7501",
+                    "domain_value": "(ST)           BASIC MATERIAL GROUP"
+                },
+                {
+                    "domain_id": "7510",
+                    "domain_value": "(S185)        BASIC MATERIAL GROUP"
+                },
+                {
+                    "domain_id": "7605",
+                    "domain_value": "(CRNIMO ST INT) BASIC MATERIAL GROUP"
+                },
+                {
+                    "domain_id": "7798",
+                    "domain_value": "GASKET ASBESTOS FREE"
+                },
+                {
+                    "domain_id": "8136",
+                    "domain_value": "EN-GJS-400-15/A536 GRADE 60-40-18"
+                },
+                {
+                    "domain_id": "B108",
+                    "domain_value": "GX7CRNIMO12-1/A743 GRADE CA15"
+                },
+                {
+                    "domain_id": "ES87",
+                    "domain_value": "A4/AISI 316"
+                },
+                {
+                    "domain_id": "ES89",
+                    "domain_value": "A4-70/A193 GR B8M CL2"
+                },
+                {
+                    "domain_id": "P031",
+                    "domain_value": "TEALON TF1570"
+                },
+                {
+                    "domain_id": "U125",
+                    "domain_value": "NITRILE-BUTADIENE-RUBBER-A2"
+                },
+                {
+                    "domain_id": "Y005",
+                    "domain_value": "AQ1EGG"
+                },
+                {
+                    "domain_id": "Y018",
+                    "domain_value": "AQ1VGG"
+                },
+                {
+                    "domain_id": "Y119",
+                    "domain_value": "BQ1VGG"
+                },
+                {
+                    "domain_id": "Y193",
+                    "domain_value": "BVPGG"
+                },
+                {
+                    "domain_id": "Y241",
+                    "domain_value": "Q1BVGG"
+                },
+                {
+                    "domain_id": "Y245",
+                    "domain_value": "Q1Q1EGG"
+                },
+                {
+                    "domain_id": "Y251",
+                    "domain_value": "Q1Q1KGG"
+                },
+                {
+                    "domain_id": "Y273",
+                    "domain_value": "Q1Q1VGG"
+                },
+                {
+                    "domain_id": "Y458",
+                    "domain_value": "U3BEGG"
+                },
+                {
+                    "domain_id": "Y463",
+                    "domain_value": "U3U3VGG"
+                },
+                {
+                    "domain_id": "Z025",
+                    "domain_value": "Q12Q1M1GG"
+                },
+                {
+                    "domain_id": "Z026",
+                    "domain_value": "Q12Q1M1GG1"
+                },
+                {
+                    "domain_id": "Z045",
+                    "domain_value": "Q1Q1X4GG"
+                },
+                {
+                    "domain_id": "Z087",
+                    "domain_value": "Q1Q1EGG-G"
+                },
+                {
+                    "domain_id": "Z088",
+                    "domain_value": "Q1Q1KY7"
+                },
+                {
+                    "domain_id": "Z089",
+                    "domain_value": "BQ1EGG-WA"
+                },
+                {
+                    "domain_id": "Z176",
+                    "domain_value": "Q7Q7EGG"
+                },
+                {
+                    "domain_id": "Z604",
+                    "domain_value": "Q6Q6X4GG"
+                },
+                {
+                    "domain_id": "ZK07",
+                    "domain_value": "Q1Q1M1GG"
+                },
+                {
+                    "domain_id": "M067",
+                    "domain_value": "AFM 34 DW001FD004"
+                }
+            ],
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "POLE_NMBR_MTR",
+            "type": null,
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Number of motor poles",
+            "domain_values": [
+                {
+                    "domain_id": "2",
+                    "domain_value": "2"
+                },
+                {
+                    "domain_id": "4",
+                    "domain_value": "4"
+                },
+                {
+                    "domain_id": "6",
+                    "domain_value": "6"
+                }
+            ],
+            "feature_value": null,
+            "visible": null
+        }
+    ]
+}

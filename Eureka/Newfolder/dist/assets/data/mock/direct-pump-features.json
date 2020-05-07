@@ -1,0 +1,163 @@
+{
+    "lang": "en",
+    "features": [
+        {
+            "feature_id": "PRDCT_DSGN_CNCPT",
+            "type": null,
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Design concept",
+            "domain_values": [
+                {
+                    "domain_id": "BB",
+                    "domain_value": "BB"
+                },
+                {
+                    "domain_id": "BBX",
+                    "domain_value": "BBX"
+                },
+                {
+                    "domain_id": "CC",
+                    "domain_value": "CC"
+                },
+                {
+                    "domain_id": "GB",
+                    "domain_value": "GB"
+                },
+                {
+                    "domain_id": "GBX",
+                    "domain_value": "GBX"
+                },
+                {
+                    "domain_id": "GBXA",
+                    "domain_value": "GBXA"
+                },
+                {
+                    "domain_id": "GBXN",
+                    "domain_value": "GBXN"
+                },
+                {
+                    "domain_id": "GC",
+                    "domain_value": "GC"
+                },
+                {
+                    "domain_id": "GCX",
+                    "domain_value": "GCX"
+                },
+                {
+                    "domain_id": "GCXA",
+                    "domain_value": "GCXA"
+                },
+                {
+                    "domain_id": "GCXN",
+                    "domain_value": "GCXN"
+                },
+                {
+                    "domain_id": "GG",
+                    "domain_value": "GG"
+                },
+                {
+                    "domain_id": "GGXN",
+                    "domain_value": "GGXN"
+                },
+                {
+                    "domain_id": "GXA",
+                    "domain_value": "GXA"
+                },
+                {
+                    "domain_id": "SB",
+                    "domain_value": "SB"
+                },
+                {
+                    "domain_id": "SBX",
+                    "domain_value": "SBX"
+                },
+                {
+                    "domain_id": "SC",
+                    "domain_value": "SC"
+                },
+                {
+                    "domain_id": "SCX",
+                    "domain_value": "SCX"
+                },
+                {
+                    "domain_id": "SG",
+                    "domain_value": "SG"
+                },
+                {
+                    "domain_id": "SOX",
+                    "domain_value": "SOX"
+                },
+                {
+                    "domain_id": "SOXL",
+                    "domain_value": "SOXL"
+                },
+                {
+                    "domain_id": "SOXM",
+                    "domain_value": "SOXM"
+                },
+                {
+                    "domain_id": "SOXN",
+                    "domain_value": "SOXN"
+                }
+            ],
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "SPCFCTN_ACCRDNG_STNDRD",
+            "type": null,
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Design acc to regulation",
+            "domain_values": [
+                {
+                    "domain_id": "UBA",
+                    "domain_value": "Drink. water acc. to UBA"
+                },
+                {
+                    "domain_id": "WRAS",
+                    "domain_value": "Drink. water acc. to WRAS"
+                },
+                {
+                    "domain_id": "DRNKNG_WTR",
+                    "domain_value": "Drinking water"
+                },
+                {
+                    "domain_id": "ACS",
+                    "domain_value": "Drinking water acc. to ACS"
+                },
+                {
+                    "domain_id": "EGV1935_2004",
+                    "domain_value": "EGV 1935/2004"
+                },
+                {
+                    "domain_id": "NL",
+                    "domain_value": "Sprinkler NL"
+                },
+                {
+                    "domain_id": "APSAD",
+                    "domain_value": "Sprinkler acc. to APSAD"
+                },
+                {
+                    "domain_id": "FM",
+                    "domain_value": "Sprinkler acc. to FM"
+                },
+                {
+                    "domain_id": "UL",
+                    "domain_value": "Sprinkler acc. to UL"
+                },
+                {
+                    "domain_id": "VDS",
+                    "domain_value": "Sprinkler acc. to VDS"
+                },
+                {
+                    "domain_id": "WO",
+                    "domain_value": "without"
+                }
+            ],
+            "feature_value": null,
+            "visible": null
+        }
+    ]
+}

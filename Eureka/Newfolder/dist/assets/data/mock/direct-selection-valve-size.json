@@ -1,0 +1,68 @@
+{
+    "lang": "en",
+    "features": [
+        {
+            "feature_id": "NMNL_SIZE_HDRLC_CSNG",
+            "type": null,
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Nominal size Hydraulic casing",
+            "domain_values": [
+                {
+                    "domain_id": "DN0010",
+                    "domain_value": "DN 10"
+                },
+                {
+                    "domain_id": "DN0050",
+                    "domain_value": "DN  50"
+                },
+                {
+                    "domain_id": "DN0125",
+                    "domain_value": "DN 125"
+                },
+                {
+                    "domain_id": "DN0065",
+                    "domain_value": "DN  65"
+                },
+                {
+                    "domain_id": "DN0080",
+                    "domain_value": "DN 80"
+                },
+                {
+                    "domain_id": "DN0032",
+                    "domain_value": "DN  32"
+                },
+                {
+                    "domain_id": "DN0020",
+                    "domain_value": "DN 20"
+                },
+                {
+                    "domain_id": "DN0200",
+                    "domain_value": "DN 200"
+                },
+                {
+                    "domain_id": "DN0025",
+                    "domain_value": "DN 25"
+                },
+                {
+                    "domain_id": "DN0100",
+                    "domain_value": "DN 100"
+                },
+                {
+                    "domain_id": "DN0150",
+                    "domain_value": "DN 150"
+                },
+                {
+                    "domain_id": "DN0015",
+                    "domain_value": "DN  15"
+                },
+                {
+                    "domain_id": "DN0040",
+                    "domain_value": "DN  40"
+                }
+            ],
+            "feature_value": null,
+            "visible": null
+        }
+    ]
+}

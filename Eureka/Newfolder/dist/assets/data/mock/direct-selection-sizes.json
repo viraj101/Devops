@@ -1,0 +1,192 @@
+{
+    "lang": "en",
+    "features": [
+        {
+            "feature_id": "TYPE_SRS_SIZE",
+            "type": null,
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Type series size",
+            "domain_values": [
+                {
+                    "domain_id": "0125_0100_0200",
+                    "domain_value": "125-100-200"
+                },
+                {
+                    "domain_id": "0040_0025_0160",
+                    "domain_value": "40-25-160"
+                },
+                {
+                    "domain_id": "0065_0050_0125",
+                    "domain_value": "65-50-125"
+                },
+                {
+                    "domain_id": "0080_0065_0160",
+                    "domain_value": "80-65-160"
+                },
+                {
+                    "domain_id": "0150_0125_0250",
+                    "domain_value": "150-125-250"
+                },
+                {
+                    "domain_id": "0050_0032_0200_1",
+                    "domain_value": "50-32-200.1"
+                },
+                {
+                    "domain_id": "0200_0150_0315",
+                    "domain_value": "200-150-315"
+                },
+                {
+                    "domain_id": "0100_0080_0200",
+                    "domain_value": "100-80-200"
+                },
+                {
+                    "domain_id": "0065_0040_0315",
+                    "domain_value": "65-40-315"
+                },
+                {
+                    "domain_id": "0250_0150_0400",
+                    "domain_value": "250-150-400"
+                },
+                {
+                    "domain_id": "0050_0032_0250",
+                    "domain_value": "50-32-250"
+                },
+                {
+                    "domain_id": "0080_0065_0315",
+                    "domain_value": "80-65-315"
+                },
+                {
+                    "domain_id": "0065_0040_0250",
+                    "domain_value": "65-40-250"
+                },
+                {
+                    "domain_id": "0050_0032_0125",
+                    "domain_value": "50-32-125"
+                },
+                {
+                    "domain_id": "0150_0125_0400",
+                    "domain_value": "150-125-400"
+                },
+                {
+                    "domain_id": "0065_0050_0315",
+                    "domain_value": "65-50-315"
+                },
+                {
+                    "domain_id": "0050_0032_0160_1",
+                    "domain_value": "50-32-160.1"
+                },
+                {
+                    "domain_id": "0040_0025_0200",
+                    "domain_value": "40-25-200"
+                },
+                {
+                    "domain_id": "0100_0080_0160",
+                    "domain_value": "100-80-160"
+                },
+                {
+                    "domain_id": "0050_0032_0200",
+                    "domain_value": "50-32-200"
+                },
+                {
+                    "domain_id": "0065_0050_0200",
+                    "domain_value": "65-50-200"
+                },
+                {
+                    "domain_id": "0080_0065_0125",
+                    "domain_value": "80-65-125"
+                },
+                {
+                    "domain_id": "0065_0040_0200",
+                    "domain_value": "65-40-200"
+                },
+                {
+                    "domain_id": "0200_0150_0200",
+                    "domain_value": "200-150-200"
+                },
+                {
+                    "domain_id": "0150_0125_0315",
+                    "domain_value": "150-125-315"
+                },
+                {
+                    "domain_id": "0050_0032_0250_1",
+                    "domain_value": "50-32-250.1"
+                },
+                {
+                    "domain_id": "0065_0050_0250",
+                    "domain_value": "65-50-250"
+                },
+                {
+                    "domain_id": "0050_0032_0125_1",
+                    "domain_value": "50-32-125.1"
+                },
+                {
+                    "domain_id": "0065_0040_0125",
+                    "domain_value": "65-40-125"
+                },
+                {
+                    "domain_id": "0100_0080_0315",
+                    "domain_value": "100-80-315"
+                },
+                {
+                    "domain_id": "0150_0125_0200",
+                    "domain_value": "150-125-200"
+                },
+                {
+                    "domain_id": "0125_0100_0315",
+                    "domain_value": "125-100-315"
+                },
+                {
+                    "domain_id": "0125_0100_0250",
+                    "domain_value": "125-100-250"
+                },
+                {
+                    "domain_id": "0065_0040_0160",
+                    "domain_value": "65-40-160"
+                },
+                {
+                    "domain_id": "0050_0032_0160",
+                    "domain_value": "50-32-160"
+                },
+                {
+                    "domain_id": "0065_0050_0160",
+                    "domain_value": "65-50-160"
+                },
+                {
+                    "domain_id": "0100_0080_0400",
+                    "domain_value": "100-80-400"
+                },
+                {
+                    "domain_id": "0200_0150_0250",
+                    "domain_value": "200-150-250"
+                },
+                {
+                    "domain_id": "0080_0065_0250",
+                    "domain_value": "80-65-250"
+                },
+                {
+                    "domain_id": "0100_0080_0250",
+                    "domain_value": "100-80-250"
+                },
+                {
+                    "domain_id": "0080_0065_0200",
+                    "domain_value": "80-65-200"
+                },
+                {
+                    "domain_id": "0125_0100_0400",
+                    "domain_value": "125-100-400"
+                },
+                {
+                    "domain_id": "0125_0100_0160",
+                    "domain_value": "125-100-160"
+                },
+                {
+                    "domain_id": "0200_0150_0400",
+                    "domain_value": "200-150-400"
+                }
+            ],
+            "feature_value": null,
+            "visible": null
+        }
+    ]
+}

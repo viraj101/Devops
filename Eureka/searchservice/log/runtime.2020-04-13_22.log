@@ -1,0 +1,54 @@
+22:13:22.329 [http-nio-8190-exec-1] INFO  c.k.k.s.q.QueryMetaDataController - 	e57c207a-7ba1-4ff8-a3a3-ec7bf35d93f3		Running time	'PF1: QueryMetadataController.(get)ProductFamilies(...) start - query preparation':	0.09	sec 
+22:13:22.542 [Thread-3] INFO  c.k.k.r.RuntimeMeasureService - 	ed71d069-8fcf-4144-8310-a1089bd395fc		Running time	'10 start of the creation of the connection- KSBase - getProductFamily':	0.01	sec 
+22:13:22.673 [Thread-3] INFO  c.k.k.r.RuntimeMeasureService - 	ed71d069-8fcf-4144-8310-a1089bd395fc		Running time	'101 start of getting the body- KSBase - getProductFamily':	0.13	sec 
+22:13:22.676 [Thread-3] INFO  c.k.k.r.RuntimeMeasureService - 	ed71d069-8fcf-4144-8310-a1089bd395fc		Running time	'102 end of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:13:22.756 [http-nio-8190-exec-1] INFO  c.k.k.s.q.QueryMetaDataController - 	e57c207a-7ba1-4ff8-a3a3-ec7bf35d93f3		Running time	'PF3: Evaluation of the result - service end':	0.47	sec 
+22:13:22.757 [http-nio-8190-exec-1] INFO  c.k.k.s.q.QueryMetaDataController - 	e57c207a-7ba1-4ff8-a3a3-ec7bf35d93f3		Running time	'PF4: QueryMetadataController.productFamilies(...) start - end':	0.57	sec 
+22:13:36.854 [http-nio-8190-exec-3] INFO  c.k.k.s.q.QueryMetaDataController - 	a164e3bb-7ced-441d-af1b-b7cf17839d74		Running time	'PF1: QueryMetadataController.(get)ProductFamilies(...) start - query preparation':	0.00	sec 
+22:13:36.855 [Thread-4] INFO  c.k.k.r.RuntimeMeasureService - 	ccedba00-67cb-4cda-afbc-e144f6e5d65c		Running time	'10 start of the creation of the connection- KSBase - getProductFamily':	0.00	sec 
+22:13:36.856 [Thread-4] INFO  c.k.k.r.RuntimeMeasureService - 	ccedba00-67cb-4cda-afbc-e144f6e5d65c		Running time	'101 start of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:13:36.856 [Thread-4] INFO  c.k.k.r.RuntimeMeasureService - 	ccedba00-67cb-4cda-afbc-e144f6e5d65c		Running time	'102 end of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:13:36.913 [http-nio-8190-exec-3] INFO  c.k.k.s.q.QueryMetaDataController - 	a164e3bb-7ced-441d-af1b-b7cf17839d74		Running time	'PF3: Evaluation of the result - service end':	0.06	sec 
+22:13:36.914 [http-nio-8190-exec-3] INFO  c.k.k.s.q.QueryMetaDataController - 	a164e3bb-7ced-441d-af1b-b7cf17839d74		Running time	'PF4: QueryMetadataController.productFamilies(...) start - end':	0.06	sec 
+22:13:45.449 [http-nio-8190-exec-6] INFO  c.k.k.s.q.QueryMetaDataController - 	cf58a6c1-efdb-4037-b91b-fe941a527db2		Running time	'PF1: QueryMetadataController.(get)ProductFamilies(...) start - query preparation':	0.00	sec 
+22:13:45.450 [Thread-5] INFO  c.k.k.r.RuntimeMeasureService - 	5ead0ef4-f451-466a-be4b-5234a0471ff4		Running time	'10 start of the creation of the connection- KSBase - getProductFamily':	0.00	sec 
+22:13:45.450 [Thread-5] INFO  c.k.k.r.RuntimeMeasureService - 	5ead0ef4-f451-466a-be4b-5234a0471ff4		Running time	'101 start of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:13:45.450 [Thread-5] INFO  c.k.k.r.RuntimeMeasureService - 	5ead0ef4-f451-466a-be4b-5234a0471ff4		Running time	'102 end of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:13:45.502 [http-nio-8190-exec-6] INFO  c.k.k.s.q.QueryMetaDataController - 	cf58a6c1-efdb-4037-b91b-fe941a527db2		Running time	'PF3: Evaluation of the result - service end':	0.05	sec 
+22:13:45.502 [http-nio-8190-exec-6] INFO  c.k.k.s.q.QueryMetaDataController - 	cf58a6c1-efdb-4037-b91b-fe941a527db2		Running time	'PF4: QueryMetadataController.productFamilies(...) start - end':	0.06	sec 
+22:13:47.005 [http-nio-8190-exec-7] INFO  c.k.k.s.q.QueryMetaDataController - 	415e58f0-db58-49c0-b976-81b026782c19		Running time	'PF1: QueryMetadataController.(get)ProductFamilies(...) start - query preparation':	0.00	sec 
+22:13:47.011 [Thread-6] INFO  c.k.k.r.RuntimeMeasureService - 	91f08cc4-8938-4d40-929a-f3810e108976		Running time	'10 start of the creation of the connection- KSBase - getProductFamily':	0.00	sec 
+22:13:47.012 [Thread-6] INFO  c.k.k.r.RuntimeMeasureService - 	91f08cc4-8938-4d40-929a-f3810e108976		Running time	'101 start of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:13:47.013 [Thread-6] INFO  c.k.k.r.RuntimeMeasureService - 	91f08cc4-8938-4d40-929a-f3810e108976		Running time	'102 end of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:13:47.066 [http-nio-8190-exec-7] INFO  c.k.k.s.q.QueryMetaDataController - 	415e58f0-db58-49c0-b976-81b026782c19		Running time	'PF3: Evaluation of the result - service end':	0.06	sec 
+22:13:47.066 [http-nio-8190-exec-7] INFO  c.k.k.s.q.QueryMetaDataController - 	415e58f0-db58-49c0-b976-81b026782c19		Running time	'PF4: QueryMetadataController.productFamilies(...) start - end':	0.06	sec 
+22:14:16.574 [http-nio-8190-exec-8] INFO  c.k.k.s.q.QueryMetaDataController - 	d7193f9b-5630-4699-ae98-383abb7d8598		Running time	'PF1: QueryMetadataController.(get)ProductFamilies(...) start - query preparation':	0.00	sec 
+22:14:16.575 [Thread-7] INFO  c.k.k.r.RuntimeMeasureService - 	2818d939-b469-499a-8288-d83a1ab82708		Running time	'10 start of the creation of the connection- KSBase - getProductFamily':	0.00	sec 
+22:14:16.575 [Thread-7] INFO  c.k.k.r.RuntimeMeasureService - 	2818d939-b469-499a-8288-d83a1ab82708		Running time	'101 start of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:14:16.575 [Thread-7] INFO  c.k.k.r.RuntimeMeasureService - 	2818d939-b469-499a-8288-d83a1ab82708		Running time	'102 end of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:14:16.628 [http-nio-8190-exec-8] INFO  c.k.k.s.q.QueryMetaDataController - 	d7193f9b-5630-4699-ae98-383abb7d8598		Running time	'PF3: Evaluation of the result - service end':	0.05	sec 
+22:14:16.629 [http-nio-8190-exec-8] INFO  c.k.k.s.q.QueryMetaDataController - 	d7193f9b-5630-4699-ae98-383abb7d8598		Running time	'PF4: QueryMetadataController.productFamilies(...) start - end':	0.06	sec 
+22:15:29.563 [http-nio-8190-exec-2] INFO  c.k.k.s.q.QueryMetaDataController - 	d9b949c2-4bea-495c-94c2-ee3294a8551a		Running time	'PF1: QueryMetadataController.(get)ProductFamilies(...) start - query preparation':	0.15	sec 
+22:15:29.897 [Thread-3] INFO  c.k.k.r.RuntimeMeasureService - 	08b3abda-3351-412c-876d-a29c86af3c91		Running time	'10 start of the creation of the connection- KSBase - getProductFamily':	0.00	sec 
+22:15:29.998 [Thread-3] INFO  c.k.k.r.RuntimeMeasureService - 	08b3abda-3351-412c-876d-a29c86af3c91		Running time	'101 start of getting the body- KSBase - getProductFamily':	0.10	sec 
+22:15:30.002 [Thread-3] INFO  c.k.k.r.RuntimeMeasureService - 	08b3abda-3351-412c-876d-a29c86af3c91		Running time	'102 end of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:15:30.150 [http-nio-8190-exec-2] INFO  c.k.k.s.q.QueryMetaDataController - 	d9b949c2-4bea-495c-94c2-ee3294a8551a		Running time	'PF3: Evaluation of the result - service end':	0.59	sec 
+22:15:30.151 [http-nio-8190-exec-2] INFO  c.k.k.s.q.QueryMetaDataController - 	d9b949c2-4bea-495c-94c2-ee3294a8551a		Running time	'PF4: QueryMetadataController.productFamilies(...) start - end':	0.74	sec 
+22:17:34.494 [http-nio-8190-exec-4] INFO  c.k.k.s.q.QueryMetaDataController - 	fa0eebee-816c-4c15-9b2f-40e0a3fac397		Running time	'PF1: QueryMetadataController.(get)ProductFamilies(...) start - query preparation':	0.00	sec 
+22:17:34.524 [Thread-4] INFO  c.k.k.r.RuntimeMeasureService - 	e22df660-f7e6-4a9a-89d7-29c81ece6df9		Running time	'10 start of the creation of the connection- KSBase - getProductFamily':	0.00	sec 
+22:17:34.525 [Thread-4] INFO  c.k.k.r.RuntimeMeasureService - 	e22df660-f7e6-4a9a-89d7-29c81ece6df9		Running time	'101 start of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:17:34.526 [Thread-4] INFO  c.k.k.r.RuntimeMeasureService - 	e22df660-f7e6-4a9a-89d7-29c81ece6df9		Running time	'102 end of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:17:34.591 [http-nio-8190-exec-4] INFO  c.k.k.s.q.QueryMetaDataController - 	fa0eebee-816c-4c15-9b2f-40e0a3fac397		Running time	'PF3: Evaluation of the result - service end':	0.10	sec 
+22:17:34.591 [http-nio-8190-exec-4] INFO  c.k.k.s.q.QueryMetaDataController - 	fa0eebee-816c-4c15-9b2f-40e0a3fac397		Running time	'PF4: QueryMetadataController.productFamilies(...) start - end':	0.10	sec 
+22:18:14.744 [http-nio-8190-exec-7] INFO  c.k.k.s.q.QueryMetaDataController - 	fe68c2a0-c153-42fc-ab4c-1b2a01bae3ec		Running time	'PF1: QueryMetadataController.(get)ProductFamilies(...) start - query preparation':	0.00	sec 
+22:18:14.745 [Thread-5] INFO  c.k.k.r.RuntimeMeasureService - 	8535c14d-d59b-4f8f-9e6d-d7a0c5649e8e		Running time	'10 start of the creation of the connection- KSBase - getProductFamily':	0.00	sec 
+22:18:14.746 [Thread-5] INFO  c.k.k.r.RuntimeMeasureService - 	8535c14d-d59b-4f8f-9e6d-d7a0c5649e8e		Running time	'101 start of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:18:14.746 [Thread-5] INFO  c.k.k.r.RuntimeMeasureService - 	8535c14d-d59b-4f8f-9e6d-d7a0c5649e8e		Running time	'102 end of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:18:14.808 [http-nio-8190-exec-7] INFO  c.k.k.s.q.QueryMetaDataController - 	fe68c2a0-c153-42fc-ab4c-1b2a01bae3ec		Running time	'PF3: Evaluation of the result - service end':	0.06	sec 
+22:18:14.808 [http-nio-8190-exec-7] INFO  c.k.k.s.q.QueryMetaDataController - 	fe68c2a0-c153-42fc-ab4c-1b2a01bae3ec		Running time	'PF4: QueryMetadataController.productFamilies(...) start - end':	0.07	sec 
+22:19:12.672 [http-nio-8190-exec-10] INFO  c.k.k.s.q.QueryMetaDataController - 	9b9259ee-5327-404c-9162-4f2ebaa53550		Running time	'PF1: QueryMetadataController.(get)ProductFamilies(...) start - query preparation':	0.00	sec 
+22:19:12.673 [Thread-6] INFO  c.k.k.r.RuntimeMeasureService - 	21b08308-24f9-4477-a1fd-3f3d8954b260		Running time	'10 start of the creation of the connection- KSBase - getProductFamily':	0.00	sec 
+22:19:12.673 [Thread-6] INFO  c.k.k.r.RuntimeMeasureService - 	21b08308-24f9-4477-a1fd-3f3d8954b260		Running time	'101 start of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:19:12.674 [Thread-6] INFO  c.k.k.r.RuntimeMeasureService - 	21b08308-24f9-4477-a1fd-3f3d8954b260		Running time	'102 end of getting the body- KSBase - getProductFamily':	0.00	sec 
+22:19:12.739 [http-nio-8190-exec-10] INFO  c.k.k.s.q.QueryMetaDataController - 	9b9259ee-5327-404c-9162-4f2ebaa53550		Running time	'PF3: Evaluation of the result - service end':	0.07	sec 
+22:19:12.739 [http-nio-8190-exec-10] INFO  c.k.k.s.q.QueryMetaDataController - 	9b9259ee-5327-404c-9162-4f2ebaa53550		Running time	'PF4: QueryMetadataController.productFamilies(...) start - end':	0.07	sec 

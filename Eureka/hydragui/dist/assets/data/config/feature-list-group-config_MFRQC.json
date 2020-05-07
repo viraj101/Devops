@@ -1,0 +1,24 @@
+[{
+  "title":"Red group",
+  "id":"GRP_RED",
+  "help_text":"This is the group that contains some arbitrary features",
+  "description":"KopfflanschtypNo description",
+  "default_visible":true,
+  "features_id": ["MNS_FRQNC"],
+  "features":[
+  {
+    "id": "MNS_FRQNC",
+    "required": true
+  }]
+},{
+  "title": "other Features",
+  "id": "otherFeatures",
+  "help_text": "these features doesnt belong to any group",
+  "description": "these features doesnt belong to any group",
+  "default_visible": false,
+  "features_id": ["NMBR_OF_ADDTNL_BRNGS"],
+  "features":[{
+    "id": "NMBR_OF_ADDTNL_BRNGS",
+    "required": false
+  }]
+}]

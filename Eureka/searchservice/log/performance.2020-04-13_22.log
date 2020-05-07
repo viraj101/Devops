@@ -1,0 +1,9 @@
+22:13:22.742 [http-nio-8190-exec-1] INFO  CamosWrapperFactory - Asynchron call (- KSBase - getProductFamily) succeeded in 218 ms
+22:13:36.905 [http-nio-8190-exec-3] INFO  CamosWrapperFactory - Asynchron call (- KSBase - getProductFamily) succeeded in 50 ms
+22:13:45.499 [http-nio-8190-exec-6] INFO  CamosWrapperFactory - Asynchron call (- KSBase - getProductFamily) succeeded in 50 ms
+22:13:47.063 [http-nio-8190-exec-7] INFO  CamosWrapperFactory - Asynchron call (- KSBase - getProductFamily) succeeded in 55 ms
+22:14:16.625 [http-nio-8190-exec-8] INFO  CamosWrapperFactory - Asynchron call (- KSBase - getProductFamily) succeeded in 51 ms
+22:15:30.119 [http-nio-8190-exec-2] INFO  CamosWrapperFactory - Asynchron call (- KSBase - getProductFamily) succeeded in 235 ms
+22:17:34.574 [http-nio-8190-exec-4] INFO  CamosWrapperFactory - Asynchron call (- KSBase - getProductFamily) succeeded in 56 ms
+22:18:14.795 [http-nio-8190-exec-7] INFO  CamosWrapperFactory - Asynchron call (- KSBase - getProductFamily) succeeded in 50 ms
+22:19:12.723 [http-nio-8190-exec-10] INFO  CamosWrapperFactory - Asynchron call (- KSBase - getProductFamily) succeeded in 51 ms

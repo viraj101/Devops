@@ -1,0 +1,187 @@
+[{
+  "title":"Driver Pump",
+  "id":"Driver Pump",
+  "help_text":"Driver Pump",
+  "description":" ",
+  "default_visible":true,
+  "features_id": ["MNS_FRQNC", "DRV_CNCPT", "MTR_POLE_NMBR", "MTR_MNFCTRR", "MNS_VLTG", "ALTTD_ABV_SEA_LVL", "TMP_AMBNT_SPC","TRGT_DSCHRG_FLOW", "TRGT_MASS_FLOW_RATE", "TRGT_DSCHRG_HEAD", "TRGT_DSCHRG_PRSSR", "GDTC_HEAD", "NPSH_AVLBL", "PRS_MIN_INLT_SPC", "DSCHRG_HEAD_RSRV_MIN_SPC", "CRV_SLP_MIN_SPC","ProductFamily","MASS_FLOW_RATE", "FLD_VRNT_NMBR", "TMP_FLD", "TYPE_SRS_SIZE"],
+  "features":[{
+    "id": "MNS_FRQNC",
+    "required": true
+  }, {
+    "id": "DRV_CNCPT",
+    "required": false
+  }, {
+    "id": "MTR_POLE_NMBR",
+    "required": false
+  }, {
+    "id": "MTR_MNFCTRR",
+    "required": false
+  }, {
+    "id": "MNS_VLTG",
+    "required": false
+  }, {
+    "id": "ALTTD_ABV_SEA_LVL",
+    "required": false
+  },{
+    "id": "TMP_AMBNT_SPC",
+    "required": false
+  },{
+    "id": "TRGT_DSCHRG_FLOW",
+    "required": false,
+    "suppress": true
+  },{
+    "id": "TRGT_MASS_FLOW_RATE",
+    "required": false,
+    "suppress": true
+  },{
+    "id": "TRGT_DSCHRG_HEAD",
+    "required": false,
+    "suppress": true
+  },{
+    "id": "TRGT_DSCHRG_PRSSR",
+    "required": false,
+    "suppress": true
+  },{
+    "id": "GDTC_HEAD",
+    "required": false,
+    "suppress": true
+  },{
+    "id": "NPSH_AVLBL",
+    "required": false,
+    "suppress": true
+  },{
+    "id": "PRS_MIN_INLT_SPC",
+    "required": false,
+    "suppress": true
+  },{
+    "id": "DSCHRG_HEAD_RSRV_MIN_SPC",
+    "required": false,
+    "suppress": true
+  },{
+    "id": "CRV_SLP_MIN_SPC",
+    "required": false,
+    "suppress": true
+  }, {
+    "id": "ProductFamily",
+    "required": false,
+    "suppress": true
+  }, {
+    "id": "MASS_FLOW_RATE",
+    "required": false,
+    "suppress": true
+  }, {
+    "id": "TMP_FLD",
+    "required": false,
+    "suppress": true
+  }, {
+    "id": "FLD_VRNT_NMBR",
+    "required": false,
+    "suppress": true
+  }, {
+    "id": "TYPE_SRS_SIZE",
+    "required": false,
+    "suppress": true
+  }
+]
+},{
+  "title":"Design",
+  "id":"Design",
+  "help_text":"",
+  "description":"",
+  "default_visible":false,
+  "features_id": ["PUMP_STNDRD", "PUMP_SET_LCTN", "CNNCTN_STNDRD_OTLT", "CNNCTN_TYPE_OTLT", "PRS_MAX_CSNG_DSCHRG_SD_AL_TSG", "SHFT_AXIS_PSTN","FREE_PSSGW_MIN_SPC","ACTV_HDRLC_CMPNNT","PRDCT_DSGN_CNCPT"],
+  "features":[{
+    "id": "PUMP_STNDRD",
+    "required": false
+  }, {
+    "id": "PUMP_SET_LCTN",
+    "required": false
+  }, {
+    "id": "CNNCTN_STNDRD_OTLT",
+    "required": false
+  }, {
+    "id": "CNNCTN_TYPE_OTLT",
+    "required": false
+  }, {
+    "id": "PRS_MAX_CSNG_DSCHRG_SD_AL_TSG",
+    "required": false
+  }, {
+    "id": "SHFT_AXIS_PSTN",
+    "required": false
+  }, {
+    "id": "FREE_PSSGW_MIN_SPC",
+    "required": false
+  }, {
+    "id": "ACTV_HDRLC_CMPNNT",
+    "required": false
+  }, {
+    "id": "PRDCT_DSGN_CNCPT",
+    "required": false
+  }]
+},{
+  "title":"Explosion protection",
+  "id":"Design",
+  "help_text":"",
+  "description":"",
+  "default_visible":false,
+  "features_id": ["EXPLSN_PRTCTN_UNIT"],
+  "features":[{
+    "id": "EXPLSN_PRTCTN_UNIT",
+    "required": false
+  }]
+},{
+  "title":"Speed Control",
+  "id":"Speed Control",
+  "help_text":"",
+  "description":"",
+  "default_visible":false,
+  "features_id": ["OPRTN_ON_FRQNC_INVRTR", "SPD_SPCFCTN", "RTTNL_SPD_RNG_DRV_MIN", "RTTNL_SPD_RNG_DRV_MAX","SPD_CNTRL_DVC", "PUMP_SSTM_DSGN"],
+  "features":[{
+    "id": "OPRTN_ON_FRQNC_INVRTR",
+    "required": false
+  }, {
+    "id": "SPD_SPCFCTN",
+    "required": false
+  }, {
+    "id": "RTTNL_SPD_RNG_DRV_MIN",
+    "required": false
+  }, {
+    "id": "RTTNL_SPD_RNG_DRV_MAX",
+    "required": false
+  }, {
+    "id": "SPD_CNTRL_DVC",
+    "required": false
+  }, {
+    "id": "PUMP_SSTM_DSGN",
+    "required": false
+  }]
+},{
+  "title":"General data",
+  "id":"General data",
+  "help_text":"",
+  "description":"",
+  "default_visible":false,
+  "features_id": ["CNSTRCTN_PRNCPL", "PUMP_DSGN", "SPCFCTN_ACCRDNG_STNDRD", "SPCFCTN_ACCRDNG_CSTMR_RQST"],
+  "features":[{
+    "id": "CNSTRCTN_PRNCPL",
+    "required": false
+  }, {
+    "id": "PUMP_DSGN",
+    "required": false
+  }, {
+    "id": "SPCFCTN_ACCRDNG_STNDRD",
+    "required": false
+  }, {
+    "id": "SPCFCTN_ACCRDNG_CSTMR_RQST",
+    "required": false
+  }]
+},{
+  "title": "other Features",
+  "id": "otherFeatures",
+  "help_text": "These features doesnt belong to any group",
+  "description": "These features doesnt belong to any group",
+  "default_visible": false,
+  "features_id": [],
+  "features":[]
+}]

@@ -1,0 +1,44 @@
+{
+    "lang": null,
+    "features": [
+        {
+            "feature_id": "IDNT_NMBR_PRDCT",
+            "type": null,
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Ident Number",
+            "domain_values": [
+                {
+                    "domain_id": "05009572",
+                    "domain_value": "First"
+                },
+                {
+                    "domain_id": "05009573",
+                    "domain_value": "Second"
+                },
+                {
+                    "domain_id": "05009574",
+                    "domain_value": "Third"
+                },
+                {
+                    "domain_id": "05009575",
+                    "domain_value": "Fourth"
+                },
+                {
+                    "domain_id": "05009576",
+                    "domain_value": "Fifth"
+                },
+                {
+                    "domain_id": "05009577",
+                    "domain_value": "Sixth"
+                },
+                {
+                    "domain_id": "05009578",
+                    "domain_value": "Seventh"
+                }
+            ],
+            "feature_value": null,
+            "visible": null
+        }
+    ]
+}

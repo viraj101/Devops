@@ -1,0 +1,481 @@
+{
+    "lang": "en",
+    "type_series": [
+        {
+            "id": "1706",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "AU-AU Monobloc"
+        },
+        {
+            "id": "1742",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Ama-Drainer-Box"
+        },
+        {
+            "id": "1743",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Ama-Drainer-Box Mini"
+        },
+        {
+            "id": "1744",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Ama-Porter"
+        },
+        {
+            "id": "1704",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "AmaClean"
+        },
+        {
+            "id": "1746",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "AmaDrainer"
+        },
+        {
+            "id": "1745",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Amacan"
+        },
+        {
+            "id": "1747",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Amarex China"
+        },
+        {
+            "id": "1748",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Amarex India"
+        },
+        {
+            "id": "1705",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Amarex KRT / Amarex N"
+        },
+        {
+            "id": "1771",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_FEAT_DOMAIN_CHK_FAILED",
+            "product_class": "A31B_cQ",
+            "title": "Amarex N [B]"
+        },
+        {
+            "id": "1707",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "B-Pumps"
+        },
+        {
+            "id": "1750",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "CK pump station"
+        },
+        {
+            "id": "1712",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "CPKN"
+        },
+        {
+            "id": "1708",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Calio"
+        },
+        {
+            "id": "1709",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Calio S"
+        },
+        {
+            "id": "1710",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Calio Therm NC"
+        },
+        {
+            "id": "1711",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Calio Therm S"
+        },
+        {
+            "id": "1749",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Calio Z"
+        },
+        {
+            "id": "1751",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Compacta/mini-Compacta"
+        },
+        {
+            "id": "1713",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Estigia"
+        },
+        {
+            "id": "1714",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Etachrom L / B"
+        },
+        {
+            "id": "1715",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Etaline / EtalineZ"
+        },
+        {
+            "id": "1716",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Etaline R"
+        },
+        {
+            "id": "1752",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "EtalineL / EtalineDL"
+        },
+        {
+            "id": "1717",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Etanorm (SKD)"
+        },
+        {
+            "id": "1718",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Etanorm / Etabloc"
+        },
+        {
+            "id": "1719",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Etanorm R"
+        },
+        {
+            "id": "1720",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Etanorm V"
+        },
+        {
+            "id": "1770",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "E04B_cQ",
+            "title": "Etanorm [B]"
+        },
+        {
+            "id": "1721",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Etaprime L / B"
+        },
+        {
+            "id": "1722",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Etaseco / Etaseco I"
+        },
+        {
+            "id": "1753",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Evaclean"
+        },
+        {
+            "id": "1754",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Evamatic Box"
+        },
+        {
+            "id": "1755",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Evamatic-Box N"
+        },
+        {
+            "id": "1756",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Filtra N"
+        },
+        {
+            "id": "1723",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "HPK / HPK-L extended sizes"
+        },
+        {
+            "id": "1724",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "HPK-L"
+        },
+        {
+            "id": "1757",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Hya-Rain / Hya-Rain N / Hya-Rain Eco"
+        },
+        {
+            "id": "1758",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Hyamat / Hya-Solo / Hya-Duo / Hya-Eco"
+        },
+        {
+            "id": "1759",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Hydrobloc MA / MB"
+        },
+        {
+            "id": "1725",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "ILN / ILNC"
+        },
+        {
+            "id": "1760",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Ixo"
+        },
+        {
+            "id": "1761",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "KSB Delta Basic"
+        },
+        {
+            "id": "1762",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "KSB Delta NG"
+        },
+        {
+            "id": "1726",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "KWP / KWP-Bloc"
+        },
+        {
+            "id": "1763",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "MK / MKY"
+        },
+        {
+            "id": "1727",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Magnochem / Magnochem-Bloc"
+        },
+        {
+            "id": "1728",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "MegaCPK"
+        },
+        {
+            "id": "1729",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Meganorm/Megabloc"
+        },
+        {
+            "id": "1730",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Movitec / Movitec VCI"
+        },
+        {
+            "id": "1764",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Movitec China"
+        },
+        {
+            "id": "1765",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Movitec India"
+        },
+        {
+            "id": "1766",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Multi Eco / Multi Eco-Top / Multi Eco-Pro"
+        },
+        {
+            "id": "1731",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Multitec"
+        },
+        {
+            "id": "1732",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "NCCP L / B"
+        },
+        {
+            "id": "1733",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Omega / RDLO"
+        },
+        {
+            "id": "1734",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Omega Shanghai"
+        },
+        {
+            "id": "1735",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "RPH"
+        },
+        {
+            "id": "1736",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "RPHb"
+        },
+        {
+            "id": "1767",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Rotex"
+        },
+        {
+            "id": "1737",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Sewatec / Sewabloc"
+        },
+        {
+            "id": "1768",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "TSG_QUERY_PARA_MISMATCH",
+            "product_class": "",
+            "title": "Surpresseur"
+        },
+        {
+            "id": "1738",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "UPA / UPAchrom"
+        },
+        {
+            "id": "1739",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Vitacast"
+        },
+        {
+            "id": "1740",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Vitachrom"
+        },
+        {
+            "id": "1769",
+            "product_family_id": "DISPLACE_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Vitalobe"
+        },
+        {
+            "id": "1741",
+            "product_family_id": "CENTRI_PMP",
+            "exclude_message": "",
+            "product_class": "",
+            "title": "Vitaprime"
+        }
+    ]
+}

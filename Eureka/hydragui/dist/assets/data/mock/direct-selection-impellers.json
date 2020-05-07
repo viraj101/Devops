@@ -1,0 +1,36 @@
+{
+    "lang": null,
+    "features": [
+        {
+            "feature_id": "HDRLC_IMPLLR_DMTR",
+            "type": null,
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Hydraulischer Laufraddurchmesser",
+            "domain_values": [
+                {
+                    "domain_id": "142+A",
+                    "domain_value": "142+A"
+                },
+                {
+                    "domain_id": "130+B",
+                    "domain_value": "130+B"
+                },
+                {
+                    "domain_id": "130+C",
+                    "domain_value": "130+C"
+                },
+                {
+                    "domain_id": "130+D",
+                    "domain_value": "130+D"
+                },
+                {
+                    "domain_id": "130+E",
+                    "domain_value": "130+E"
+                }
+            ],
+            "feature_value": null,
+            "visible": null
+        }
+    ]
+}

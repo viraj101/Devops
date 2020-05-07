@@ -1,0 +1,5269 @@
+{
+    "lang": "en",
+    "features": [
+        {
+            "feature_id": "MNS_FRQNC",
+            "type": "Number",
+            "unit_id": "Hz",
+            "unit_group_id": "Frequency",
+            "title": "Mains frequency",
+            "domain_values": [
+                {
+                    "domain_id": "50",
+                    "domain_value": "50"
+                },
+                {
+                    "domain_id": "60",
+                    "domain_value": "60"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "MNS_VLTG",
+            "type": "Number",
+            "unit_id": "V",
+            "unit_group_id": "Voltage",
+            "title": "Mains voltage",
+            "domain_values": [
+                {
+                    "domain_id": "0",
+                    "domain_value": "0"
+                },
+                {
+                    "domain_id": "115",
+                    "domain_value": "115"
+                },
+                {
+                    "domain_id": "120",
+                    "domain_value": "120"
+                },
+                {
+                    "domain_id": "125",
+                    "domain_value": "125"
+                },
+                {
+                    "domain_id": "200",
+                    "domain_value": "200"
+                },
+                {
+                    "domain_id": "208",
+                    "domain_value": "208"
+                },
+                {
+                    "domain_id": "220",
+                    "domain_value": "220"
+                },
+                {
+                    "domain_id": "230",
+                    "domain_value": "230"
+                },
+                {
+                    "domain_id": "260",
+                    "domain_value": "260"
+                },
+                {
+                    "domain_id": "276",
+                    "domain_value": "276"
+                },
+                {
+                    "domain_id": "278",
+                    "domain_value": "278"
+                },
+                {
+                    "domain_id": "380",
+                    "domain_value": "380"
+                },
+                {
+                    "domain_id": "400",
+                    "domain_value": "400"
+                },
+                {
+                    "domain_id": "415",
+                    "domain_value": "415"
+                },
+                {
+                    "domain_id": "440",
+                    "domain_value": "440"
+                },
+                {
+                    "domain_id": "460",
+                    "domain_value": "460"
+                },
+                {
+                    "domain_id": "480",
+                    "domain_value": "480"
+                },
+                {
+                    "domain_id": "500",
+                    "domain_value": "500"
+                },
+                {
+                    "domain_id": "575",
+                    "domain_value": "575"
+                },
+                {
+                    "domain_id": "660",
+                    "domain_value": "660"
+                },
+                {
+                    "domain_id": "690",
+                    "domain_value": "690"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "ALTTD_ABV_SEA_LVL",
+            "type": "Number",
+            "unit_id": "m",
+            "unit_group_id": "Head",
+            "title": "Installation altitude above sea level",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "PRS_MAX_INLT_SPC",
+            "type": "Number",
+            "unit_id": "bar",
+            "unit_group_id": "Pressure",
+            "title": "Maximum specified inlet pressure",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "EXPLSN_PRTCTN_UNIT",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Explosion protection unit",
+            "domain_values": [
+                {
+                    "domain_id": "0",
+                    "domain_value": "No"
+                },
+                {
+                    "domain_id": "1",
+                    "domain_value": "Yes"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "CRV_SLP_MIN_SPC",
+            "type": "Number",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Minimum required head rise specified from duty point to shut-off head",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "MTR_MNFCTRR",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Motor manufacturer",
+            "domain_values": [
+                {
+                    "domain_id": "ABB",
+                    "domain_value": "ABB"
+                },
+                {
+                    "domain_id": "BBL",
+                    "domain_value": "Bharat Bijlee"
+                },
+                {
+                    "domain_id": "CAN",
+                    "domain_value": "KSB (DMC)"
+                },
+                {
+                    "domain_id": "CGL",
+                    "domain_value": "Crompton Greaves"
+                },
+                {
+                    "domain_id": "CMP",
+                    "domain_value": "KSB (DMP)"
+                },
+                {
+                    "domain_id": "KCW",
+                    "domain_value": "KSB China's choice"
+                },
+                {
+                    "domain_id": "KEC",
+                    "domain_value": "Kirloskar Electric"
+                },
+                {
+                    "domain_id": "KSB",
+                    "domain_value": "KSB"
+                },
+                {
+                    "domain_id": "KSW",
+                    "domain_value": "KSB's choice"
+                },
+                {
+                    "domain_id": "MAR",
+                    "domain_value": "Marathon Electric Motors"
+                },
+                {
+                    "domain_id": "NAN",
+                    "domain_value": "NANYANG"
+                },
+                {
+                    "domain_id": "SIE",
+                    "domain_value": "Siemens"
+                },
+                {
+                    "domain_id": "TEC",
+                    "domain_value": "TECO"
+                },
+                {
+                    "domain_id": "WEG",
+                    "domain_value": "WEG"
+                },
+                {
+                    "domain_id": "WON",
+                    "domain_value": "KSB (DMW)"
+                },
+                {
+                    "domain_id": "UMB",
+                    "domain_value": "UMEB"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "SPD_SPCFCTN",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Speed specification",
+            "domain_values": [
+                {
+                    "domain_id": "FIX",
+                    "domain_value": "Specified speed"
+                },
+                {
+                    "domain_id": "SYN",
+                    "domain_value": "Only synchronous speeds"
+                },
+                {
+                    "domain_id": "VAR",
+                    "domain_value": "Variable speeds"
+                },
+                {
+                    "domain_id": "WO",
+                    "domain_value": "without"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "RT_Q_QOPT_MIN_SPC",
+            "type": "Number",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Ratio Q/Qbep minimum specified",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "OPRTN_ON_FRQNC_INVRTR",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Operation on frequency inverter",
+            "domain_values": [
+                {
+                    "domain_id": "CNTRLLD",
+                    "domain_value": "variable speed"
+                },
+                {
+                    "domain_id": "IND_FIX",
+                    "domain_value": "individual fixed speed"
+                },
+                {
+                    "domain_id": "WO",
+                    "domain_value": "without"
+                },
+                {
+                    "domain_id": "IND_CNTRLLD",
+                    "domain_value": "IND_CNTRLLD"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "ProductFamily",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Product family",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": "[CENTRI_PMP, DISPLACE_PMP]",
+            "visible": null
+        },
+        {
+            "feature_id": "PRDCT_DSGN_CNCPT",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Design concept",
+            "domain_values": [
+                {
+                    "domain_id": "BB",
+                    "domain_value": "BB"
+                },
+                {
+                    "domain_id": "BBX",
+                    "domain_value": "BBX"
+                },
+                {
+                    "domain_id": "CC",
+                    "domain_value": "CC"
+                },
+                {
+                    "domain_id": "G",
+                    "domain_value": "G"
+                },
+                {
+                    "domain_id": "G2",
+                    "domain_value": "G2"
+                },
+                {
+                    "domain_id": "GB",
+                    "domain_value": "GB"
+                },
+                {
+                    "domain_id": "GBX",
+                    "domain_value": "GBX"
+                },
+                {
+                    "domain_id": "GBXA",
+                    "domain_value": "GBXA"
+                },
+                {
+                    "domain_id": "GBXN",
+                    "domain_value": "GBXN"
+                },
+                {
+                    "domain_id": "GC",
+                    "domain_value": "GC"
+                },
+                {
+                    "domain_id": "GCX",
+                    "domain_value": "GCX"
+                },
+                {
+                    "domain_id": "GCXA",
+                    "domain_value": "GCXA"
+                },
+                {
+                    "domain_id": "GG",
+                    "domain_value": "GG"
+                },
+                {
+                    "domain_id": "GI",
+                    "domain_value": "GI"
+                },
+                {
+                    "domain_id": "GXA",
+                    "domain_value": "GXA"
+                },
+                {
+                    "domain_id": "SB",
+                    "domain_value": "SB"
+                },
+                {
+                    "domain_id": "SBX",
+                    "domain_value": "SBX"
+                },
+                {
+                    "domain_id": "SC",
+                    "domain_value": "SC"
+                },
+                {
+                    "domain_id": "SCX",
+                    "domain_value": "SCX"
+                },
+                {
+                    "domain_id": "SG",
+                    "domain_value": "SG"
+                },
+                {
+                    "domain_id": "GCXN",
+                    "domain_value": "GCXN"
+                },
+                {
+                    "domain_id": "GGXN",
+                    "domain_value": "GGXN"
+                },
+                {
+                    "domain_id": "SOX",
+                    "domain_value": "SOX"
+                },
+                {
+                    "domain_id": "SOXA",
+                    "domain_value": "SOXA"
+                },
+                {
+                    "domain_id": "SOXN",
+                    "domain_value": "SOXN"
+                },
+                {
+                    "domain_id": "SOXL",
+                    "domain_value": "SOXL"
+                },
+                {
+                    "domain_id": "SOXM",
+                    "domain_value": "SOXM"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "PRDCT_TYPE",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Product type",
+            "domain_values": [
+                {
+                    "domain_id": "PUMP",
+                    "domain_value": "Pump"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "PUMP_SSTM_DSGN",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Pump system design",
+            "domain_values": [
+                {
+                    "domain_id": "ATD",
+                    "domain_value": "2 x 50 % peak-load operation"
+                },
+                {
+                    "domain_id": "MS",
+                    "domain_value": "Multiple pump systems"
+                },
+                {
+                    "domain_id": "SGL",
+                    "domain_value": "Single-pump system"
+                },
+                {
+                    "domain_id": "TDS",
+                    "domain_value": "2 x 100 % standby operation"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "TMP_AMBNT_SPC",
+            "type": "Number",
+            "unit_id": "°C",
+            "unit_group_id": "Thermodynamic Temperature",
+            "title": "specified ambient temperature",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "DSCHRG_HEAD_RSRV_MIN_SPC",
+            "type": "Number",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Minimum head reserve specified",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "PRS_MIN_INLT_SPC",
+            "type": "Number",
+            "unit_id": "bar",
+            "unit_group_id": "Pressure",
+            "title": "Minimum inlet pressure specified",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "TRGT_DSCHRG_PRSSR",
+            "type": "Number",
+            "unit_id": "bar",
+            "unit_group_id": "Pressure",
+            "title": "Target discharge pressure",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "PUMP_DSGN",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Pump design",
+            "domain_values": [
+                {
+                    "domain_id": "BLCWCPLNG",
+                    "domain_value": "Close-coupled design with shaft coupling"
+                },
+                {
+                    "domain_id": "BLCWOCPLNG",
+                    "domain_value": "Close-coupled design without shaft coupling"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "NMBR_OF_STG_SNGL_ENTR",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Quantity Stages, single-entry",
+            "domain_values": [
+                {
+                    "domain_id": "01",
+                    "domain_value": "1"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "GDTC_HEAD",
+            "type": "Number",
+            "unit_id": "m",
+            "unit_group_id": "Head",
+            "title": "Geodetic head",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "SPD_CNTRL_DVC",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Speed control device",
+            "domain_values": [
+                {
+                    "domain_id": "DIR",
+                    "domain_value": "Direct drive control"
+                },
+                {
+                    "domain_id": "INV",
+                    "domain_value": "Frequency inverter"
+                },
+                {
+                    "domain_id": "WO",
+                    "domain_value": "without"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "POLE_NMBR_MTR",
+            "type": "Number",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Number of motor poles",
+            "domain_values": [
+                {
+                    "domain_id": "2",
+                    "domain_value": "2"
+                },
+                {
+                    "domain_id": "4",
+                    "domain_value": "4"
+                },
+                {
+                    "domain_id": "6",
+                    "domain_value": "6"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "TYPE_OF_FLOW_TIME_PRFL",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Type of Flow-time profile",
+            "domain_values": [
+                {
+                    "domain_id": "CON",
+                    "domain_value": "Constant flow"
+                },
+                {
+                    "domain_id": "VAR",
+                    "domain_value": "variable flow"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "TMP_FLD",
+            "type": "Number",
+            "unit_id": "°C",
+            "unit_group_id": "Thermodynamic Temperature",
+            "title": "Fluid temperature",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "SPCFCTN_ACCRDNG_STNDRD",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Design acc to regulation",
+            "domain_values": [
+                {
+                    "domain_id": "ACS",
+                    "domain_value": "Drinking water acc to ACS"
+                },
+                {
+                    "domain_id": "APSAD",
+                    "domain_value": "Sprinkler acc to APSAD"
+                },
+                {
+                    "domain_id": "DRNKNG_WTR",
+                    "domain_value": "Drinking water"
+                },
+                {
+                    "domain_id": "EGV1935_2004",
+                    "domain_value": "EGV 1935/2004"
+                },
+                {
+                    "domain_id": "NL",
+                    "domain_value": "Sprinkler NL"
+                },
+                {
+                    "domain_id": "UBA",
+                    "domain_value": "Drinking water acc to UBA"
+                },
+                {
+                    "domain_id": "VDS",
+                    "domain_value": "Low-pressure centrifugal pump certified to VdS"
+                },
+                {
+                    "domain_id": "WO",
+                    "domain_value": "without"
+                },
+                {
+                    "domain_id": "WRAS",
+                    "domain_value": "Drinking water acc to WRAS"
+                },
+                {
+                    "domain_id": "FM",
+                    "domain_value": "Sprinkler acc to FM"
+                },
+                {
+                    "domain_id": "UL",
+                    "domain_value": "Sprinkler acc to UL"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "MASS_FLOW_RATE",
+            "type": "Number",
+            "unit_id": "kg/s",
+            "unit_group_id": "Mass Flow",
+            "title": "Mass flow rate",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "INSTLLTN_TYPE",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Installation type",
+            "domain_values": [
+                {
+                    "domain_id": "RAIL_1",
+                    "domain_value": "Stationary, single guide rail"
+                },
+                {
+                    "domain_id": "RAIL_2",
+                    "domain_value": "Stationary, twin guide rails"
+                },
+                {
+                    "domain_id": "TRNS",
+                    "domain_value": "transportable"
+                },
+                {
+                    "domain_id": "WIRE",
+                    "domain_value": "stationary guide wire"
+                },
+                {
+                    "domain_id": "WO",
+                    "domain_value": "without"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "CNSTRCTN_PRNCPL",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Design principle",
+            "domain_values": [
+                {
+                    "domain_id": "DRY",
+                    "domain_value": "Dry-installed pump"
+                },
+                {
+                    "domain_id": "SMP",
+                    "domain_value": "Submersible motor pump"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "TRGT_DSCHRG_FLOW",
+            "type": "Number",
+            "unit_id": "m³/h",
+            "unit_group_id": "Volume Flow",
+            "title": "Target flow rate",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "SHFT_AXIS_PSTN",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Shaft axis position",
+            "domain_values": [
+                {
+                    "domain_id": "HOR",
+                    "domain_value": "horizontal"
+                },
+                {
+                    "domain_id": "VER",
+                    "domain_value": "vertical"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "RT_Q_QOPT_MAX_SPC",
+            "type": "Number",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Ratio Q/Qbep maximum specified",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "FLD_VRNT_NMBR",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Fluid variant number",
+            "domain_values": [
+                {
+                    "domain_id": "50001",
+                    "domain_value": "containing dust or ashes"
+                },
+                {
+                    "domain_id": "50003",
+                    "domain_value": "Washing water containing solids"
+                },
+                {
+                    "domain_id": "50005",
+                    "domain_value": "Lime milk >5 to 15%"
+                },
+                {
+                    "domain_id": "50006",
+                    "domain_value": "Pigment suspension"
+                },
+                {
+                    "domain_id": "50007",
+                    "domain_value": "Scale water"
+                },
+                {
+                    "domain_id": "50011",
+                    "domain_value": "without further specification 50011"
+                },
+                {
+                    "domain_id": "50013",
+                    "domain_value": "without further specification 50013"
+                },
+                {
+                    "domain_id": "50015",
+                    "domain_value": "without further specification 50015"
+                },
+                {
+                    "domain_id": "50017",
+                    "domain_value": "with aluminium sulfate up to 10%"
+                },
+                {
+                    "domain_id": "50019",
+                    "domain_value": "with aliphatic hydrocarbons"
+                },
+                {
+                    "domain_id": "50021",
+                    "domain_value": "with formic acid up to 5%"
+                },
+                {
+                    "domain_id": "50023",
+                    "domain_value": "with ammonia"
+                },
+                {
+                    "domain_id": "50025",
+                    "domain_value": "with ammonium chloride up to 10%"
+                },
+                {
+                    "domain_id": "50027",
+                    "domain_value": "with ammonium hydroxide up to 5%"
+                },
+                {
+                    "domain_id": "50029",
+                    "domain_value": "with aromatic hydrocarbons"
+                },
+                {
+                    "domain_id": "50031",
+                    "domain_value": "with ethylene chloride"
+                },
+                {
+                    "domain_id": "50033",
+                    "domain_value": "with barium nitrate"
+                },
+                {
+                    "domain_id": "50035",
+                    "domain_value": "with petrol"
+                },
+                {
+                    "domain_id": "50037",
+                    "domain_value": "with benzene"
+                },
+                {
+                    "domain_id": "50039",
+                    "domain_value": "slightly acidic (pH >= 6)"
+                },
+                {
+                    "domain_id": "50041",
+                    "domain_value": "with tannic acid up to 10%"
+                },
+                {
+                    "domain_id": "50043",
+                    "domain_value": "with calcium nitrate up to 10%"
+                },
+                {
+                    "domain_id": "50045",
+                    "domain_value": "with calcium hydroxide up to 5% Ca(OH)2"
+                },
+                {
+                    "domain_id": "50047",
+                    "domain_value": "with calcium chloride up to 5% CaCl2"
+                },
+                {
+                    "domain_id": "50049",
+                    "domain_value": "with chlorinated hydrocarbons"
+                },
+                {
+                    "domain_id": "50050",
+                    "domain_value": "with chloroform"
+                },
+                {
+                    "domain_id": "50051",
+                    "domain_value": "with urea up to 25% (NH2)2-CO"
+                },
+                {
+                    "domain_id": "50052",
+                    "domain_value": "with dissolved sodium carbonate up to 10% Na2CO3"
+                },
+                {
+                    "domain_id": "50053",
+                    "domain_value": "with potassium hydroxide up to 10% KOH"
+                },
+                {
+                    "domain_id": "50054",
+                    "domain_value": "with oil"
+                },
+                {
+                    "domain_id": "50055",
+                    "domain_value": "with methane"
+                },
+                {
+                    "domain_id": "50056",
+                    "domain_value": "with methylene chloride"
+                },
+                {
+                    "domain_id": "50057",
+                    "domain_value": "with styrene"
+                },
+                {
+                    "domain_id": "50058",
+                    "domain_value": "with trichloroethylene"
+                },
+                {
+                    "domain_id": "50059",
+                    "domain_value": "with sodium hydroxide up to 5% NaOH"
+                },
+                {
+                    "domain_id": "50060",
+                    "domain_value": "with iron (II) nitrate up to 5%"
+                },
+                {
+                    "domain_id": "50062",
+                    "domain_value": "with iron (III) sulfate up to 5%"
+                },
+                {
+                    "domain_id": "50064",
+                    "domain_value": "with phosphoric acid up to 5%"
+                },
+                {
+                    "domain_id": "50065",
+                    "domain_value": "with sulfuric acid up to 3%"
+                },
+                {
+                    "domain_id": "50068",
+                    "domain_value": "with nitric acid up to 5%"
+                },
+                {
+                    "domain_id": "50070",
+                    "domain_value": "with potassium chloride up to 5%"
+                },
+                {
+                    "domain_id": "50071",
+                    "domain_value": "with magnesium chloride up to 5%"
+                },
+                {
+                    "domain_id": "50072",
+                    "domain_value": "with magnesium sulfate up to 10%"
+                },
+                {
+                    "domain_id": "50073",
+                    "domain_value": "with sodium sulfate up to 10%"
+                },
+                {
+                    "domain_id": "50074",
+                    "domain_value": "with sodium chloride up to 5%"
+                },
+                {
+                    "domain_id": "50080",
+                    "domain_value": "from flue gas desulfurization (FGD), containing chloride"
+                },
+                {
+                    "domain_id": "50086",
+                    "domain_value": "with paint suspension"
+                },
+                {
+                    "domain_id": "50088",
+                    "domain_value": "with fibres"
+                },
+                {
+                    "domain_id": "50090",
+                    "domain_value": "with lacquer suspension"
+                },
+                {
+                    "domain_id": "50099",
+                    "domain_value": "Raw water containing solids and long fibres and abrasive substances"
+                },
+                {
+                    "domain_id": "50100",
+                    "domain_value": "Raw water containing solids and long fibres"
+                },
+                {
+                    "domain_id": "50101",
+                    "domain_value": "biologically treated"
+                },
+                {
+                    "domain_id": "50103",
+                    "domain_value": "Pressure drainage"
+                },
+                {
+                    "domain_id": "50105",
+                    "domain_value": "containing air and gas"
+                },
+                {
+                    "domain_id": "50107",
+                    "domain_value": "mechanically treated"
+                },
+                {
+                    "domain_id": "50109",
+                    "domain_value": "untreated"
+                },
+                {
+                    "domain_id": "50113",
+                    "domain_value": "Concentration up to 10% 50113"
+                },
+                {
+                    "domain_id": "50116",
+                    "domain_value": "Concentration up to 10% 50116"
+                },
+                {
+                    "domain_id": "50120",
+                    "domain_value": "Alkaline degreasing solution"
+                },
+                {
+                    "domain_id": "50121",
+                    "domain_value": "Concentration up to 50% 50121"
+                },
+                {
+                    "domain_id": "50122",
+                    "domain_value": "Concentration up to 10% 50122"
+                },
+                {
+                    "domain_id": "50127",
+                    "domain_value": "Concentration up to 31% 50127"
+                },
+                {
+                    "domain_id": "50130",
+                    "domain_value": "Concentration up to 36.6% 50130"
+                },
+                {
+                    "domain_id": "50133",
+                    "domain_value": "Concentration up to 12.8% 50133"
+                },
+                {
+                    "domain_id": "50134",
+                    "domain_value": "Concentration up to 21.2% 50134"
+                },
+                {
+                    "domain_id": "50137",
+                    "domain_value": "Concentration up to 50% 50137"
+                },
+                {
+                    "domain_id": "50138",
+                    "domain_value": "Concentration up to 25% 50138"
+                },
+                {
+                    "domain_id": "50142",
+                    "domain_value": "Concentration up to 5% 50142"
+                },
+                {
+                    "domain_id": "50143",
+                    "domain_value": "Concentration up to 10% 50143"
+                },
+                {
+                    "domain_id": "50144",
+                    "domain_value": "Concentration up to 10% 50144"
+                },
+                {
+                    "domain_id": "50146",
+                    "domain_value": "Concentration up to 6% 50146"
+                },
+                {
+                    "domain_id": "50148",
+                    "domain_value": "Concentration up to 10% 50148"
+                },
+                {
+                    "domain_id": "50149",
+                    "domain_value": "Concentration up to 25% 50149"
+                },
+                {
+                    "domain_id": "50151",
+                    "domain_value": "Concentration up to 6% 50151"
+                },
+                {
+                    "domain_id": "50155",
+                    "domain_value": "Concentration up to 5% 50155"
+                },
+                {
+                    "domain_id": "50156",
+                    "domain_value": "Concentration up to 10% 50156"
+                },
+                {
+                    "domain_id": "50158",
+                    "domain_value": "Concentration up to 20%"
+                },
+                {
+                    "domain_id": "50170",
+                    "domain_value": "n-butanol"
+                },
+                {
+                    "domain_id": "50171",
+                    "domain_value": "without further specification 50171"
+                },
+                {
+                    "domain_id": "50173",
+                    "domain_value": "1-propanol"
+                },
+                {
+                    "domain_id": "50174",
+                    "domain_value": "without further specification 50174"
+                },
+                {
+                    "domain_id": "50188",
+                    "domain_value": "Boring emulsion (Cimcool)"
+                },
+                {
+                    "domain_id": "50192",
+                    "domain_value": "Water/oil, free of solids"
+                },
+                {
+                    "domain_id": "50204",
+                    "domain_value": "without further specification 50204"
+                },
+                {
+                    "domain_id": "50205",
+                    "domain_value": "Diethylene glycol"
+                },
+                {
+                    "domain_id": "50207",
+                    "domain_value": "Ethylene glycol"
+                },
+                {
+                    "domain_id": "50209",
+                    "domain_value": "Polyethylene glycol"
+                },
+                {
+                    "domain_id": "50213",
+                    "domain_value": "Polypropylene glycol"
+                },
+                {
+                    "domain_id": "50221",
+                    "domain_value": "Concentration 20%"
+                },
+                {
+                    "domain_id": "50237",
+                    "domain_value": "Concentration 25%"
+                },
+                {
+                    "domain_id": "50261",
+                    "domain_value": "Concentration 40% 50261"
+                },
+                {
+                    "domain_id": "50269",
+                    "domain_value": "Concentration 50% 50269"
+                },
+                {
+                    "domain_id": "50270",
+                    "domain_value": "Concentration 20% 50270"
+                },
+                {
+                    "domain_id": "50271",
+                    "domain_value": "Concentration 25% 50271"
+                },
+                {
+                    "domain_id": "50272",
+                    "domain_value": "Concentration 30% 50272"
+                },
+                {
+                    "domain_id": "50273",
+                    "domain_value": "Concentration 35% 50273"
+                },
+                {
+                    "domain_id": "50274",
+                    "domain_value": "Concentration 40% 50274"
+                },
+                {
+                    "domain_id": "50275",
+                    "domain_value": "Concentration 45% 50275"
+                },
+                {
+                    "domain_id": "50276",
+                    "domain_value": "Concentration 50% 50276"
+                },
+                {
+                    "domain_id": "50288",
+                    "domain_value": "Concentration 45% 50288"
+                },
+                {
+                    "domain_id": "50295",
+                    "domain_value": "Concentration 30% 50295"
+                },
+                {
+                    "domain_id": "50296",
+                    "domain_value": "Concentration 35% 50296"
+                },
+                {
+                    "domain_id": "50300",
+                    "domain_value": "without further specification 50300"
+                },
+                {
+                    "domain_id": "50301",
+                    "domain_value": "without further specification 50301"
+                },
+                {
+                    "domain_id": "50304",
+                    "domain_value": "without further specification 50304"
+                },
+                {
+                    "domain_id": "50308",
+                    "domain_value": "Heating fuel oil, EL"
+                },
+                {
+                    "domain_id": "50310",
+                    "domain_value": "without further specification 50310"
+                },
+                {
+                    "domain_id": "50311",
+                    "domain_value": "Concentration up to 90% 50311"
+                },
+                {
+                    "domain_id": "50314",
+                    "domain_value": "n-hexane"
+                },
+                {
+                    "domain_id": "50317",
+                    "domain_value": "without further specification 50317"
+                },
+                {
+                    "domain_id": "50319",
+                    "domain_value": "without further specification v"
+                },
+                {
+                    "domain_id": "50321",
+                    "domain_value": "Concentrate, pure Tyfoxit 50"
+                },
+                {
+                    "domain_id": "50323",
+                    "domain_value": "Concentrate, pure Pekasol 50"
+                },
+                {
+                    "domain_id": "50327",
+                    "domain_value": "Beer"
+                },
+                {
+                    "domain_id": "50328",
+                    "domain_value": "without further specification 50328"
+                },
+                {
+                    "domain_id": "50329",
+                    "domain_value": "without further specification 50329"
+                },
+                {
+                    "domain_id": "50330",
+                    "domain_value": "Spirits (40% ethanol)"
+                },
+                {
+                    "domain_id": "50332",
+                    "domain_value": "without further specification 50332"
+                },
+                {
+                    "domain_id": "50333",
+                    "domain_value": "Sugar juice solution"
+                },
+                {
+                    "domain_id": "50335",
+                    "domain_value": "Fruit juice"
+                },
+                {
+                    "domain_id": "50336",
+                    "domain_value": "without further specification 50336"
+                },
+                {
+                    "domain_id": "50338",
+                    "domain_value": "Wine, white, red"
+                },
+                {
+                    "domain_id": "50339",
+                    "domain_value": "Milk"
+                },
+                {
+                    "domain_id": "50341",
+                    "domain_value": "AVILUB B-3824/UV"
+                },
+                {
+                    "domain_id": "50342",
+                    "domain_value": "AVILUB C-3826/UV"
+                },
+                {
+                    "domain_id": "50346",
+                    "domain_value": "Crude oil"
+                },
+                {
+                    "domain_id": "50347",
+                    "domain_value": "Turbine oil"
+                },
+                {
+                    "domain_id": "50350",
+                    "domain_value": "Linseed oil with up to 3% H2SO4"
+                },
+                {
+                    "domain_id": "50351",
+                    "domain_value": "Hydraulic oil"
+                },
+                {
+                    "domain_id": "50352",
+                    "domain_value": "Mineral oil"
+                },
+                {
+                    "domain_id": "50353",
+                    "domain_value": "Castor oil"
+                },
+                {
+                    "domain_id": "50354",
+                    "domain_value": "without further specification 50354"
+                },
+                {
+                    "domain_id": "50355",
+                    "domain_value": "Shell TELLUS 46"
+                },
+                {
+                    "domain_id": "50356",
+                    "domain_value": "Cutting oil"
+                },
+                {
+                    "domain_id": "50357",
+                    "domain_value": "Silicone oil"
+                },
+                {
+                    "domain_id": "50358",
+                    "domain_value": "Turpentine"
+                },
+                {
+                    "domain_id": "50361",
+                    "domain_value": "without further specification 50361"
+                },
+                {
+                    "domain_id": "50363",
+                    "domain_value": "Cotton seed oil"
+                },
+                {
+                    "domain_id": "50364",
+                    "domain_value": "Peanut oil"
+                },
+                {
+                    "domain_id": "50367",
+                    "domain_value": "Edible oil"
+                },
+                {
+                    "domain_id": "50368",
+                    "domain_value": "Linseed oil"
+                },
+                {
+                    "domain_id": "50369",
+                    "domain_value": "Corn oil"
+                },
+                {
+                    "domain_id": "50370",
+                    "domain_value": "Rapeseed oil"
+                },
+                {
+                    "domain_id": "50371",
+                    "domain_value": "Soybean oil"
+                },
+                {
+                    "domain_id": "50376",
+                    "domain_value": "Olive oil"
+                },
+                {
+                    "domain_id": "50380",
+                    "domain_value": "Sunflower oil"
+                },
+                {
+                    "domain_id": "50381",
+                    "domain_value": "Aluminium potassium sulfates up to 3%"
+                },
+                {
+                    "domain_id": "50382",
+                    "domain_value": "Concentration up to 24% 50382"
+                },
+                {
+                    "domain_id": "50383",
+                    "domain_value": "Concentration up to 25% 50383"
+                },
+                {
+                    "domain_id": "50384",
+                    "domain_value": "Concentration up to 50% 50384"
+                },
+                {
+                    "domain_id": "50385",
+                    "domain_value": "Concentration up to 10% 50385"
+                },
+                {
+                    "domain_id": "50386",
+                    "domain_value": "Concentration <10% 50386"
+                },
+                {
+                    "domain_id": "50387",
+                    "domain_value": "Concentration up to 14.7% 50387"
+                },
+                {
+                    "domain_id": "50389",
+                    "domain_value": "Concentration up to 10% 50389"
+                },
+                {
+                    "domain_id": "50391",
+                    "domain_value": "Concentration up to 5% 50391"
+                },
+                {
+                    "domain_id": "50392",
+                    "domain_value": "Concentration up to 30% 50392"
+                },
+                {
+                    "domain_id": "50393",
+                    "domain_value": "Unsaturated solution"
+                },
+                {
+                    "domain_id": "50394",
+                    "domain_value": "Concentration up to 25% 50394"
+                },
+                {
+                    "domain_id": "50395",
+                    "domain_value": "Concentration up to 5% 50395"
+                },
+                {
+                    "domain_id": "50397",
+                    "domain_value": "Concentration up to 25.7% 50397"
+                },
+                {
+                    "domain_id": "50399",
+                    "domain_value": "Concentration up to 25% 50399"
+                },
+                {
+                    "domain_id": "50400",
+                    "domain_value": "Concentration up to 5% 50400"
+                },
+                {
+                    "domain_id": "50401",
+                    "domain_value": "Concentration up to 25% 50401"
+                },
+                {
+                    "domain_id": "50402",
+                    "domain_value": "Concentration up to 3% 50402"
+                },
+                {
+                    "domain_id": "50407",
+                    "domain_value": "Concentration up to 5% 50407"
+                },
+                {
+                    "domain_id": "50410",
+                    "domain_value": "Concentration up to 7.2% 50410"
+                },
+                {
+                    "domain_id": "50412",
+                    "domain_value": "Concentration up to 13.8% 50412"
+                },
+                {
+                    "domain_id": "50417",
+                    "domain_value": "Concentration up to 7% 50417"
+                },
+                {
+                    "domain_id": "50419",
+                    "domain_value": "Concentration up to 23.1% 50419"
+                },
+                {
+                    "domain_id": "50421",
+                    "domain_value": "Concentration up to 16.2% 50421"
+                },
+                {
+                    "domain_id": "50423",
+                    "domain_value": "Concentration up to 10% 50423"
+                },
+                {
+                    "domain_id": "50429",
+                    "domain_value": "Concentration up to 25% 50429"
+                },
+                {
+                    "domain_id": "50432",
+                    "domain_value": "Concentration up to 4% 50432"
+                },
+                {
+                    "domain_id": "50433",
+                    "domain_value": "Concentration (to be specified) 50433"
+                },
+                {
+                    "domain_id": "50434",
+                    "domain_value": "Aqueous benzoic acid"
+                },
+                {
+                    "domain_id": "50436",
+                    "domain_value": "n-butyric acid"
+                },
+                {
+                    "domain_id": "50438",
+                    "domain_value": "Concentration up to 50% 50438"
+                },
+                {
+                    "domain_id": "50439",
+                    "domain_value": "Concentration up to 5% 50439"
+                },
+                {
+                    "domain_id": "50441",
+                    "domain_value": "Concentration up to 10% 50441"
+                },
+                {
+                    "domain_id": "50445",
+                    "domain_value": "Concentration up to 50% 50445"
+                },
+                {
+                    "domain_id": "50446",
+                    "domain_value": "Concentration from xx% to 100% 50446"
+                },
+                {
+                    "domain_id": "50447",
+                    "domain_value": "Aqueous uric acid solution without solids"
+                },
+                {
+                    "domain_id": "50448",
+                    "domain_value": "Concentration up to 50% 50448"
+                },
+                {
+                    "domain_id": "50449",
+                    "domain_value": "Concentration up to 50% 50449"
+                },
+                {
+                    "domain_id": "50451",
+                    "domain_value": "Concentration up to 5% 50451"
+                },
+                {
+                    "domain_id": "50452",
+                    "domain_value": "Concentration up to 10% 50452"
+                },
+                {
+                    "domain_id": "50454",
+                    "domain_value": "Concentration (to be specified) 50454"
+                },
+                {
+                    "domain_id": "50455",
+                    "domain_value": "Concentration up to 5% 50455"
+                },
+                {
+                    "domain_id": "50456",
+                    "domain_value": "Concentration up to 2.5% 50456"
+                },
+                {
+                    "domain_id": "50460",
+                    "domain_value": "Concentration up to 50% 50460"
+                },
+                {
+                    "domain_id": "50462",
+                    "domain_value": "Sewage sludge, general up to 2% bone dry"
+                },
+                {
+                    "domain_id": "50464",
+                    "domain_value": "Activated sludge up to 2% bone dry"
+                },
+                {
+                    "domain_id": "50466",
+                    "domain_value": "Excess sludge up to 4% bone dry"
+                },
+                {
+                    "domain_id": "50468",
+                    "domain_value": "Return sludge up to 2% bone dry"
+                },
+                {
+                    "domain_id": "50470",
+                    "domain_value": "Digested sludge up to 6% bone dry"
+                },
+                {
+                    "domain_id": "50472",
+                    "domain_value": "Heated sludge up to 2% bone dry"
+                },
+                {
+                    "domain_id": "50474",
+                    "domain_value": "Industrial sludge"
+                },
+                {
+                    "domain_id": "50476",
+                    "domain_value": "Raw sludge up to 2% bone dry"
+                },
+                {
+                    "domain_id": "50478",
+                    "domain_value": "Pre-thickened sludge up to 6% bone dry"
+                },
+                {
+                    "domain_id": "50484",
+                    "domain_value": "Mixed water with strainer"
+                },
+                {
+                    "domain_id": "50485",
+                    "domain_value": "Mixed water without strainer"
+                },
+                {
+                    "domain_id": "50488",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "50489",
+                    "domain_value": "Pulp, concentration up to 1% bone dry"
+                },
+                {
+                    "domain_id": "50490",
+                    "domain_value": "without further specification 50490"
+                },
+                {
+                    "domain_id": "50492",
+                    "domain_value": "without further specification 50492"
+                },
+                {
+                    "domain_id": "50493",
+                    "domain_value": "without further specification 50493"
+                },
+                {
+                    "domain_id": "50494",
+                    "domain_value": "as per VdTÜV 1466"
+                },
+                {
+                    "domain_id": "50495",
+                    "domain_value": "Mode of operation AF"
+                },
+                {
+                    "domain_id": "50496",
+                    "domain_value": "Mode of operation AFT"
+                },
+                {
+                    "domain_id": "50497",
+                    "domain_value": "non-treated"
+                },
+                {
+                    "domain_id": "50499",
+                    "domain_value": "Heating water up to 100°C (max.), acc. to VDI 2035"
+                },
+                {
+                    "domain_id": "50503",
+                    "domain_value": "treated to VdTÜV 1466"
+                },
+                {
+                    "domain_id": "50505",
+                    "domain_value": "Mode of operation KF 50505"
+                },
+                {
+                    "domain_id": "50506",
+                    "domain_value": "Mode of operation NF 50506"
+                },
+                {
+                    "domain_id": "50507",
+                    "domain_value": "Mode of operation KF 50507"
+                },
+                {
+                    "domain_id": "50508",
+                    "domain_value": "Mode of operation NF 50508"
+                },
+                {
+                    "domain_id": "50511",
+                    "domain_value": "Mode of operation AF 50511"
+                },
+                {
+                    "domain_id": "50514",
+                    "domain_value": "Avia Thermofluid A"
+                },
+                {
+                    "domain_id": "50516",
+                    "domain_value": "Shell Thermia Oil A"
+                },
+                {
+                    "domain_id": "50517",
+                    "domain_value": "OEST-WT-A"
+                },
+                {
+                    "domain_id": "50520",
+                    "domain_value": "Gilotherm ADX 10"
+                },
+                {
+                    "domain_id": "50521",
+                    "domain_value": "Santotherm ADX 10"
+                },
+                {
+                    "domain_id": "50524",
+                    "domain_value": "Petro Canada Calflo AF"
+                },
+                {
+                    "domain_id": "50526",
+                    "domain_value": "Fragol Agotherm Q32"
+                },
+                {
+                    "domain_id": "50528",
+                    "domain_value": "Gilotherm ALD"
+                },
+                {
+                    "domain_id": "50529",
+                    "domain_value": "Santotherm ALD"
+                },
+                {
+                    "domain_id": "50532",
+                    "domain_value": "Aral WTS"
+                },
+                {
+                    "domain_id": "50533",
+                    "domain_value": "Aral WTT"
+                },
+                {
+                    "domain_id": "50534",
+                    "domain_value": "Aral WTU"
+                },
+                {
+                    "domain_id": "50538",
+                    "domain_value": "Avia Thermofluid B"
+                },
+                {
+                    "domain_id": "50542",
+                    "domain_value": "Shell Thermia Oil B"
+                },
+                {
+                    "domain_id": "50543",
+                    "domain_value": "OEST-WT-B"
+                },
+                {
+                    "domain_id": "50546",
+                    "domain_value": "BP Transcal LT"
+                },
+                {
+                    "domain_id": "50547",
+                    "domain_value": "BP Transcal N"
+                },
+                {
+                    "domain_id": "50548",
+                    "domain_value": "BP Olex WF 0801"
+                },
+                {
+                    "domain_id": "50549",
+                    "domain_value": "BP Transcal 40"
+                },
+                {
+                    "domain_id": "50550",
+                    "domain_value": "BP Transcal 65"
+                },
+                {
+                    "domain_id": "50557",
+                    "domain_value": "Petro Canada Calflo FG"
+                },
+                {
+                    "domain_id": "50559",
+                    "domain_value": "Petro Canada Calflo HTF"
+                },
+                {
+                    "domain_id": "50561",
+                    "domain_value": "Fina Caloran 31"
+                },
+                {
+                    "domain_id": "50565",
+                    "domain_value": "Höchst Thermogen 1757"
+                },
+                {
+                    "domain_id": "50569",
+                    "domain_value": "Deacal 32"
+                },
+                {
+                    "domain_id": "50570",
+                    "domain_value": "Deacal 46"
+                },
+                {
+                    "domain_id": "50571",
+                    "domain_value": "Deacal HT22"
+                },
+                {
+                    "domain_id": "50575",
+                    "domain_value": "Dowtherm HT"
+                },
+                {
+                    "domain_id": "50577",
+                    "domain_value": "Shell Thermia Oil E"
+                },
+                {
+                    "domain_id": "50579",
+                    "domain_value": "Esso Thermal oil S"
+                },
+                {
+                    "domain_id": "50580",
+                    "domain_value": "Esso Thermal oil T"
+                },
+                {
+                    "domain_id": "50583",
+                    "domain_value": "Essotherm 650"
+                },
+                {
+                    "domain_id": "50585",
+                    "domain_value": "Finkotherm M-300"
+                },
+                {
+                    "domain_id": "50586",
+                    "domain_value": "Finkotherm S-300"
+                },
+                {
+                    "domain_id": "50589",
+                    "domain_value": "Heat transfer medium 160"
+                },
+                {
+                    "domain_id": "50590",
+                    "domain_value": "Gilotherm RD"
+                },
+                {
+                    "domain_id": "50591",
+                    "domain_value": "Gilotherm TH"
+                },
+                {
+                    "domain_id": "50592",
+                    "domain_value": "Hüls Ilexan S"
+                },
+                {
+                    "domain_id": "50593",
+                    "domain_value": "Mediatherm 250 IL"
+                },
+                {
+                    "domain_id": "50594",
+                    "domain_value": "Minera Thermal oil 36"
+                },
+                {
+                    "domain_id": "50595",
+                    "domain_value": "Minera Thermal oil 4"
+                },
+                {
+                    "domain_id": "50596",
+                    "domain_value": "ÖMV-Öl WT15"
+                },
+                {
+                    "domain_id": "50597",
+                    "domain_value": "ÖMV-Öl WT32"
+                },
+                {
+                    "domain_id": "50598",
+                    "domain_value": "ÖMV-Öl WT46"
+                },
+                {
+                    "domain_id": "50599",
+                    "domain_value": "Shell Thermia Oil 23"
+                },
+                {
+                    "domain_id": "50601",
+                    "domain_value": "Mobiltherm Light"
+                },
+                {
+                    "domain_id": "50602",
+                    "domain_value": "Marlotherm N"
+                },
+                {
+                    "domain_id": "50603",
+                    "domain_value": "Marlotherm S"
+                },
+                {
+                    "domain_id": "50604",
+                    "domain_value": "Mobiltherm 594"
+                },
+                {
+                    "domain_id": "50605",
+                    "domain_value": "Mobiltherm 603"
+                },
+                {
+                    "domain_id": "50606",
+                    "domain_value": "Mobiltherm 605"
+                },
+                {
+                    "domain_id": "50607",
+                    "domain_value": "Shell Thermia Oil 11"
+                },
+                {
+                    "domain_id": "50608",
+                    "domain_value": "Shell Thermia Oil 27"
+                },
+                {
+                    "domain_id": "50609",
+                    "domain_value": "Santotherm RD"
+                },
+                {
+                    "domain_id": "50610",
+                    "domain_value": "Renotherm 250"
+                },
+                {
+                    "domain_id": "50611",
+                    "domain_value": "Renotherm 300"
+                },
+                {
+                    "domain_id": "50612",
+                    "domain_value": "Renotherm 320"
+                },
+                {
+                    "domain_id": "50613",
+                    "domain_value": "Santotherm SP"
+                },
+                {
+                    "domain_id": "50614",
+                    "domain_value": "Santotherm 44"
+                },
+                {
+                    "domain_id": "50615",
+                    "domain_value": "Santotherm 55"
+                },
+                {
+                    "domain_id": "50616",
+                    "domain_value": "Santotherm 66"
+                },
+                {
+                    "domain_id": "50617",
+                    "domain_value": "Thermal Oil T"
+                },
+                {
+                    "domain_id": "50633",
+                    "domain_value": "Mobiltherm 600"
+                },
+                {
+                    "domain_id": "50655",
+                    "domain_value": "50655"
+                },
+                {
+                    "domain_id": "50657",
+                    "domain_value": "High-temperature hot water treated to VdTÜV 1466"
+                },
+                {
+                    "domain_id": "50658",
+                    "domain_value": "without further specification 50658"
+                },
+                {
+                    "domain_id": "50660",
+                    "domain_value": "Vapour condensate (breweries)"
+                },
+                {
+                    "domain_id": "50661",
+                    "domain_value": "Brackish water"
+                },
+                {
+                    "domain_id": "50663",
+                    "domain_value": "without further specification 50663"
+                },
+                {
+                    "domain_id": "50665",
+                    "domain_value": "Iced water (breweries)"
+                },
+                {
+                    "domain_id": "50666",
+                    "domain_value": "Hot water (breweries)"
+                },
+                {
+                    "domain_id": "50667",
+                    "domain_value": "Mashing liquor"
+                },
+                {
+                    "domain_id": "50668",
+                    "domain_value": "closed cooling circuit"
+                },
+                {
+                    "domain_id": "50669",
+                    "domain_value": "Deionized water"
+                },
+                {
+                    "domain_id": "50673",
+                    "domain_value": "Decarbonized water"
+                },
+                {
+                    "domain_id": "50676",
+                    "domain_value": "Water-sand mixture up to 25 g/l"
+                },
+                {
+                    "domain_id": "50680",
+                    "domain_value": "Water-sand mixture up to 5 g/l"
+                },
+                {
+                    "domain_id": "50681",
+                    "domain_value": "Water-sand mixture up to 3 g/l"
+                },
+                {
+                    "domain_id": "50683",
+                    "domain_value": "River water"
+                },
+                {
+                    "domain_id": "50691",
+                    "domain_value": "50691"
+                },
+                {
+                    "domain_id": "50696",
+                    "domain_value": "Slightly contaminated water"
+                },
+                {
+                    "domain_id": "50699",
+                    "domain_value": "Tap water"
+                },
+                {
+                    "domain_id": "50700",
+                    "domain_value": "Flushing water"
+                },
+                {
+                    "domain_id": "50702",
+                    "domain_value": "Sea water 50702"
+                },
+                {
+                    "domain_id": "50704",
+                    "domain_value": "Sea water 50704"
+                },
+                {
+                    "domain_id": "50710",
+                    "domain_value": "with strainer"
+                },
+                {
+                    "domain_id": "50716",
+                    "domain_value": "without strainer"
+                },
+                {
+                    "domain_id": "50725",
+                    "domain_value": "Fresh water"
+                },
+                {
+                    "domain_id": "50726",
+                    "domain_value": "50726"
+                },
+                {
+                    "domain_id": "50729",
+                    "domain_value": "Barrier water"
+                },
+                {
+                    "domain_id": "50731",
+                    "domain_value": "Dam water"
+                },
+                {
+                    "domain_id": "50736",
+                    "domain_value": "Partly desalinated water"
+                },
+                {
+                    "domain_id": "50746",
+                    "domain_value": "without further specification 50746"
+                },
+                {
+                    "domain_id": "50749",
+                    "domain_value": "Concentration (to be specified) 50749"
+                },
+                {
+                    "domain_id": "50751",
+                    "domain_value": "Dairy wastewater"
+                },
+                {
+                    "domain_id": "50752",
+                    "domain_value": "Abattoir wastewater"
+                },
+                {
+                    "domain_id": "50753",
+                    "domain_value": "Aral Farolin S"
+                },
+                {
+                    "domain_id": "50754",
+                    "domain_value": "Aral Farolin T"
+                },
+                {
+                    "domain_id": "50755",
+                    "domain_value": "Aral Farolin U"
+                },
+                {
+                    "domain_id": "50760",
+                    "domain_value": "Diphyl DT"
+                },
+                {
+                    "domain_id": "50761",
+                    "domain_value": "Diphyl KT"
+                },
+                {
+                    "domain_id": "50762",
+                    "domain_value": "Diphyl THT"
+                },
+                {
+                    "domain_id": "50763",
+                    "domain_value": "Dipropylene glycol"
+                },
+                {
+                    "domain_id": "50764",
+                    "domain_value": "Dowtherm A"
+                },
+                {
+                    "domain_id": "50765",
+                    "domain_value": "Dowtherm G"
+                },
+                {
+                    "domain_id": "50766",
+                    "domain_value": "Dowtherm J"
+                },
+                {
+                    "domain_id": "50767",
+                    "domain_value": "Dowtherm LF"
+                },
+                {
+                    "domain_id": "50768",
+                    "domain_value": "Dowtherm Q"
+                },
+                {
+                    "domain_id": "50769",
+                    "domain_value": "Concentration up to 100% 50769"
+                },
+                {
+                    "domain_id": "50770",
+                    "domain_value": "Gilotherm D0"
+                },
+                {
+                    "domain_id": "50771",
+                    "domain_value": "Gilotherm D12"
+                },
+                {
+                    "domain_id": "50773",
+                    "domain_value": "Hexamethylene glycol"
+                },
+                {
+                    "domain_id": "50774",
+                    "domain_value": "Cocoa oil"
+                },
+                {
+                    "domain_id": "50775",
+                    "domain_value": "Concentration up to 25% 50775"
+                },
+                {
+                    "domain_id": "50776",
+                    "domain_value": "Concentration up to 15% 50776"
+                },
+                {
+                    "domain_id": "50777",
+                    "domain_value": "Concentration up to 5% 50777"
+                },
+                {
+                    "domain_id": "50779",
+                    "domain_value": "Concentration (to be specified) 50779"
+                },
+                {
+                    "domain_id": "50785",
+                    "domain_value": "Faeces sludge up to 2% bone dry"
+                },
+                {
+                    "domain_id": "50787",
+                    "domain_value": "Fresh sludge up to 2% bone dry"
+                },
+                {
+                    "domain_id": "50789",
+                    "domain_value": "Seed sludge up to 6% bone dry"
+                },
+                {
+                    "domain_id": "50792",
+                    "domain_value": "Floating sludge up to 2% bone dry"
+                },
+                {
+                    "domain_id": "50794",
+                    "domain_value": "Recirculated sludge up to 2% bone dry"
+                },
+                {
+                    "domain_id": "50798",
+                    "domain_value": "Marlotherm L"
+                },
+                {
+                    "domain_id": "50799",
+                    "domain_value": "Marlotherm SH"
+                },
+                {
+                    "domain_id": "50800",
+                    "domain_value": "Marlotherm X"
+                },
+                {
+                    "domain_id": "50801",
+                    "domain_value": "Methyl glycol"
+                },
+                {
+                    "domain_id": "50803",
+                    "domain_value": "Naphthalene oil"
+                },
+                {
+                    "domain_id": "50805",
+                    "domain_value": "Neopentyl glycol"
+                },
+                {
+                    "domain_id": "50806",
+                    "domain_value": "Palm oil"
+                },
+                {
+                    "domain_id": "50807",
+                    "domain_value": "Propylene glycol"
+                },
+                {
+                    "domain_id": "50808",
+                    "domain_value": "Nitric acid, highly concentrated"
+                },
+                {
+                    "domain_id": "50809",
+                    "domain_value": "Concentration up to 69.2% 50809"
+                },
+                {
+                    "domain_id": "50811",
+                    "domain_value": "Santotherm 59"
+                },
+                {
+                    "domain_id": "50812",
+                    "domain_value": "Santotherm 68"
+                },
+                {
+                    "domain_id": "50813",
+                    "domain_value": "Santotherm 75"
+                },
+                {
+                    "domain_id": "50816",
+                    "domain_value": "Santotherm D 12"
+                },
+                {
+                    "domain_id": "50820",
+                    "domain_value": "Sludge water"
+                },
+                {
+                    "domain_id": "50824",
+                    "domain_value": "Lake water (fresh water)"
+                },
+                {
+                    "domain_id": "50825",
+                    "domain_value": "Edible oil with bleaching earth"
+                },
+                {
+                    "domain_id": "50826",
+                    "domain_value": "Edible oil with nickel catalyst"
+                },
+                {
+                    "domain_id": "50827",
+                    "domain_value": "Pulp, concentration up to 3% bone dry"
+                },
+                {
+                    "domain_id": "50828",
+                    "domain_value": "Pulp, concentration up to 6% bone dry"
+                },
+                {
+                    "domain_id": "50829",
+                    "domain_value": "Syltherm 800"
+                },
+                {
+                    "domain_id": "50831",
+                    "domain_value": "Tar oil"
+                },
+                {
+                    "domain_id": "50832",
+                    "domain_value": "Triethylene glycol"
+                },
+                {
+                    "domain_id": "50833",
+                    "domain_value": "Trimethylene glycol"
+                },
+                {
+                    "domain_id": "50834",
+                    "domain_value": "Tripropylene glycol"
+                },
+                {
+                    "domain_id": "50836",
+                    "domain_value": "Washing oil"
+                },
+                {
+                    "domain_id": "50837",
+                    "domain_value": "Debasified water"
+                },
+                {
+                    "domain_id": "50839",
+                    "domain_value": "Wastewater, containing sand"
+                },
+                {
+                    "domain_id": "50846",
+                    "domain_value": "Mineral water"
+                },
+                {
+                    "domain_id": "50847",
+                    "domain_value": "without further specification 50847"
+                },
+                {
+                    "domain_id": "50849",
+                    "domain_value": "without further specification 50849"
+                },
+                {
+                    "domain_id": "50854",
+                    "domain_value": "Water-sand mixture up to 20 mg/l"
+                },
+                {
+                    "domain_id": "50860",
+                    "domain_value": "without further specification 50860"
+                },
+                {
+                    "domain_id": "50861",
+                    "domain_value": "without further specification 50861"
+                },
+                {
+                    "domain_id": "50862",
+                    "domain_value": "without further specification 50862"
+                },
+                {
+                    "domain_id": "50863",
+                    "domain_value": "without further specification 50863"
+                },
+                {
+                    "domain_id": "50865",
+                    "domain_value": "without further specification 50865"
+                },
+                {
+                    "domain_id": "50866",
+                    "domain_value": "Concentration up to 30%"
+                },
+                {
+                    "domain_id": "50868",
+                    "domain_value": "Concentration up to 70% 50868"
+                },
+                {
+                    "domain_id": "50869",
+                    "domain_value": "Concentration from xx% to 100% 50869"
+                },
+                {
+                    "domain_id": "50870",
+                    "domain_value": "Concentration up to 50% 50870"
+                },
+                {
+                    "domain_id": "50871",
+                    "domain_value": "Concentration up to 80% 50871"
+                },
+                {
+                    "domain_id": "50873",
+                    "domain_value": "Concentration up to 30% 50873"
+                },
+                {
+                    "domain_id": "50876",
+                    "domain_value": "Concentration up to 70% 50876"
+                },
+                {
+                    "domain_id": "50881",
+                    "domain_value": "Concentration up to 30% 50881"
+                },
+                {
+                    "domain_id": "50889",
+                    "domain_value": "Concentration up to 60% 50889"
+                },
+                {
+                    "domain_id": "50890",
+                    "domain_value": "Concentration up to 80%"
+                },
+                {
+                    "domain_id": "50891",
+                    "domain_value": "Concentration from xx% to 100% 50891"
+                },
+                {
+                    "domain_id": "50895",
+                    "domain_value": "Coffee"
+                },
+                {
+                    "domain_id": "50899",
+                    "domain_value": "Aniseed oil"
+                },
+                {
+                    "domain_id": "50901",
+                    "domain_value": "Lavender oil"
+                },
+                {
+                    "domain_id": "50907",
+                    "domain_value": "Hexylene glycol"
+                },
+                {
+                    "domain_id": "50909",
+                    "domain_value": "ASTM oil No. 1"
+                },
+                {
+                    "domain_id": "50911",
+                    "domain_value": "ASTM oil No. 2"
+                },
+                {
+                    "domain_id": "50913",
+                    "domain_value": "ASTM oil No. 3"
+                },
+                {
+                    "domain_id": "50915",
+                    "domain_value": "Walnut oil"
+                },
+                {
+                    "domain_id": "50916",
+                    "domain_value": "Coconut oil"
+                },
+                {
+                    "domain_id": "50920",
+                    "domain_value": "Heavy oil"
+                },
+                {
+                    "domain_id": "50921",
+                    "domain_value": "Concentration up to 30% 50921"
+                },
+                {
+                    "domain_id": "50922",
+                    "domain_value": "Concentration up to 80% 50922"
+                },
+                {
+                    "domain_id": "50923",
+                    "domain_value": "Fruit juice with SO2"
+                },
+                {
+                    "domain_id": "50924",
+                    "domain_value": "Must"
+                },
+                {
+                    "domain_id": "50925",
+                    "domain_value": "Pernod"
+                },
+                {
+                    "domain_id": "50926",
+                    "domain_value": "Concentration up to 60% 50926"
+                },
+                {
+                    "domain_id": "50927",
+                    "domain_value": "Concentration up to 100% 50927"
+                },
+                {
+                    "domain_id": "50935",
+                    "domain_value": "Concentration up to 75% 50935"
+                },
+                {
+                    "domain_id": "50937",
+                    "domain_value": "Concentration up to 50% 50937"
+                },
+                {
+                    "domain_id": "50938",
+                    "domain_value": "Concentration from xx% to 100% 50938"
+                },
+                {
+                    "domain_id": "50941",
+                    "domain_value": "Concentration up to 90% 50941"
+                },
+                {
+                    "domain_id": "50942",
+                    "domain_value": "Concentration up to 85% 50942"
+                },
+                {
+                    "domain_id": "50943",
+                    "domain_value": "Concentration up to 45% 50943"
+                },
+                {
+                    "domain_id": "50945",
+                    "domain_value": "Concentration up to 70% 50945"
+                },
+                {
+                    "domain_id": "50946",
+                    "domain_value": "Concentration up to 60% 50946"
+                },
+                {
+                    "domain_id": "50947",
+                    "domain_value": "Concentration up to 5% 50947"
+                },
+                {
+                    "domain_id": "50948",
+                    "domain_value": "Concentration up to 40% 50948"
+                },
+                {
+                    "domain_id": "50949",
+                    "domain_value": "Concentration up to 20% 50949"
+                },
+                {
+                    "domain_id": "50950",
+                    "domain_value": "Concentration up to 90% 50950"
+                },
+                {
+                    "domain_id": "50953",
+                    "domain_value": "Concentration up to 55% 50953"
+                },
+                {
+                    "domain_id": "50955",
+                    "domain_value": "Concentration up to 65% 50955"
+                },
+                {
+                    "domain_id": "50957",
+                    "domain_value": "Concentration up to 10% 50957"
+                },
+                {
+                    "domain_id": "50961",
+                    "domain_value": "Concentration from 98% to 100%"
+                },
+                {
+                    "domain_id": "50962",
+                    "domain_value": "Lime milk >15 to 25%"
+                },
+                {
+                    "domain_id": "50963",
+                    "domain_value": "without further specification 50963"
+                },
+                {
+                    "domain_id": "50964",
+                    "domain_value": "Aqueous solution up to max 50%"
+                },
+                {
+                    "domain_id": "50965",
+                    "domain_value": "without further specification 50965"
+                },
+                {
+                    "domain_id": "50966",
+                    "domain_value": "without further specification 50966"
+                },
+                {
+                    "domain_id": "50967",
+                    "domain_value": "without further specification 50967"
+                },
+                {
+                    "domain_id": "50968",
+                    "domain_value": "without further specification 50968"
+                },
+                {
+                    "domain_id": "50969",
+                    "domain_value": "without further specification 50969"
+                },
+                {
+                    "domain_id": "50970",
+                    "domain_value": "without further specification 50970"
+                },
+                {
+                    "domain_id": "50971",
+                    "domain_value": "1-octanol"
+                },
+                {
+                    "domain_id": "50972",
+                    "domain_value": "2-octanol"
+                },
+                {
+                    "domain_id": "50973",
+                    "domain_value": "1-pentanol"
+                },
+                {
+                    "domain_id": "50975",
+                    "domain_value": "Concentration up to 30% 50975"
+                },
+                {
+                    "domain_id": "50976",
+                    "domain_value": "Concentration up to 50% 50976"
+                },
+                {
+                    "domain_id": "50977",
+                    "domain_value": "Ammoniumdihydrogen phosphate, unsaturated aqueous solution"
+                },
+                {
+                    "domain_id": "50978",
+                    "domain_value": "Diammoniumhydrogen phosphate,  unsaturated aqueous solution"
+                },
+                {
+                    "domain_id": "50980",
+                    "domain_value": "without further specification 50980"
+                },
+                {
+                    "domain_id": "50981",
+                    "domain_value": "without further specification 50981"
+                },
+                {
+                    "domain_id": "50982",
+                    "domain_value": "without further specification 50982"
+                },
+                {
+                    "domain_id": "50983",
+                    "domain_value": "Concentration up to 50% 50983"
+                },
+                {
+                    "domain_id": "50985",
+                    "domain_value": "without further specification 50985"
+                },
+                {
+                    "domain_id": "50986",
+                    "domain_value": "without further specification 50986"
+                },
+                {
+                    "domain_id": "50987",
+                    "domain_value": "without further specification 50987"
+                },
+                {
+                    "domain_id": "50988",
+                    "domain_value": "without further specification 50988"
+                },
+                {
+                    "domain_id": "50989",
+                    "domain_value": "without further specification 50989"
+                },
+                {
+                    "domain_id": "50990",
+                    "domain_value": "without further specification 50990"
+                },
+                {
+                    "domain_id": "50991",
+                    "domain_value": "without further specification 50991"
+                },
+                {
+                    "domain_id": "50993",
+                    "domain_value": "without further specification 50993"
+                },
+                {
+                    "domain_id": "50995",
+                    "domain_value": "without further specification 50995"
+                },
+                {
+                    "domain_id": "50996",
+                    "domain_value": "without further specification 50996"
+                },
+                {
+                    "domain_id": "50997",
+                    "domain_value": "50997"
+                },
+                {
+                    "domain_id": "50998",
+                    "domain_value": "50998"
+                },
+                {
+                    "domain_id": "50999",
+                    "domain_value": "50999"
+                },
+                {
+                    "domain_id": "51000",
+                    "domain_value": "without further specification 51000"
+                },
+                {
+                    "domain_id": "51001",
+                    "domain_value": "without further specification 51001"
+                },
+                {
+                    "domain_id": "51002",
+                    "domain_value": "Unsaturated aqueous solution 51002"
+                },
+                {
+                    "domain_id": "51003",
+                    "domain_value": "without further specification 51003"
+                },
+                {
+                    "domain_id": "51004",
+                    "domain_value": "Concentration up to 22% 51004"
+                },
+                {
+                    "domain_id": "51005",
+                    "domain_value": "without further specification 51005"
+                },
+                {
+                    "domain_id": "51006",
+                    "domain_value": "without further specification 51006"
+                },
+                {
+                    "domain_id": "51007",
+                    "domain_value": "51007"
+                },
+                {
+                    "domain_id": "51008",
+                    "domain_value": "Butadiene (1,3-butadiene)"
+                },
+                {
+                    "domain_id": "51009",
+                    "domain_value": "n-butane"
+                },
+                {
+                    "domain_id": "51010",
+                    "domain_value": "Cyclohexane"
+                },
+                {
+                    "domain_id": "51011",
+                    "domain_value": "Decane"
+                },
+                {
+                    "domain_id": "51012",
+                    "domain_value": "Heptane (n-heptane)"
+                },
+                {
+                    "domain_id": "51013",
+                    "domain_value": "Isobutane (2-methyl propane)"
+                },
+                {
+                    "domain_id": "51014",
+                    "domain_value": "Isobutene (isobutylene)"
+                },
+                {
+                    "domain_id": "51015",
+                    "domain_value": "Isopentane (2-methyl butane)"
+                },
+                {
+                    "domain_id": "51016",
+                    "domain_value": "C4 hydrocarbons (C4 fraction)"
+                },
+                {
+                    "domain_id": "51017",
+                    "domain_value": "n-pentane"
+                },
+                {
+                    "domain_id": "51019",
+                    "domain_value": "n-butene"
+                },
+                {
+                    "domain_id": "51020",
+                    "domain_value": "Propane 51020"
+                },
+                {
+                    "domain_id": "51021",
+                    "domain_value": "Propene"
+                },
+                {
+                    "domain_id": "51022",
+                    "domain_value": "Cumene"
+                },
+                {
+                    "domain_id": "51023",
+                    "domain_value": "Ethylbenzene"
+                },
+                {
+                    "domain_id": "51024",
+                    "domain_value": "Toluene (Methylbenzene)"
+                },
+                {
+                    "domain_id": "51025",
+                    "domain_value": "Benzene"
+                },
+                {
+                    "domain_id": "51026",
+                    "domain_value": "51026"
+                },
+                {
+                    "domain_id": "51027",
+                    "domain_value": "1,2-Dichloroethane (Ethylene dichloride)"
+                },
+                {
+                    "domain_id": "51028",
+                    "domain_value": "1,1-Dichloroethene (1,1-Dichloroethylene)"
+                },
+                {
+                    "domain_id": "51029",
+                    "domain_value": "Methyl chloride (chloromethane)"
+                },
+                {
+                    "domain_id": "51030",
+                    "domain_value": "Methylene chloride (Dichloromethane)"
+                },
+                {
+                    "domain_id": "51031",
+                    "domain_value": "51031"
+                },
+                {
+                    "domain_id": "51032",
+                    "domain_value": "1,1,2,2-Tetrachloroethane"
+                },
+                {
+                    "domain_id": "51033",
+                    "domain_value": "Tetrachloroethene (Tetrachloroethylene)"
+                },
+                {
+                    "domain_id": "51034",
+                    "domain_value": "Tetrachloromethane (Carbon tetrachloride)"
+                },
+                {
+                    "domain_id": "51035",
+                    "domain_value": "1,1,1-Trichloroethane"
+                },
+                {
+                    "domain_id": "51036",
+                    "domain_value": "Trichloroethene (Trichloroethylene)"
+                },
+                {
+                    "domain_id": "51037",
+                    "domain_value": "Trichloromethane (Cloroform)"
+                },
+                {
+                    "domain_id": "51038",
+                    "domain_value": "Vinyl chloride (Chloroethene)"
+                },
+                {
+                    "domain_id": "51040",
+                    "domain_value": "Filtrate (CDP application)"
+                },
+                {
+                    "domain_id": "51041",
+                    "domain_value": "Cataphoretic dip paint"
+                },
+                {
+                    "domain_id": "51042",
+                    "domain_value": "Recirculate (CDP application)"
+                },
+                {
+                    "domain_id": "51043",
+                    "domain_value": "Flushing water (CDP application)"
+                },
+                {
+                    "domain_id": "51044",
+                    "domain_value": "Ultrafiltrate (CDP application)"
+                },
+                {
+                    "domain_id": "51045",
+                    "domain_value": "Anolyte (CDP application)"
+                },
+                {
+                    "domain_id": "51048",
+                    "domain_value": "without further specification 51048"
+                },
+                {
+                    "domain_id": "51049",
+                    "domain_value": "Concentration up to 35% 51049"
+                },
+                {
+                    "domain_id": "51050",
+                    "domain_value": "Pure aqueous solution"
+                },
+                {
+                    "domain_id": "51051",
+                    "domain_value": "without further specification 51051"
+                },
+                {
+                    "domain_id": "51052",
+                    "domain_value": "51052"
+                },
+                {
+                    "domain_id": "51053",
+                    "domain_value": "without further specification 51053"
+                },
+                {
+                    "domain_id": "51054",
+                    "domain_value": "without further specification 51054"
+                },
+                {
+                    "domain_id": "51055",
+                    "domain_value": "Concentration up to 30% 51055"
+                },
+                {
+                    "domain_id": "51056",
+                    "domain_value": "Concentration up to 31.5% 51056"
+                },
+                {
+                    "domain_id": "51057",
+                    "domain_value": "Concentration up to 10% 51057"
+                },
+                {
+                    "domain_id": "51058",
+                    "domain_value": "Concentration up to 26.3% 51058"
+                },
+                {
+                    "domain_id": "51059",
+                    "domain_value": "Concentration up to 30% 51059"
+                },
+                {
+                    "domain_id": "51060",
+                    "domain_value": "Concentration up to 50% 51060"
+                },
+                {
+                    "domain_id": "51061",
+                    "domain_value": "Concentration up to 25% 51061"
+                },
+                {
+                    "domain_id": "51062",
+                    "domain_value": "Concentration up to 42% 51062"
+                },
+                {
+                    "domain_id": "51063",
+                    "domain_value": "Concentration up to 21% 51063"
+                },
+                {
+                    "domain_id": "51064",
+                    "domain_value": "Concentration up to 63% 51064"
+                },
+                {
+                    "domain_id": "51065",
+                    "domain_value": "Concentration up to 45% 51065"
+                },
+                {
+                    "domain_id": "51066",
+                    "domain_value": "without further specification 51066"
+                },
+                {
+                    "domain_id": "51067",
+                    "domain_value": "Aqueous solution up to 80% phenol"
+                },
+                {
+                    "domain_id": "51068",
+                    "domain_value": "Zinc or Manganese phosphatizing solution"
+                },
+                {
+                    "domain_id": "51069",
+                    "domain_value": "51069"
+                },
+                {
+                    "domain_id": "51070",
+                    "domain_value": "Pure melt (100% phthalic anhydride)"
+                },
+                {
+                    "domain_id": "51071",
+                    "domain_value": "without further specification 51071"
+                },
+                {
+                    "domain_id": "51072",
+                    "domain_value": "without further specification 51072"
+                },
+                {
+                    "domain_id": "51073",
+                    "domain_value": "51073"
+                },
+                {
+                    "domain_id": "51074",
+                    "domain_value": "51074"
+                },
+                {
+                    "domain_id": "51075",
+                    "domain_value": "Pure melt (100% suberic acid)"
+                },
+                {
+                    "domain_id": "51076",
+                    "domain_value": "without further specification 51076"
+                },
+                {
+                    "domain_id": "51077",
+                    "domain_value": "without further specification 51077"
+                },
+                {
+                    "domain_id": "51078",
+                    "domain_value": "Pure melt (100% palmitic acid)"
+                },
+                {
+                    "domain_id": "51079",
+                    "domain_value": "20% Iron(II) sulfate solution with max. 20% sulfuric acid"
+                },
+                {
+                    "domain_id": "51080",
+                    "domain_value": "Pure melt (100% stearic acid)"
+                },
+                {
+                    "domain_id": "51081",
+                    "domain_value": "without further specification 51081"
+                },
+                {
+                    "domain_id": "51082",
+                    "domain_value": "51082"
+                },
+                {
+                    "domain_id": "51083",
+                    "domain_value": "liquified gas"
+                },
+                {
+                    "domain_id": "51084",
+                    "domain_value": "without further specification 51084"
+                },
+                {
+                    "domain_id": "51085",
+                    "domain_value": "Unsaturated aqueous solution 51085"
+                },
+                {
+                    "domain_id": "51086",
+                    "domain_value": "aqueous suspension with max. 44% dry substance"
+                },
+                {
+                    "domain_id": "51087",
+                    "domain_value": "Sulfite waste lye without solids"
+                },
+                {
+                    "domain_id": "51088",
+                    "domain_value": "Pure melt (100% tallow)"
+                },
+                {
+                    "domain_id": "51089",
+                    "domain_value": "Suspension up to 150g/l TiO2"
+                },
+                {
+                    "domain_id": "51090",
+                    "domain_value": "Pure product"
+                },
+                {
+                    "domain_id": "51091",
+                    "domain_value": "without further specification 51091"
+                },
+                {
+                    "domain_id": "51093",
+                    "domain_value": "51093"
+                },
+                {
+                    "domain_id": "51094",
+                    "domain_value": "51094"
+                },
+                {
+                    "domain_id": "51095",
+                    "domain_value": "Unsaturated aqueous solution 51095"
+                },
+                {
+                    "domain_id": "51096",
+                    "domain_value": "Isobutanol (2-methylpropyl alcohol)"
+                },
+                {
+                    "domain_id": "51097",
+                    "domain_value": "Concentration up to 30% 51097"
+                },
+                {
+                    "domain_id": "51098",
+                    "domain_value": "Concentration up to 26% 51098"
+                },
+                {
+                    "domain_id": "51099",
+                    "domain_value": "Concentration up to 41% 51099"
+                },
+                {
+                    "domain_id": "51100",
+                    "domain_value": "Concentration up to 50% 51100"
+                },
+                {
+                    "domain_id": "51101",
+                    "domain_value": "Pure melt (100% caprolactam)"
+                },
+                {
+                    "domain_id": "51103",
+                    "domain_value": "Pure melt (100% DMT)"
+                },
+                {
+                    "domain_id": "51106",
+                    "domain_value": "Ethylenediamine, pure"
+                },
+                {
+                    "domain_id": "51107",
+                    "domain_value": "Ethylenediamine, contaminated"
+                },
+                {
+                    "domain_id": "51108",
+                    "domain_value": "Concentration up to 65% 51108"
+                },
+                {
+                    "domain_id": "51109",
+                    "domain_value": "51109"
+                },
+                {
+                    "domain_id": "51110",
+                    "domain_value": "Concentration up to 10% 51110"
+                },
+                {
+                    "domain_id": "51111",
+                    "domain_value": "Concentration up to 15% 51111"
+                },
+                {
+                    "domain_id": "51112",
+                    "domain_value": "Concentration up to 20% 51112"
+                },
+                {
+                    "domain_id": "51113",
+                    "domain_value": "Concentration up to 30% 51113"
+                },
+                {
+                    "domain_id": "51114",
+                    "domain_value": "Concentration up to 10% 51114"
+                },
+                {
+                    "domain_id": "51115",
+                    "domain_value": "Concentration up to 50% 51115"
+                },
+                {
+                    "domain_id": "51116",
+                    "domain_value": "Concentration up to 30% 51116"
+                },
+                {
+                    "domain_id": "51117",
+                    "domain_value": "Concentration up to 20% 51117"
+                },
+                {
+                    "domain_id": "51118",
+                    "domain_value": "Concentration up to 40% 51118"
+                },
+                {
+                    "domain_id": "51119",
+                    "domain_value": "Concentration up to 50% 51119"
+                },
+                {
+                    "domain_id": "51120",
+                    "domain_value": "Concentration up to 60% 51120"
+                },
+                {
+                    "domain_id": "51123",
+                    "domain_value": "Concentration up to 3% 51123"
+                },
+                {
+                    "domain_id": "51124",
+                    "domain_value": "Concentration up to 50% 51124"
+                },
+                {
+                    "domain_id": "51125",
+                    "domain_value": "Concentration 85-88%"
+                },
+                {
+                    "domain_id": "51126",
+                    "domain_value": "Concentration 88-90%"
+                },
+                {
+                    "domain_id": "51127",
+                    "domain_value": "Concentration 90-96%"
+                },
+                {
+                    "domain_id": "51128",
+                    "domain_value": "Concentration 96-98%"
+                },
+                {
+                    "domain_id": "51129",
+                    "domain_value": "Concentration up to 10% 51129"
+                },
+                {
+                    "domain_id": "51130",
+                    "domain_value": "2-propanol"
+                },
+                {
+                    "domain_id": "51131",
+                    "domain_value": "Concentration up to 25% 51131"
+                },
+                {
+                    "domain_id": "51132",
+                    "domain_value": "Concentration up to 20% 51132"
+                },
+                {
+                    "domain_id": "51133",
+                    "domain_value": "Concentration up to 40% 51133"
+                },
+                {
+                    "domain_id": "51134",
+                    "domain_value": "Alkaline degreasing solution (10% NaOH)"
+                },
+                {
+                    "domain_id": "51135",
+                    "domain_value": "Concentration 30% 51135"
+                },
+                {
+                    "domain_id": "51136",
+                    "domain_value": "ortho-Cresol"
+                },
+                {
+                    "domain_id": "51137",
+                    "domain_value": "o-Xylene (1,2-Dimetylbenzene)"
+                },
+                {
+                    "domain_id": "51138",
+                    "domain_value": "p-Xylene (1,4-Dimetylbenzene)"
+                },
+                {
+                    "domain_id": "51139",
+                    "domain_value": "1,1-Dichloroethane"
+                },
+                {
+                    "domain_id": "51140",
+                    "domain_value": "Cis-1,2-Dichloroethene (cis-1,2-Dichloroethylene)"
+                },
+                {
+                    "domain_id": "51141",
+                    "domain_value": "para-Cresol"
+                },
+                {
+                    "domain_id": "51142",
+                    "domain_value": "meta-Cresol"
+                },
+                {
+                    "domain_id": "51143",
+                    "domain_value": "Paint water with pH > 6"
+                },
+                {
+                    "domain_id": "51144",
+                    "domain_value": "Paint water with pH <= 6"
+                },
+                {
+                    "domain_id": "51145",
+                    "domain_value": "Pure melt (100% laurolactam)"
+                },
+                {
+                    "domain_id": "51146",
+                    "domain_value": "Concentration up to 30% 51146"
+                },
+                {
+                    "domain_id": "51147",
+                    "domain_value": "Concentration up to 35% 51147"
+                },
+                {
+                    "domain_id": "51148",
+                    "domain_value": "Concentration up to 40% 51148"
+                },
+                {
+                    "domain_id": "51149",
+                    "domain_value": "Concentration up to 45% 51149"
+                },
+                {
+                    "domain_id": "51151",
+                    "domain_value": "Pure melt (100% phenol)"
+                },
+                {
+                    "domain_id": "51152",
+                    "domain_value": "Iron phosphatizing solution"
+                },
+                {
+                    "domain_id": "51153",
+                    "domain_value": "Concentration 100% 51153"
+                },
+                {
+                    "domain_id": "51154",
+                    "domain_value": "Concentration up to 10% 51154"
+                },
+                {
+                    "domain_id": "51155",
+                    "domain_value": "51155"
+                },
+                {
+                    "domain_id": "51156",
+                    "domain_value": "51156"
+                },
+                {
+                    "domain_id": "51157",
+                    "domain_value": "Avia Thermofluid S"
+                },
+                {
+                    "domain_id": "51158",
+                    "domain_value": "Diphyl"
+                },
+                {
+                    "domain_id": "51159",
+                    "domain_value": "Thermocal HT6"
+                },
+                {
+                    "domain_id": "51160",
+                    "domain_value": "Thermocal HT8"
+                },
+                {
+                    "domain_id": "51161",
+                    "domain_value": "Therminol 66"
+                },
+                {
+                    "domain_id": "51162",
+                    "domain_value": "Therminol VP-1"
+                },
+                {
+                    "domain_id": "51165",
+                    "domain_value": "with 2% Sodium hydroxide (NaOH)"
+                },
+                {
+                    "domain_id": "51166",
+                    "domain_value": "Water/oil (95%/5%), free of solids"
+                },
+                {
+                    "domain_id": "51167",
+                    "domain_value": "80% n-Hexane / 20% Soybean oil"
+                },
+                {
+                    "domain_id": "51168",
+                    "domain_value": "Kerosene JP4"
+                },
+                {
+                    "domain_id": "51169",
+                    "domain_value": "Open circuit"
+                },
+                {
+                    "domain_id": "51170",
+                    "domain_value": "m-Xylene (1,3-Dimetylbenzene)"
+                },
+                {
+                    "domain_id": "51670",
+                    "domain_value": "Clean water"
+                },
+                {
+                    "domain_id": "51671",
+                    "domain_value": "Water-sand mixture up to 50 mg/l"
+                },
+                {
+                    "domain_id": "51672",
+                    "domain_value": "Water-sand mixture up to 200 mg/l"
+                },
+                {
+                    "domain_id": "51673",
+                    "domain_value": "with 10% sodium hydroxide"
+                },
+                {
+                    "domain_id": "51674",
+                    "domain_value": "Concentration up to 5% 51674"
+                },
+                {
+                    "domain_id": "51675",
+                    "domain_value": "Concentration up to 10% 51675"
+                },
+                {
+                    "domain_id": "51676",
+                    "domain_value": "Concentration up to 10% 51676"
+                },
+                {
+                    "domain_id": "51677",
+                    "domain_value": "Concentration up to 20% 51677"
+                },
+                {
+                    "domain_id": "51678",
+                    "domain_value": "Concentration up to 5% 51678"
+                },
+                {
+                    "domain_id": "51679",
+                    "domain_value": "Concentration up to 10% 51679"
+                },
+                {
+                    "domain_id": "51680",
+                    "domain_value": "Concentration up to 20% 51680"
+                },
+                {
+                    "domain_id": "51681",
+                    "domain_value": "Concentration up to 40% 51681"
+                },
+                {
+                    "domain_id": "51682",
+                    "domain_value": "Concentration up to 5% 51682"
+                },
+                {
+                    "domain_id": "51683",
+                    "domain_value": "Concentration up to 10% 51683"
+                },
+                {
+                    "domain_id": "51684",
+                    "domain_value": "Concentration up to 10% 51684"
+                },
+                {
+                    "domain_id": "51685",
+                    "domain_value": "Concentration up to 5% 51685"
+                },
+                {
+                    "domain_id": "51686",
+                    "domain_value": "Concentration up to 40% 51686"
+                },
+                {
+                    "domain_id": "51687",
+                    "domain_value": "White oil (paraffin oil) BP Energol WM2"
+                },
+                {
+                    "domain_id": "51688",
+                    "domain_value": "Concentration up to 8% 51688"
+                },
+                {
+                    "domain_id": "51689",
+                    "domain_value": "Concentration up to 25% 51689"
+                },
+                {
+                    "domain_id": "51690",
+                    "domain_value": "Condensing boiler"
+                },
+                {
+                    "domain_id": "51691",
+                    "domain_value": "Water-sand mixture up to 2 g/l"
+                },
+                {
+                    "domain_id": "51692",
+                    "domain_value": "Water-sand mixture up to 10 g/l"
+                },
+                {
+                    "domain_id": "51693",
+                    "domain_value": "Contaminated water (brewery)"
+                },
+                {
+                    "domain_id": "51694",
+                    "domain_value": "Contaminated water (beverage industry)"
+                },
+                {
+                    "domain_id": "51695",
+                    "domain_value": "Contaminated water (fishery)"
+                },
+                {
+                    "domain_id": "51696",
+                    "domain_value": "Contaminated water (car wash)"
+                },
+                {
+                    "domain_id": "51697",
+                    "domain_value": "Contaminated water (petrol station)"
+                },
+                {
+                    "domain_id": "51698",
+                    "domain_value": "Therminol 55"
+                },
+                {
+                    "domain_id": "51699",
+                    "domain_value": "Permeate (osmosis)"
+                },
+                {
+                    "domain_id": "51700",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51701",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51702",
+                    "domain_value": "Condensate, chemically neutral from unpressurized tanks"
+                },
+                {
+                    "domain_id": "51703",
+                    "domain_value": "Wastewater, chemically aggressive"
+                },
+                {
+                    "domain_id": "51704",
+                    "domain_value": "Wastewater, aggressive (pH 5 to 12)"
+                },
+                {
+                    "domain_id": "51705",
+                    "domain_value": "Domestic wastewater with faeces"
+                },
+                {
+                    "domain_id": "51706",
+                    "domain_value": "Domestic wastewater without faeces"
+                },
+                {
+                    "domain_id": "51707",
+                    "domain_value": "Industrial wastewater with faeces"
+                },
+                {
+                    "domain_id": "51708",
+                    "domain_value": "Industrial wastewater without faeces"
+                },
+                {
+                    "domain_id": "51709",
+                    "domain_value": "Wastewater with faeces"
+                },
+                {
+                    "domain_id": "51710",
+                    "domain_value": "Wastewater without faeces"
+                },
+                {
+                    "domain_id": "51711",
+                    "domain_value": "Dowtherm RP"
+                },
+                {
+                    "domain_id": "51712",
+                    "domain_value": "Marlotherm LH"
+                },
+                {
+                    "domain_id": "51713",
+                    "domain_value": "MultiTherm IG-4"
+                },
+                {
+                    "domain_id": "51714",
+                    "domain_value": "Ucotherm Q-32-N"
+                },
+                {
+                    "domain_id": "51715",
+                    "domain_value": "Concentration 25%"
+                },
+                {
+                    "domain_id": "51716",
+                    "domain_value": "Concentration 30%"
+                },
+                {
+                    "domain_id": "51717",
+                    "domain_value": "Concentration 35%"
+                },
+                {
+                    "domain_id": "51718",
+                    "domain_value": "Concentration 40%"
+                },
+                {
+                    "domain_id": "51719",
+                    "domain_value": "Concentration 45%"
+                },
+                {
+                    "domain_id": "51720",
+                    "domain_value": "Concentration 50%"
+                },
+                {
+                    "domain_id": "51721",
+                    "domain_value": "Concentration 25%"
+                },
+                {
+                    "domain_id": "51722",
+                    "domain_value": "Concentration 30%"
+                },
+                {
+                    "domain_id": "51723",
+                    "domain_value": "Concentration 35%"
+                },
+                {
+                    "domain_id": "51724",
+                    "domain_value": "Concentration 40%"
+                },
+                {
+                    "domain_id": "51725",
+                    "domain_value": "Concentration 45%"
+                },
+                {
+                    "domain_id": "51726",
+                    "domain_value": "Concentration 50%"
+                },
+                {
+                    "domain_id": "51727",
+                    "domain_value": "Activated sludge (agitator)"
+                },
+                {
+                    "domain_id": "51728",
+                    "domain_value": "Primary and excess sludge (agitator)"
+                },
+                {
+                    "domain_id": "51729",
+                    "domain_value": "Digested sludge without polymer addition (agitator)"
+                },
+                {
+                    "domain_id": "51730",
+                    "domain_value": "Digested sludge with polymer addition (agitator)"
+                },
+                {
+                    "domain_id": "51731",
+                    "domain_value": "Polymer sludge, screening drum (agitator)"
+                },
+                {
+                    "domain_id": "51732",
+                    "domain_value": "Polymer sludge, centrifuge (agitator)"
+                },
+                {
+                    "domain_id": "51733",
+                    "domain_value": "Buffer tank / Stormwater overflow tank (agitator)"
+                },
+                {
+                    "domain_id": "51734",
+                    "domain_value": "Raw sewage (agitator)"
+                },
+                {
+                    "domain_id": "51735",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51736",
+                    "domain_value": "with oil content"
+                },
+                {
+                    "domain_id": "51737",
+                    "domain_value": "without oil content"
+                },
+                {
+                    "domain_id": "51738",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51739",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51740",
+                    "domain_value": "for decarbonating process"
+                },
+                {
+                    "domain_id": "51741",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51742",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51743",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51744",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51745",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51746",
+                    "domain_value": "water gas"
+                },
+                {
+                    "domain_id": "51747",
+                    "domain_value": "Purified coke oven gas"
+                },
+                {
+                    "domain_id": "51748",
+                    "domain_value": "Untreated coke oven gas"
+                },
+                {
+                    "domain_id": "51749",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51750",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51751",
+                    "domain_value": "Diesel motor exhaust"
+                },
+                {
+                    "domain_id": "51752",
+                    "domain_value": "concentration up to 2%"
+                },
+                {
+                    "domain_id": "51753",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51754",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51755",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51756",
+                    "domain_value": "Freon 11"
+                },
+                {
+                    "domain_id": "51757",
+                    "domain_value": "Freon 112"
+                },
+                {
+                    "domain_id": "51758",
+                    "domain_value": "Freon 113"
+                },
+                {
+                    "domain_id": "51759",
+                    "domain_value": "Freon 114"
+                },
+                {
+                    "domain_id": "51760",
+                    "domain_value": "Freon 114B2"
+                },
+                {
+                    "domain_id": "51761",
+                    "domain_value": "Freon 115"
+                },
+                {
+                    "domain_id": "51762",
+                    "domain_value": "Freon 12"
+                },
+                {
+                    "domain_id": "51763",
+                    "domain_value": "Freon 13"
+                },
+                {
+                    "domain_id": "51764",
+                    "domain_value": "Freon 14"
+                },
+                {
+                    "domain_id": "51765",
+                    "domain_value": "Freon 21"
+                },
+                {
+                    "domain_id": "51766",
+                    "domain_value": "Freon 218"
+                },
+                {
+                    "domain_id": "51767",
+                    "domain_value": "Freon 22"
+                },
+                {
+                    "domain_id": "51768",
+                    "domain_value": "Freon 31"
+                },
+                {
+                    "domain_id": "51769",
+                    "domain_value": "Freon 502"
+                },
+                {
+                    "domain_id": "51770",
+                    "domain_value": "Freon BF"
+                },
+                {
+                    "domain_id": "51771",
+                    "domain_value": "Freon C142B"
+                },
+                {
+                    "domain_id": "51772",
+                    "domain_value": "Freon C152A"
+                },
+                {
+                    "domain_id": "51773",
+                    "domain_value": "Freon C31"
+                },
+                {
+                    "domain_id": "51774",
+                    "domain_value": "Freon C318"
+                },
+                {
+                    "domain_id": "51775",
+                    "domain_value": "Freon C32"
+                },
+                {
+                    "domain_id": "51776",
+                    "domain_value": "Freon MF"
+                },
+                {
+                    "domain_id": "51777",
+                    "domain_value": "Freon TA"
+                },
+                {
+                    "domain_id": "51778",
+                    "domain_value": "Freon TC"
+                },
+                {
+                    "domain_id": "51779",
+                    "domain_value": "Freon TF"
+                },
+                {
+                    "domain_id": "51780",
+                    "domain_value": "Freon TMC"
+                },
+                {
+                    "domain_id": "51781",
+                    "domain_value": "Freon TP35"
+                },
+                {
+                    "domain_id": "51782",
+                    "domain_value": "Freon TWD602"
+                },
+                {
+                    "domain_id": "51783",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51784",
+                    "domain_value": "butane"
+                },
+                {
+                    "domain_id": "51785",
+                    "domain_value": "methane"
+                },
+                {
+                    "domain_id": "51786",
+                    "domain_value": "propane"
+                },
+                {
+                    "domain_id": "51787",
+                    "domain_value": "concentration up to 5%"
+                },
+                {
+                    "domain_id": "51788",
+                    "domain_value": "concentration up to 100%"
+                },
+                {
+                    "domain_id": "51789",
+                    "domain_value": "concentration up to 100%"
+                },
+                {
+                    "domain_id": "51790",
+                    "domain_value": "concentration up to 50%"
+                },
+                {
+                    "domain_id": "51791",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51792",
+                    "domain_value": "concentration up to 5%"
+                },
+                {
+                    "domain_id": "51793",
+                    "domain_value": "concentration up to 10%"
+                },
+                {
+                    "domain_id": "51794",
+                    "domain_value": "concentration up to 100%"
+                },
+                {
+                    "domain_id": "51795",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51796",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51797",
+                    "domain_value": "town gas"
+                },
+                {
+                    "domain_id": "51798",
+                    "domain_value": "natural gas"
+                },
+                {
+                    "domain_id": "51799",
+                    "domain_value": "conditioned natural gas"
+                },
+                {
+                    "domain_id": "51800",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51801",
+                    "domain_value": "ozoned air"
+                },
+                {
+                    "domain_id": "51802",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51803",
+                    "domain_value": "ozone"
+                },
+                {
+                    "domain_id": "51804",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51805",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51806",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51807",
+                    "domain_value": "Water vapour (sugar production)"
+                },
+                {
+                    "domain_id": "51808",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51809",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51810",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51811",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51812",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51813",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51814",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51815",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51816",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51817",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51818",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51819",
+                    "domain_value": "Raw cement extraction"
+                },
+                {
+                    "domain_id": "51820",
+                    "domain_value": "Raw cement process"
+                },
+                {
+                    "domain_id": "51821",
+                    "domain_value": "Cement extraction"
+                },
+                {
+                    "domain_id": "51822",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51823",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51824",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51825",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51826",
+                    "domain_value": "Dust transport"
+                },
+                {
+                    "domain_id": "51827",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51828",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51829",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51830",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51831",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51832",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51833",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51834",
+                    "domain_value": "Slaked lime"
+                },
+                {
+                    "domain_id": "51835",
+                    "domain_value": "Quick lime"
+                },
+                {
+                    "domain_id": "51836",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51837",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51838",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51839",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51840",
+                    "domain_value": "Gypsum powder"
+                },
+                {
+                    "domain_id": "51841",
+                    "domain_value": "Plaster transport"
+                },
+                {
+                    "domain_id": "51842",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51843",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51844",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51845",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51846",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51847",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51848",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51849",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51850",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51851",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51852",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51853",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51854",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51855",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51856",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51857",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51858",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51859",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51860",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51861",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51862",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51863",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51864",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51865",
+                    "domain_value": "Substrate (agitator)"
+                },
+                {
+                    "domain_id": "51866",
+                    "domain_value": "Digestate (agitator)"
+                },
+                {
+                    "domain_id": "51867",
+                    "domain_value": "Ucotherm Q-7"
+                },
+                {
+                    "domain_id": "51868",
+                    "domain_value": "Therminol 72"
+                },
+                {
+                    "domain_id": "51869",
+                    "domain_value": "Water-sand mixture up to 500 mg/l"
+                },
+                {
+                    "domain_id": "51870",
+                    "domain_value": "Suspension up to 600 g/l TiO2"
+                },
+                {
+                    "domain_id": "51871",
+                    "domain_value": "Scale water with a sinter concentration of up to 2 g/l"
+                },
+                {
+                    "domain_id": "51872",
+                    "domain_value": "Scale water with a sinter concentration of up to 4 g/l"
+                },
+                {
+                    "domain_id": "51873",
+                    "domain_value": "Scale water with a sinter concentration of up to 8 g/l"
+                },
+                {
+                    "domain_id": "51874",
+                    "domain_value": "Scale water with a sinter concentration of up to 80 g/l"
+                },
+                {
+                    "domain_id": "51875",
+                    "domain_value": "Coke quenching water with a coke concentration of up to 2 g/l"
+                },
+                {
+                    "domain_id": "51876",
+                    "domain_value": "Coke quenching water with a coke concentration of up to 4 g/l"
+                },
+                {
+                    "domain_id": "51877",
+                    "domain_value": "Coke quenching water with a coke concentration of up to 8 g/l"
+                },
+                {
+                    "domain_id": "51878",
+                    "domain_value": "Coke quenching water with a coke concentration of up to 80 g/l"
+                },
+                {
+                    "domain_id": "51879",
+                    "domain_value": "Water/silicone dioxide suspension with a SiO2 concentration of up to 3 g/l"
+                },
+                {
+                    "domain_id": "51880",
+                    "domain_value": "Water/silicone dioxide suspension with a SiO2 concentration of up to 5 g/l"
+                },
+                {
+                    "domain_id": "51881",
+                    "domain_value": "Water/silicone dioxide suspension with a SiO2 concentration of up to 10 g/l"
+                },
+                {
+                    "domain_id": "51882",
+                    "domain_value": "Water/silicone dioxide suspension with a SiO2 concentration of up to 15 g/l"
+                },
+                {
+                    "domain_id": "51883",
+                    "domain_value": "Water/silicone dioxide suspension with a SiO2 concentration of up to 25 g/l"
+                },
+                {
+                    "domain_id": "51884",
+                    "domain_value": "Water/diatomaceous earth suspension with a diatomaceous earth concentration of up to 30 g/l"
+                },
+                {
+                    "domain_id": "51885",
+                    "domain_value": "Water/diatomaceous earth suspension with a diatomaceous earth concentration of up to 50 g/l"
+                },
+                {
+                    "domain_id": "51886",
+                    "domain_value": "Water/diatomaceous earth suspension with a diatomaceous earth concentration of up to 100 g/l"
+                },
+                {
+                    "domain_id": "51887",
+                    "domain_value": "Water/diatomaceous earth suspension with a diatomaceous earth concentration of up to 150 g/l"
+                },
+                {
+                    "domain_id": "51888",
+                    "domain_value": "Water/diatomaceous earth suspension with a diatomaceous earth concentration of up to 250 g/l"
+                },
+                {
+                    "domain_id": "51889",
+                    "domain_value": "Water/magnesium oxide with a solids content of up to 5 %"
+                },
+                {
+                    "domain_id": "51890",
+                    "domain_value": "Water/barley mixture (malthouse)"
+                },
+                {
+                    "domain_id": "51891",
+                    "domain_value": "Liqueur of fruits"
+                },
+                {
+                    "domain_id": "51892",
+                    "domain_value": "Cola"
+                },
+                {
+                    "domain_id": "51893",
+                    "domain_value": "Cola, concentrate"
+                },
+                {
+                    "domain_id": "51894",
+                    "domain_value": "Milk of cocoa"
+                },
+                {
+                    "domain_id": "51895",
+                    "domain_value": "Condensed milk, sugared"
+                },
+                {
+                    "domain_id": "51896",
+                    "domain_value": "Skimmed milk (fresh, sour)"
+                },
+                {
+                    "domain_id": "51897",
+                    "domain_value": "Cream (sweet, sour)"
+                },
+                {
+                    "domain_id": "51898",
+                    "domain_value": "Apple puree"
+                },
+                {
+                    "domain_id": "51899",
+                    "domain_value": "Vegetable juice"
+                },
+                {
+                    "domain_id": "51900",
+                    "domain_value": "Unsaturated aqueous solution"
+                },
+                {
+                    "domain_id": "51901",
+                    "domain_value": "Concentration up to 25%"
+                },
+                {
+                    "domain_id": "51902",
+                    "domain_value": "Concentration up to 50%"
+                },
+                {
+                    "domain_id": "51903",
+                    "domain_value": "Unsaturated aqueous solution"
+                },
+                {
+                    "domain_id": "51904",
+                    "domain_value": "Concentration up to 10%"
+                },
+                {
+                    "domain_id": "51905",
+                    "domain_value": "Cooling water with cleaning balls"
+                },
+                {
+                    "domain_id": "51906",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51907",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51908",
+                    "domain_value": "Concentration up to 60%"
+                },
+                {
+                    "domain_id": "51909",
+                    "domain_value": "Benzyl chloride (alpha-Chloratoluene)"
+                },
+                {
+                    "domain_id": "51910",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51911",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51912",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51913",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51914",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51915",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51916",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51917",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51918",
+                    "domain_value": "Frigen 11 (Freon 11)"
+                },
+                {
+                    "domain_id": "51919",
+                    "domain_value": "Frigen 12 (Freon 12)"
+                },
+                {
+                    "domain_id": "51920",
+                    "domain_value": "Frigen 22 (Freon 22)"
+                },
+                {
+                    "domain_id": "51921",
+                    "domain_value": "Frigen 502 (Freon 502)"
+                },
+                {
+                    "domain_id": "51922",
+                    "domain_value": "Styrene (Vinylbenzene)"
+                },
+                {
+                    "domain_id": "51923",
+                    "domain_value": "Chlorobenzene (Monochlorobenzene)"
+                },
+                {
+                    "domain_id": "51924",
+                    "domain_value": "1,2-Dichloropropane (Propylene dichloride)"
+                },
+                {
+                    "domain_id": "51925",
+                    "domain_value": "Methylcyclohexane (Hexahydrotoluene)"
+                },
+                {
+                    "domain_id": "51926",
+                    "domain_value": "Methylethylketone (2-Butanone)"
+                },
+                {
+                    "domain_id": "51927",
+                    "domain_value": "Methylisobutylketone (4-Methyl-2-Pentanone)"
+                },
+                {
+                    "domain_id": "51928",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51929",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51930",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51931",
+                    "domain_value": "n-Propylamine (1-Aminopropane)"
+                },
+                {
+                    "domain_id": "51932",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51933",
+                    "domain_value": "Brewing yeast (propagation)"
+                },
+                {
+                    "domain_id": "51934",
+                    "domain_value": "Hops (brewery)"
+                },
+                {
+                    "domain_id": "51935",
+                    "domain_value": "Beer trub (brewery)"
+                },
+                {
+                    "domain_id": "51936",
+                    "domain_value": "Liqueur with egg yolks"
+                },
+                {
+                    "domain_id": "51937",
+                    "domain_value": "Herbal liqueur up to 50 % alcohol content"
+                },
+                {
+                    "domain_id": "51938",
+                    "domain_value": "Sparkling wine"
+                },
+                {
+                    "domain_id": "51939",
+                    "domain_value": "Plant juice (sap) with 24% ethanol"
+                },
+                {
+                    "domain_id": "51940",
+                    "domain_value": "Lemonade"
+                },
+                {
+                    "domain_id": "51941",
+                    "domain_value": "Orange juice"
+                },
+                {
+                    "domain_id": "51942",
+                    "domain_value": "Pressed plant juice"
+                },
+                {
+                    "domain_id": "51943",
+                    "domain_value": "Sweet permeate (milk)"
+                },
+                {
+                    "domain_id": "51944",
+                    "domain_value": "Concentrated milk (15 % dry matter)"
+                },
+                {
+                    "domain_id": "51945",
+                    "domain_value": "Apricot pulp with 40% water"
+                },
+                {
+                    "domain_id": "51946",
+                    "domain_value": "Egg (liquid)"
+                },
+                {
+                    "domain_id": "51947",
+                    "domain_value": "Concentration up to 35%"
+                },
+                {
+                    "domain_id": "51948",
+                    "domain_value": "Concentration up to 20%"
+                },
+                {
+                    "domain_id": "51949",
+                    "domain_value": "Concentration up to 30%"
+                },
+                {
+                    "domain_id": "51950",
+                    "domain_value": "Sweetening-off filtrate from the plate filter (sugar)"
+                },
+                {
+                    "domain_id": "51951",
+                    "domain_value": "Sweetening-off filtrate from the press filter (sugar)"
+                },
+                {
+                    "domain_id": "51952",
+                    "domain_value": "Sweetening-off condensate (sugar)"
+                },
+                {
+                    "domain_id": "51953",
+                    "domain_value": "Pre-coat suspension (sugar)"
+                },
+                {
+                    "domain_id": "51954",
+                    "domain_value": "Bruckner wash water (sugar), solids up to max. 2 g/l"
+                },
+                {
+                    "domain_id": "51955",
+                    "domain_value": "Bruckner wash water (sugar), solids up to max. 4 g/l"
+                },
+                {
+                    "domain_id": "51956",
+                    "domain_value": "Thick juice (sugar)"
+                },
+                {
+                    "domain_id": "51957",
+                    "domain_value": "Thin juice 1 (sugar)"
+                },
+                {
+                    "domain_id": "51958",
+                    "domain_value": "Thin juice 2 (sugar)"
+                },
+                {
+                    "domain_id": "51959",
+                    "domain_value": "Defoamer juice (sugar)"
+                },
+                {
+                    "domain_id": "51960",
+                    "domain_value": "Extraction water (sugar)"
+                },
+                {
+                    "domain_id": "51961",
+                    "domain_value": "Limed juice (sugar)"
+                },
+                {
+                    "domain_id": "51962",
+                    "domain_value": "Clairce, filtered (sugar)"
+                },
+                {
+                    "domain_id": "51963",
+                    "domain_value": "Clairce, unfiltered (sugar)"
+                },
+                {
+                    "domain_id": "51964",
+                    "domain_value": "Classified juice, juice extraction (sugar)"
+                },
+                {
+                    "domain_id": "51965",
+                    "domain_value": "Classified juice, juice clarification (sugar)"
+                },
+                {
+                    "domain_id": "51966",
+                    "domain_value": "Mixed juice (sugar cane)"
+                },
+                {
+                    "domain_id": "51967",
+                    "domain_value": "Middle juice (sugar)"
+                },
+                {
+                    "domain_id": "51968",
+                    "domain_value": "Press water (sugar)"
+                },
+                {
+                    "domain_id": "51969",
+                    "domain_value": "Raw juice (sugar)"
+                },
+                {
+                    "domain_id": "51970",
+                    "domain_value": "Beet mud water, solids up to max. 4 g/l"
+                },
+                {
+                    "domain_id": "51971",
+                    "domain_value": "Beet mud water, solids up to max. 12 g/l"
+                },
+                {
+                    "domain_id": "51972",
+                    "domain_value": "Cossette-juice mixture (sugar)"
+                },
+                {
+                    "domain_id": "51973",
+                    "domain_value": "Backflush juice 1 (Sugar)"
+                },
+                {
+                    "domain_id": "51974",
+                    "domain_value": "Backflush juice 2 (Sugar)"
+                },
+                {
+                    "domain_id": "51975",
+                    "domain_value": "Carbonation juice 1 (sugar)"
+                },
+                {
+                    "domain_id": "51976",
+                    "domain_value": "Carbonation juice 2 (sugar)"
+                },
+                {
+                    "domain_id": "51977",
+                    "domain_value": "Carbonatation juice concentrate 1 (sugar)"
+                },
+                {
+                    "domain_id": "51978",
+                    "domain_value": "Carbonatation juice concentrate 2 (sugar)"
+                },
+                {
+                    "domain_id": "51979",
+                    "domain_value": "Circulation juice (sugar)"
+                },
+                {
+                    "domain_id": "51980",
+                    "domain_value": "without further specification"
+                },
+                {
+                    "domain_id": "51981",
+                    "domain_value": "Sulfite waste lye containing solids up to max. 120 °C"
+                },
+                {
+                    "domain_id": "51982",
+                    "domain_value": "Solution containing solids up to max. 120 °C"
+                },
+                {
+                    "domain_id": "51983",
+                    "domain_value": "Chromic dioxide (chromium-IV-oxide)"
+                },
+                {
+                    "domain_id": "51984",
+                    "domain_value": "Therminol 59"
+                },
+                {
+                    "domain_id": "51985",
+                    "domain_value": "Therminol 68"
+                },
+                {
+                    "domain_id": "51986",
+                    "domain_value": "Therminol D12"
+                },
+                {
+                    "domain_id": "51987",
+                    "domain_value": "Ethanol 95 %"
+                },
+                {
+                    "domain_id": "51988",
+                    "domain_value": "Caffeine crystals (liquid)"
+                },
+                {
+                    "domain_id": "51989",
+                    "domain_value": "Malt"
+                },
+                {
+                    "domain_id": "51990",
+                    "domain_value": "Ultra-pure water (pharmacy)"
+                },
+                {
+                    "domain_id": "51991",
+                    "domain_value": "Water for injection (pharmacy)"
+                },
+                {
+                    "domain_id": "51992",
+                    "domain_value": "Antifrogen N, concentration 34%"
+                },
+                {
+                    "domain_id": "51993",
+                    "domain_value": "Antifrogen N, concentration 39%"
+                },
+                {
+                    "domain_id": "51994",
+                    "domain_value": "Antifrogen N, concentration 44%"
+                },
+                {
+                    "domain_id": "51995",
+                    "domain_value": "Antifrogen N, concentration 46%"
+                },
+                {
+                    "domain_id": "51996",
+                    "domain_value": "Antifrogen N, concentration 52%"
+                },
+                {
+                    "domain_id": "51997",
+                    "domain_value": "Antifrogen N, concentration 53%"
+                },
+                {
+                    "domain_id": "51998",
+                    "domain_value": "Antifrogen N, concentration 55%"
+                },
+                {
+                    "domain_id": "51999",
+                    "domain_value": "Antifrogen N, concentration 56%"
+                },
+                {
+                    "domain_id": "52000",
+                    "domain_value": "Antifrogen N, concentration 60%"
+                },
+                {
+                    "domain_id": "52001",
+                    "domain_value": "Ballast water"
+                },
+                {
+                    "domain_id": "52002",
+                    "domain_value": "Temper-10"
+                },
+                {
+                    "domain_id": "52003",
+                    "domain_value": "Temper-20"
+                },
+                {
+                    "domain_id": "52004",
+                    "domain_value": "Temper-30"
+                },
+                {
+                    "domain_id": "52005",
+                    "domain_value": "Temper-40"
+                },
+                {
+                    "domain_id": "59999",
+                    "domain_value": "Not assigned"
+                },
+                {
+                    "domain_id": "60000",
+                    "domain_value": "Mobiltherm 611"
+                },
+                {
+                    "domain_id": "99999",
+                    "domain_value": "99999"
+                },
+                {
+                    "domain_id": "60001",
+                    "domain_value": "MIDEL 7131"
+                },
+                {
+                    "domain_id": "60002",
+                    "domain_value": "Invert sugar"
+                },
+                {
+                    "domain_id": "60003",
+                    "domain_value": "Coca Cola syrup concentrate"
+                },
+                {
+                    "domain_id": "60004",
+                    "domain_value": "Fanta syrup concentrate"
+                },
+                {
+                    "domain_id": "60005",
+                    "domain_value": "Milk cream (30%)"
+                },
+                {
+                    "domain_id": "60006",
+                    "domain_value": "Milk cream (35%)"
+                },
+                {
+                    "domain_id": "60007",
+                    "domain_value": "Milk cream (45%)"
+                },
+                {
+                    "domain_id": "60008",
+                    "domain_value": "Milk cream (50%)"
+                },
+                {
+                    "domain_id": "60009",
+                    "domain_value": "Whey"
+                },
+                {
+                    "domain_id": "60010",
+                    "domain_value": "Yoghurt"
+                },
+                {
+                    "domain_id": "60011",
+                    "domain_value": "Yoghurt drinks"
+                },
+                {
+                    "domain_id": "60012",
+                    "domain_value": "Yoghurt with fruit pieces"
+                },
+                {
+                    "domain_id": "60013",
+                    "domain_value": "Baby food"
+                },
+                {
+                    "domain_id": "60014",
+                    "domain_value": "Caramel"
+                },
+                {
+                    "domain_id": "60015",
+                    "domain_value": "Chicken soup"
+                },
+                {
+                    "domain_id": "60016",
+                    "domain_value": "Cocoa butter"
+                },
+                {
+                    "domain_id": "60017",
+                    "domain_value": "Coconut oil"
+                },
+                {
+                    "domain_id": "60018",
+                    "domain_value": "Cottage cheese"
+                },
+                {
+                    "domain_id": "60019",
+                    "domain_value": "Egg white concentrate"
+                },
+                {
+                    "domain_id": "60020",
+                    "domain_value": "Fish oil"
+                },
+                {
+                    "domain_id": "60021",
+                    "domain_value": "Fish sauce concentrate"
+                },
+                {
+                    "domain_id": "60022",
+                    "domain_value": "Margarine"
+                },
+                {
+                    "domain_id": "60023",
+                    "domain_value": "Mayonnaise"
+                },
+                {
+                    "domain_id": "60024",
+                    "domain_value": "Meat extract"
+                },
+                {
+                    "domain_id": "60025",
+                    "domain_value": "Melted butter"
+                },
+                {
+                    "domain_id": "60026",
+                    "domain_value": "Melted cheese"
+                },
+                {
+                    "domain_id": "60027",
+                    "domain_value": "Melted fat"
+                },
+                {
+                    "domain_id": "60028",
+                    "domain_value": "Minced meat"
+                },
+                {
+                    "domain_id": "60029",
+                    "domain_value": "Olive paste"
+                },
+                {
+                    "domain_id": "60030",
+                    "domain_value": "Pesto"
+                },
+                {
+                    "domain_id": "60031",
+                    "domain_value": "Potato puree"
+                },
+                {
+                    "domain_id": "60032",
+                    "domain_value": "Soya milk"
+                },
+                {
+                    "domain_id": "60033",
+                    "domain_value": "Soya sauce"
+                },
+                {
+                    "domain_id": "60034",
+                    "domain_value": "Tomato concentrate"
+                },
+                {
+                    "domain_id": "60035",
+                    "domain_value": "Tomato cream"
+                },
+                {
+                    "domain_id": "60036",
+                    "domain_value": "Vegetable fat"
+                },
+                {
+                    "domain_id": "60037",
+                    "domain_value": "Vegetable oil"
+                },
+                {
+                    "domain_id": "60038",
+                    "domain_value": "Egg (liquid)"
+                },
+                {
+                    "domain_id": "60039",
+                    "domain_value": "Bakery custard"
+                },
+                {
+                    "domain_id": "60040",
+                    "domain_value": "Bakery paste"
+                },
+                {
+                    "domain_id": "60041",
+                    "domain_value": "Chocolate"
+                },
+                {
+                    "domain_id": "60042",
+                    "domain_value": "Chocolate coat"
+                },
+                {
+                    "domain_id": "60043",
+                    "domain_value": "Cocoa"
+                },
+                {
+                    "domain_id": "60044",
+                    "domain_value": "Coconut juice"
+                },
+                {
+                    "domain_id": "60045",
+                    "domain_value": "Cookie pastery"
+                },
+                {
+                    "domain_id": "60046",
+                    "domain_value": "Egg white"
+                },
+                {
+                    "domain_id": "60047",
+                    "domain_value": "Egg yolk"
+                },
+                {
+                    "domain_id": "60048",
+                    "domain_value": "Egg yolk + sugar"
+                },
+                {
+                    "domain_id": "60049",
+                    "domain_value": "Gelantine"
+                },
+                {
+                    "domain_id": "60050",
+                    "domain_value": "Honey"
+                },
+                {
+                    "domain_id": "60051",
+                    "domain_value": "Ice cream"
+                },
+                {
+                    "domain_id": "60052",
+                    "domain_value": "Icing"
+                },
+                {
+                    "domain_id": "60053",
+                    "domain_value": "Jam"
+                },
+                {
+                    "domain_id": "60054",
+                    "domain_value": "Kephir"
+                },
+                {
+                    "domain_id": "60055",
+                    "domain_value": "Ketchup"
+                },
+                {
+                    "domain_id": "60056",
+                    "domain_value": "Maize porridge"
+                },
+                {
+                    "domain_id": "60057",
+                    "domain_value": "Malt extract"
+                },
+                {
+                    "domain_id": "60058",
+                    "domain_value": "Malt syrup"
+                },
+                {
+                    "domain_id": "60059",
+                    "domain_value": "Marzipan"
+                },
+                {
+                    "domain_id": "60060",
+                    "domain_value": "Mascarpone cream"
+                },
+                {
+                    "domain_id": "60061",
+                    "domain_value": "Meat sauce"
+                },
+                {
+                    "domain_id": "60062",
+                    "domain_value": "Molasses"
+                },
+                {
+                    "domain_id": "60063",
+                    "domain_value": "Mustard"
+                },
+                {
+                    "domain_id": "60064",
+                    "domain_value": "Pectin"
+                },
+                {
+                    "domain_id": "60065",
+                    "domain_value": "Risotto"
+                },
+                {
+                    "domain_id": "60066",
+                    "domain_value": "Starch"
+                },
+                {
+                    "domain_id": "60067",
+                    "domain_value": "Tomate triple concentrate"
+                },
+                {
+                    "domain_id": "60068",
+                    "domain_value": "Tomato juice"
+                },
+                {
+                    "domain_id": "60069",
+                    "domain_value": "Tomato paste"
+                },
+                {
+                    "domain_id": "60070",
+                    "domain_value": "Tomato pulp"
+                },
+                {
+                    "domain_id": "60071",
+                    "domain_value": "Tomato purree"
+                },
+                {
+                    "domain_id": "60072",
+                    "domain_value": "Tomato sauce"
+                },
+                {
+                    "domain_id": "60073",
+                    "domain_value": "Vinegar"
+                },
+                {
+                    "domain_id": "60074",
+                    "domain_value": "Whole eggs"
+                },
+                {
+                    "domain_id": "60075",
+                    "domain_value": "Yeast"
+                },
+                {
+                    "domain_id": "60076",
+                    "domain_value": "Fruit jelly"
+                },
+                {
+                    "domain_id": "60077",
+                    "domain_value": "Melon jam"
+                },
+                {
+                    "domain_id": "60078",
+                    "domain_value": "Strawberries jam"
+                },
+                {
+                    "domain_id": "60079",
+                    "domain_value": "Bechamel sauce"
+                },
+                {
+                    "domain_id": "60080",
+                    "domain_value": "Corn syrup"
+                },
+                {
+                    "domain_id": "60081",
+                    "domain_value": "Maltodextrine"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "SPCFCTN_ACCRDNG_CSTMR_RQST",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Specification according to customers request",
+            "domain_values": [
+                {
+                    "domain_id": "BASF",
+                    "domain_value": "BASF"
+                },
+                {
+                    "domain_id": "WILO",
+                    "domain_value": "WILO"
+                },
+                {
+                    "domain_id": "WO",
+                    "domain_value": "without"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "DRV_STNDRD_ELCTRC",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Drive standard electric",
+            "domain_values": [
+                {
+                    "domain_id": "IEC",
+                    "domain_value": "IEC"
+                },
+                {
+                    "domain_id": "NEMA",
+                    "domain_value": "NEMA"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "FREE_PSSGW_MIN_SPC",
+            "type": "Number",
+            "unit_id": "mm",
+            "unit_group_id": "Length",
+            "title": "Minimum free passage specified",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "RTTNL_SPD_RNG_DRV_MIN",
+            "type": "Number",
+            "unit_id": "1/min",
+            "unit_group_id": "Speed of Rotation",
+            "title": "Minimum rotational speed range Drive",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "STN_HDRLC_ACCPTNC",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Standard Hydraulic acceptance inspection/test",
+            "domain_values": [
+                {
+                    "domain_id": "HI14_6",
+                    "domain_value": "ANSI/HI 14.6"
+                },
+                {
+                    "domain_id": "ISO9906",
+                    "domain_value": "DIN EN ISO 9906"
+                },
+                {
+                    "domain_id": "WO",
+                    "domain_value": "without"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "FXD_SPD_SPC",
+            "type": "Number",
+            "unit_id": "1/min",
+            "unit_group_id": "Speed of Rotation",
+            "title": "Fixed speed specified by customer",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "PUMP_STNDRD",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Pump standard",
+            "domain_values": [
+                {
+                    "domain_id": "EN733",
+                    "domain_value": "EN 733"
+                },
+                {
+                    "domain_id": "WO",
+                    "domain_value": "without"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "NMNL_PRSSR_HDRLC_CSNG",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Nominal pressure Hydr casing",
+            "domain_values": [
+                {
+                    "domain_id": "CL0125",
+                    "domain_value": "CL 125"
+                },
+                {
+                    "domain_id": "CL0150",
+                    "domain_value": "CL 150"
+                },
+                {
+                    "domain_id": "PN010",
+                    "domain_value": "PN 10"
+                },
+                {
+                    "domain_id": "PN016",
+                    "domain_value": "PN 16"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "PRTCTN_CLSS_MTR",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Enclosure Motor",
+            "domain_values": [
+                {
+                    "domain_id": "IP55",
+                    "domain_value": "IP55 (TEFC)"
+                },
+                {
+                    "domain_id": "IP55W",
+                    "domain_value": "IP55W"
+                },
+                {
+                    "domain_id": "IP68",
+                    "domain_value": "IP68"
+                },
+                {
+                    "domain_id": "TEFC",
+                    "domain_value": "TEFC"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "ACTV_HDRLC_CMPNNT",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Active hydraulic component",
+            "domain_values": [
+                {
+                    "domain_id": "RCM",
+                    "domain_value": "Closed rad multi-channel imp"
+                },
+                {
+                    "domain_id": "ROM",
+                    "domain_value": "Open radial multi-channel imp"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "PRS_MAX_CSNG_DSCHRG_SD_AL_TSG",
+            "type": "Number",
+            "unit_id": "bar",
+            "unit_group_id": "Pressure",
+            "title": "Maximum allowable discharge-side nominal casing pressure Type series generation",
+            "domain_values": [
+                {
+                    "domain_id": "16",
+                    "domain_value": "16"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "BPSS",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "bypass",
+            "domain_values": [
+                {
+                    "domain_id": "0",
+                    "domain_value": "No"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "CNNCTN_STNDRD_OTLT",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Connection standard outlet",
+            "domain_values": [
+                {
+                    "domain_id": "EN1092_1",
+                    "domain_value": "EN1092-1"
+                },
+                {
+                    "domain_id": "EN1092_2",
+                    "domain_value": "EN1092-2"
+                },
+                {
+                    "domain_id": "EN1092_3",
+                    "domain_value": "EN1092-3"
+                },
+                {
+                    "domain_id": "WO",
+                    "domain_value": "without"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "DRV_CNCPT",
+            "type": "Char",
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Drive concept",
+            "domain_values": [
+                {
+                    "domain_id": "COM",
+                    "domain_value": "Combustion engine"
+                },
+                {
+                    "domain_id": "ELE",
+                    "domain_value": "with electric actuator"
+                }
+            ],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "TRGT_DSCHRG_HEAD",
+            "type": "Number",
+            "unit_id": "m",
+            "unit_group_id": "Head",
+            "title": "Target head",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "RTTNL_SPD_RNG_DRV_MAX",
+            "type": "Number",
+            "unit_id": "1/min",
+            "unit_group_id": "Speed of Rotation",
+            "title": "Maximum rotational speed range Drive",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "NPSH_AVLBL",
+            "type": "Number",
+            "unit_id": "m",
+            "unit_group_id": "Head",
+            "title": "NPSH available",
+            "domain_values": [],
+            "feature_value_id": null,
+            "feature_value": null,
+            "visible": null
+        }
+    ]
+}

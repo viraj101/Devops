@@ -1,0 +1,50 @@
+{
+    "applicationWizardItems": [
+      {
+        "id": "process11",
+        "type": "process",
+        "title": "process11"
+      },
+      {
+        "id": "process12",
+        "type": "process",
+        "title": "process12"
+      },
+      {
+        "id": "process2",
+        "type": "process",
+        "title": "process2"
+      },
+      {
+        "id": "process3",
+        "type": "process",
+        "title": "process3"
+      },
+      {
+        "id": "process4",
+        "type": "process",
+        "title": "process4"
+      },
+      {
+        "id": "process5",
+        "type": "process",
+        "title": "process5"
+      },
+      {
+        "id": "process6",
+        "type": "process",
+        "title": "process6"
+      },
+      {
+        "id": "process7",
+        "type": "process",
+        "title": "process7"
+      },
+      {
+        "id": "process8",
+        "type": "process",
+        "title": "process8"
+      }
+    ]
+  }  
+  

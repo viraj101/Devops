@@ -1,0 +1,57 @@
+{
+    "lang": "en",
+    "features": [        
+        {
+            "feature_id": "NMNL_PRSSR_HDRLC_CSNG",
+            "type": null,
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Nominal pressure Hydr casing",
+            "domain_values": [
+                {
+                    "domain_id": "PN016",
+                    "domain_value": "PN 16"
+                },
+                {
+                    "domain_id": "PN040",
+                    "domain_value": "PN 40"
+                },
+                {
+                    "domain_id": "PN010",
+                    "domain_value": "PN 10"
+                },
+                {
+                    "domain_id": "PN025",
+                    "domain_value": "PN 25"
+                }
+            ],
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "TMP_FLD_SPC",
+            "type": null,
+            "unit_id": "°C",
+            "unit_group_id": null,
+            "title": "Specified fluid temperature",
+            "domain_values": [],
+            "feature_value": null,
+            "visible": null
+        },
+        {
+            "feature_id": "EXPLSN_PRTCTN_UNIT",
+            "type": null,
+            "unit_id": null,
+            "unit_group_id": null,
+            "title": "Explosion protection unit",
+            "domain_values": [
+                {
+                    "domain_id": "0",
+                    "domain_value": "No"
+                }
+            ],
+            "feature_value": null,
+            "visible": null
+        }
+    ]
+}

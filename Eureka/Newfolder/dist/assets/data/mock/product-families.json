@@ -1,0 +1,216 @@
+{
+  "id": 0,
+  "lang": "en",
+  "product_families": [
+    {
+      "id": "1",
+      "parent_id": null,
+      "title": "Pumpen",
+      "show_in_menu": false,
+      "quick_type_series_search": false,
+      "application_search": true,
+      "description": null,
+      "external_configurator": null
+    },
+    {
+      "id": "2",
+      "parent_id": null,
+      "title": "Armaturen",
+      "show_in_menu": false,
+      "quick_type_series_search": false,
+      "application_search": true,
+      "description": null,
+      "external_configurator": null
+    },
+    {
+      "id": "3",
+      "parent_id": null,
+      "title": "Mischer/Ruhrer",
+      "show_in_menu": false,
+      "quick_type_series_search": false,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "SYSTEM",
+      "parent_id": null,
+      "title": "Systeme",
+      "show_in_menu": false,
+      "quick_type_series_search": false,
+      "application_search": true,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "PUMPEN",
+      "parent_id": "1",
+      "title": "Pump",
+      "show_in_menu": false,
+      "quick_type_series_search": true,
+      "application_search": false,
+      "description": null,
+      "external_configurator": null
+    },
+    {
+      "id": "ARMATUREN",
+      "parent_id": "2",
+      "title": "Valve",
+      "show_in_menu": false,
+      "quick_type_series_search": true,
+      "application_search": false,
+      "description": null,
+      "external_configurator": null
+    },
+    {
+      "id": "WAWAPU",
+      "parent_id": "SYSTEM",
+      "title": "Wastewater pumping station",
+      "show_in_menu": false,
+      "quick_type_series_search": false,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "INSPCO",
+      "parent_id": "SYSTEM",
+      "title": "Integrated speed control system",
+      "show_in_menu": true,
+      "quick_type_series_search": false,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "SOSEPS",
+      "parent_id": "SYSTEM",
+      "title": "Solid separation system",
+      "show_in_menu": false,
+      "quick_type_series_search": false,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "WAWALU",
+      "parent_id": "SYSTEM",
+      "title": "Wastewater lifting system",
+      "show_in_menu": false,
+      "quick_type_series_search": false,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "HVAC",
+      "parent_id": "SYSTEM",
+      "title": "HVAC-System",
+      "show_in_menu": true,
+      "quick_type_series_search": false,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "MIX_STIRRER",
+      "parent_id": "3",
+      "title": "Mixer/Stirrer",
+      "show_in_menu": false,
+      "quick_type_series_search": false,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "VLV_ACTUATOR",
+      "parent_id": "ARMATUREN",
+      "title": "Valve actuator",
+      "show_in_menu": false,
+      "quick_type_series_search": true,
+      "application_search": false,
+      "description": null,
+      "external_configurator": null
+    },
+    {
+      "id": "RAHASY",
+      "parent_id": "SYSTEM",
+      "title": "Rainwater harvesting system",
+      "show_in_menu": false,
+      "quick_type_series_search": false,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "PMPSSTM",
+      "parent_id": "SYSTEM",
+      "title": "Pump system",
+      "show_in_menu": false,
+      "quick_type_series_search": false,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "MDLRS",
+      "parent_id": "SYSTEM",
+      "title": "Modular control and regulation system",
+      "show_in_menu": true,
+      "quick_type_series_search": false,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "FIFISY",
+      "parent_id": "SYSTEM",
+      "title": "Fire fighting system",
+      "show_in_menu": true,
+      "quick_type_series_search": false,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "PRBOUN",
+      "parent_id": "SYSTEM",
+      "title": "Pressure boosting system",
+      "show_in_menu": false,
+      "quick_type_series_search": false,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "SEWLIF",
+      "parent_id": "SYSTEM",
+      "title": "Sewage lifting station",
+      "show_in_menu": false,
+      "quick_type_series_search": false,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    },
+    {
+      "id": "VLV_ATMTN",
+      "parent_id": "ARMATUREN",
+      "title": "Valve automation",
+      "show_in_menu": false,
+      "quick_type_series_search": true,
+      "application_search": false,
+      "description": null,
+      "external_configurator": null
+    },
+    {
+      "id": "PMP_ATMTN",
+      "parent_id": "1",
+      "title": "Pump automation",
+      "show_in_menu": false,
+      "quick_type_series_search": true,
+      "application_search": false,
+      "description": null,
+      "external_configurator": "https://products.ksb.com/"
+    }
+  ]
+}
